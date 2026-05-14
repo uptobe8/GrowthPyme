@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<title>Quién es quién - Equipo</title>
+<style>
+:root{
+  --ink:#14151a;
+  --muted:#6d7280;
+  --paper:#fff8ef;
+  --panel:#ffffff;
+  --line:#1b1c21;
+  --hot:#ff4b8b;
+  --blue:#5d6cff;
+  --lime:#b7ff5c;
+  --yellow:#ffe066;
+  --shadow:7px 7px 0 #17181d;
+}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:radial-gradient(circle at 8% 10%,#fff0a6 0 110px,transparent 112px),radial-gradient(circle at 92% 8%,#ffd0e8 0 150px,transparent 152px),linear-gradient(135deg,#fff6dd,#ffd4eb 60%,#caff75);color:var(--ink)}
+body:before{content:"";position:fixed;inset:0;background:repeating-linear-gradient(45deg,rgba(255,255,255,.28) 0 9px,transparent 9px 23px);pointer-events:none}
+.app{position:relative;max-width:1440px;margin:0 auto;padding:22px 18px 34px}
+.hero{display:grid;grid-template-columns:1.05fr .95fr;gap:18px;align-items:stretch;margin-bottom:18px}
+.panel{background:rgba(255,255,255,.86);border:4px solid var(--line);box-shadow:var(--shadow);border-radius:18px;padding:18px;backdrop-filter:blur(8px)}
+h1{font-size:clamp(36px,6vw,76px);line-height:.86;margin:0;letter-spacing:-.075em;font-weight:1000}
+.subtitle{font-size:16px;line-height:1.35;color:#30323a;max-width:780px;margin:14px 0 0;font-weight:750}
+.controls{display:grid;gap:12px}
+.status{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.stat{background:#fff;border:3px solid var(--line);box-shadow:4px 4px 0 var(--line);border-radius:14px;padding:11px;text-align:center;font-weight:950}
+.stat span{display:block;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;margin-bottom:4px}
+.stat b{font-size:21px}
+.actions{display:flex;flex-wrap:wrap;gap:10px}
+button{border:3px solid var(--line);background:#fff;color:var(--ink);box-shadow:4px 4px 0 var(--line);border-radius:14px;padding:12px 14px;font-weight:950;text-transform:uppercase;letter-spacing:.02em;cursor:pointer}
+button.primary{background:var(--hot);color:#fff}
+button.good{background:var(--lime)}
+button.dark{background:#191b22;color:#fff}
+button:active{transform:translate(3px,3px);box-shadow:1px 1px 0 var(--line)}
+.questionBox{background:#fff;border:3px solid var(--line);border-radius:16px;padding:12px;box-shadow:4px 4px 0 var(--line)}
+.questionBox h2{font-size:17px;margin:0 0 9px;letter-spacing:-.03em}
+.questions{display:flex;flex-wrap:wrap;gap:8px}
+.questions button{font-size:12px;padding:9px 10px;border-radius:999px;box-shadow:none;background:#fff7d3}
+.answer{margin-top:10px;background:#191b22;color:white;border-radius:12px;padding:10px;font-size:15px;line-height:1.25;font-weight:850;min-height:42px}
+.board{display:grid;grid-template-columns:repeat(6,1fr);gap:13px}
+.card{position:relative;background:#fff;border:4px solid var(--line);box-shadow:5px 5px 0 var(--line);border-radius:18px;overflow:hidden;cursor:pointer;min-height:214px;display:flex;flex-direction:column;transition:transform .15s ease, opacity .15s ease, filter .15s ease}
+.card:hover{transform:translateY(-2px)}
+.card.down{opacity:.34;filter:grayscale(1)}
+.card.down:after{content:"DESCARTADO";position:absolute;inset:auto 10px 78px 10px;background:#191b22;color:#fff;text-align:center;padding:8px;border-radius:999px;font-size:12px;font-weight:1000;letter-spacing:.04em;transform:rotate(-8deg)}
+.avatar{height:142px;display:grid;place-items:center;border-bottom:4px solid var(--line);background:var(--bg)}
+.face{width:100px;height:112px;position:relative}
+.head{position:absolute;left:19px;top:18px;width:62px;height:72px;background:var(--skin);border:4px solid var(--line);border-radius:43% 43% 48% 48%;z-index:2}
+.hair{position:absolute;left:10px;top:6px;width:80px;height:58px;background:var(--hair);border:4px solid var(--line);border-radius:45px 45px 25px 25px;z-index:1}
+.hair.long:after{content:"";position:absolute;left:-5px;right:-5px;top:37px;height:55px;background:var(--hair);border:4px solid var(--line);border-top:0;border-radius:0 0 36px 36px;z-index:-1}
+.eye{position:absolute;top:42px;width:8px;height:8px;background:#15151a;border-radius:50%;z-index:4}.eye.l{left:37px}.eye.r{right:37px}
+.mouth{position:absolute;left:42px;top:65px;width:17px;height:9px;border-bottom:4px solid #15151a;border-radius:0 0 20px 20px;z-index:4}
+.glasses:before,.glasses:after{content:"";position:absolute;top:35px;width:21px;height:15px;border:3px solid #15151a;border-radius:8px;z-index:5;background:rgba(255,255,255,.18)}
+.glasses:before{left:25px}.glasses:after{right:25px}.glasses i{position:absolute;left:47px;top:42px;width:8px;height:3px;background:#15151a;z-index:6}
+.beard{position:absolute;left:27px;top:62px;width:47px;height:30px;background:var(--hair);border:3px solid var(--line);border-radius:12px 12px 28px 28px;z-index:3}.beard + .mouth{border-color:#fff;top:69px}
+.cap{position:absolute;left:15px;top:4px;width:72px;height:26px;background:var(--cap);border:4px solid var(--line);border-radius:24px 24px 8px 8px;z-index:6}.cap:after{content:"";position:absolute;right:-24px;top:8px;width:26px;height:10px;background:var(--cap);border:3px solid var(--line);border-left:0;border-radius:0 12px 12px 0}
+.body{position:absolute;left:11px;top:90px;width:78px;height:50px;background:var(--shirt);border:4px solid var(--line);border-radius:25px 25px 0 0;z-index:0}
+.initials{position:absolute;left:50%;top:76px;transform:translateX(-50%);z-index:8;background:#fff;border:3px solid var(--line);border-radius:999px;min-width:42px;height:30px;display:grid;place-items:center;font-size:13px;font-weight:1000;box-shadow:3px 3px 0 var(--line)}
+.info{padding:10px 10px 12px;display:grid;gap:6px;flex:1;background:#fff}
+.name{font-size:14px;line-height:1.05;font-weight:1000;letter-spacing:-.03em;min-height:31px}
+.tags{display:flex;flex-wrap:wrap;gap:4px}.tag{font-size:10px;font-weight:900;background:#f1f1f4;border:2px solid var(--line);border-radius:999px;padding:3px 6px}
+.secret{display:none;position:fixed;inset:0;background:rgba(20,21,26,.78);z-index:30;place-items:center;padding:18px}.secret.show{display:grid}
+.secretCard{background:#fff;border:5px solid var(--line);box-shadow:12px 12px 0 var(--line);border-radius:20px;padding:20px;max-width:420px;text-align:center}.secretCard h2{font-size:34px;line-height:.95;margin:0 0 8px;letter-spacing:-.05em}.secretCard p{font-size:18px;font-weight:900;margin:0 0 14px}
+.win{outline:7px solid #b7ff5c;transform:translateY(-2px)}
+@media(max-width:1050px){.hero{grid-template-columns:1fr}.board{grid-template-columns:repeat(4,1fr)}}
+@media(max-width:650px){.app{padding:12px 10px 26px}.panel{padding:13px;border-width:3px;box-shadow:5px 5px 0 var(--line)}.status{grid-template-columns:1fr 1fr 1fr}.stat{padding:8px}.stat b{font-size:17px}.board{grid-template-columns:repeat(2,1fr);gap:10px}.card{min-height:202px}.avatar{height:132px}button{padding:10px 12px;font-size:12px}.questions button{font-size:11px}.top-actions{bottom:8px;right:8px}.name{font-size:13px}}
+</style>
+</head>
+<body>
+<div class="app">
+  <section class="hero">
+    <div class="panel">
+      <h1>Quién es<br>quién</h1>
+      <p class="subtitle">Versión simulada con los nombres del grupo. El juego elige una persona secreta: haz preguntas, descarta tarjetas tocándolas y adivina antes de quedarte sin intentos.</p>
+    </div>
+    <div class="panel controls">
+      <div class="status">
+        <div class="stat"><span>Quedan</span><b id="leftCount">18</b></div>
+        <div class="stat"><span>Intentos</span><b id="tries">3</b></div>
+        <div class="stat"><span>Estado</span><b id="stateText">Jugando</b></div>
+      </div>
+      <div class="actions">
+        <button class="primary" id="newGame">Nueva partida</button>
+        <button class="good" id="reveal">Ver solución</button>
+        <button class="dark" id="undo">Reactivar todas</button>
+      </div>
+      <div class="questionBox">
+        <h2>Preguntas rápidas</h2>
+        <div class="questions" id="questions"></div>
+        <div class="answer" id="answer">Elige una pregunta. Si la respuesta es “sí”, conserva las tarjetas que cumplan esa pista; si es “no”, descártalas.</div>
+      </div>
+    </div>
+  </section>
+  <main class="board" id="board"></main>
+</div>
+<div class="secret" id="modal">
+  <div class="secretCard">
+    <h2 id="modalTitle">Solución</h2>
+    <p id="modalText"></p>
+    <div class="actions" style="justify-content:center"><button class="primary" id="closeModal">Cerrar</button><button class="good" id="modalNew">Nueva partida</button></div>
+  </div>
+</div>
+<script>
+const people = [
+  {name:'Ivan Fernandez Dominguez', traits:['gafas','pelo corto','fondo azul','camiseta azul']},
+  {name:'Aitor Ruano Pina', traits:['gorra','pelo corto','fondo gris','camiseta negra']},
+  {name:'Félix Álvarez Yanes', traits:['barba','pelo corto','fondo verde','camiseta morada']},
+  {name:'Karen Van Dael', traits:['gafas','pelo largo','fondo rosa','camiseta roja']},
+  {name:'Paola Nazaret Ortiz Aguilar', traits:['pelo largo','fondo amarillo','camiseta rosa']},
+  {name:'Anna Batlle Herrero', traits:['gafas','pelo largo','fondo gris','camiseta negra']},
+  {name:'Ester Vidal Núñez', traits:['pelo corto','fondo azul','camiseta amarilla']},
+  {name:'Laura Córdoba Olivares', traits:['gorra','pelo largo','fondo verde','camiseta azul']},
+  {name:'Alejandro Alegre Navarro', traits:['barba','pelo corto','fondo rosa','camiseta verde']},
+  {name:'Gerard Escolà Roig', traits:['gafas','barba','pelo corto','fondo amarillo','camiseta negra']},
+  {name:'Tomás (Técnico)', traits:['gorra','gafas','pelo corto','fondo azul','camiseta verde']},
+  {name:'Miguel Ibáñez Lorca', traits:['gafas','barba','pelo corto','fondo gris','camiseta azul']},
+  {name:'Pablo Martínez Álvarez', traits:['pelo corto','fondo verde','camiseta roja']},
+  {name:'Juan Francisco Ruiz Abad', traits:['barba','pelo corto','fondo amarillo','camiseta morada']},
+  {name:'Sharony Minely Ordóñez Rodríguez', traits:['gafas','pelo largo','fondo azul','camiseta rosa']},
+  {name:'Layla Hafi Zouni', traits:['gorra','pelo largo','fondo rosa','camiseta amarilla']},
+  {name:'Carlos Vega Hernandez', traits:['gafas','pelo corto','fondo verde','camiseta amarilla']},
+  {name:'Kelly Marie Louise Arlette Vaillant', traits:['pelo largo','fondo gris','camiseta morada']}
+];
+const palette = {
+  'fondo azul':'#b9d9ff','fondo gris':'#d8d8df','fondo verde':'#caff75','fondo rosa':'#ffc4e4','fondo amarillo':'#ffe88a',
+  'camiseta azul':'#5d6cff','camiseta negra':'#1f212a','camiseta morada':'#8a5cff','camiseta roja':'#ff4b6e','camiseta rosa':'#ff88c6','camiseta amarilla':'#ffe066','camiseta verde':'#55d66b'
+};
+const hairs = ['#201712','#6c3f22','#111318','#b56f35','#77717b'];
+const skins = ['#f3c49e','#e6aa78','#d49368','#f0d1b9','#b97a54'];
+let secret = null, attempts = 3;
+const board = document.getElementById('board');
+const leftCount = document.getElementById('leftCount');
+const tries = document.getElementById('tries');
+const stateText = document.getElementById('stateText');
+const answer = document.getElementById('answer');
+const modal = document.getElementById('modal');
+const modalText = document.getElementById('modalText');
+const modalTitle = document.getElementById('modalTitle');
+function initials(name){return name.split(/\s+/).filter(Boolean).slice(0,2).map(w=>w[0]).join('').toUpperCase()}
+function has(p,t){return p.traits.includes(t)}
+function bg(p){return palette[p.traits.find(t=>t.startsWith('fondo'))] || '#eee'}
+function shirt(p){return palette[p.traits.find(t=>t.startsWith('camiseta'))] || '#5d6cff'}
+function render(){
+  board.innerHTML='';
+  people.forEach((p,i)=>{
+    const card=document.createElement('article');
+    card.className='card'; card.dataset.name=p.name;
+    const hair = hairs[i%hairs.length], skin = skins[i%skins.length];
+    card.style.setProperty('--bg', bg(p)); card.style.setProperty('--hair', hair); card.style.setProperty('--skin', skin); card.style.setProperty('--shirt', shirt(p)); card.style.setProperty('--cap', shirt(p));
+    card.innerHTML=`<div class="avatar"><div class="face"><div class="body"></div><div class="hair ${has(p,'pelo largo')?'long':''}"></div><div class="head"></div>${has(p,'gorra')?'<div class="cap"></div>':''}${has(p,'barba')?'<div class="beard"></div>':''}${has(p,'gafas')?'<div class="glasses"><i></i></div>':''}<div class="eye l"></div><div class="eye r"></div><div class="mouth"></div><div class="initials">${initials(p.name)}</div></div></div><div class="info"><div class="name">${p.name}</div><div class="tags">${p.traits.slice(0,3).map(t=>`<span class="tag">${t}</span>`).join('')}</div></div>`;
+    card.addEventListener('click',()=>toggleCard(card));
+    board.appendChild(card);
+  });
+  updateStats();
+}
+function toggleCard(card){if(card.classList.contains('win'))return;card.classList.toggle('down');updateStats()}
+function updateStats(){leftCount.textContent=[...document.querySelectorAll('.card:not(.down)')].length;tries.textContent=attempts;}
+function newGame(){secret=people[Math.floor(Math.random()*people.length)];attempts=3;answer.textContent='Partida nueva. Haz una pregunta rápida o descarta tarjetas tocándolas.';modal.classList.remove('show');stateText.textContent='Jugando';render()}
+function showSolution(title='Solución'){modalTitle.textContent=title;modalText.textContent=secret.name;modal.classList.add('show');document.querySelectorAll('.card').forEach(c=>{c.classList.toggle('win',c.dataset.name===secret.name)})}
+function guess(card){if(card.dataset.name===secret.name){stateText.textContent='Ganado';showSolution('Correcto')}else{attempts--;tries.textContent=attempts;card.classList.add('down');answer.textContent='No era '+card.dataset.name+'. Te quedan '+attempts+' intentos.';if(attempts<=0){stateText.textContent='Perdido';showSolution('Has perdido')}}}
+function setupQuestions(){
+ const traits=[...new Set(people.flatMap(p=>p.traits))];
+ document.getElementById('questions').innerHTML=traits.map(t=>`<button data-trait="${t}">¿Tiene ${t}?</button>`).join('');
+ document.querySelectorAll('#questions button').forEach(b=>b.addEventListener('click',()=>{const t=b.dataset.trait;const yes=secret.traits.includes(t);answer.textContent=(yes?'Sí':'No')+': la persona secreta '+(yes?'tiene ':'no tiene ')+t+'.';}));
+}
+board.addEventListener('dblclick',e=>{const card=e.target.closest('.card');if(card)guess(card)});
+document.getElementById('newGame').onclick=newGame;
+document.getElementById('reveal').onclick=()=>showSolution('Solución');
+document.getElementById('undo').onclick=()=>{document.querySelectorAll('.card').forEach(c=>c.classList.remove('down','win'));updateStats();stateText.textContent='Jugando'};
+document.getElementById('closeModal').onclick=()=>modal.classList.remove('show');
+document.getElementById('modalNew').onclick=newGame;
+setupQuestions();newGame();
+</script>
+</body>
+</html>

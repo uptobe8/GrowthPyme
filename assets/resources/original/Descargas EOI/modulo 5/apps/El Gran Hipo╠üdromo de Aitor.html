@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Hipódromo de Aitor</title>
+<style>
+  :root {
+    --bg:#f7f1e8;
+    --ink:#271b16;
+    --muted:#7a665a;
+    --card:#fffaf2;
+    --line:#d7c5ae;
+    --green:#3c7a45;
+    --gold:#c8912f;
+    --red:#c44c45;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    background: radial-gradient(circle at top,#fffaf0 0,#f7f1e8 45%,#eadcc8 100%);
+    color:var(--ink); min-height:100vh; padding:20px;
+  }
+  .app{max-width:1050px;margin:0 auto}
+  .hero{display:grid;grid-template-columns:1fr 170px;gap:16px;align-items:center;margin-bottom:16px}
+  .panel{background:rgba(255,250,242,.92);border:1px solid var(--line);border-radius:22px;padding:18px;box-shadow:0 18px 50px rgba(77,50,24,.12)}
+  h1{font-size:clamp(30px,5vw,56px);line-height:.95;margin:0 0 8px;letter-spacing:-.05em}
+  .sub{margin:0;color:var(--muted);font-size:16px}
+  .teacher{text-align:center}
+  .teacher img{width:120px;height:120px;object-fit:cover;border-radius:50%;border:5px solid #fff;box-shadow:0 10px 30px rgba(0,0,0,.18)}
+  .badge{display:inline-block;margin-top:8px;background:#271b16;color:#fff;padding:7px 10px;border-radius:999px;font-size:12px;font-weight:800}
+  .controls{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:16px}
+  label{font-size:13px;font-weight:800;color:var(--muted);display:block;margin-bottom:5px}
+  select,input,button{width:100%;border:1px solid var(--line);border-radius:14px;padding:13px 14px;font-size:16px;background:#fff;color:var(--ink)}
+  button{border:0;background:linear-gradient(135deg,#241815,#725035);color:#fff;font-weight:900;cursor:pointer;box-shadow:0 12px 24px rgba(39,27,22,.18)}
+  button:disabled{opacity:.45;cursor:not-allowed}
+  .status{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between;margin-bottom:12px}
+  .pill{background:#fff;border:1px solid var(--line);border-radius:999px;padding:9px 13px;font-weight:800}
+  .track{position:relative;background:linear-gradient(90deg,#5d9d5d,#4c8c4f);border-radius:24px;overflow:hidden;padding:20px 18px 20px 18px;border:6px solid #8a613d;box-shadow:inset 0 0 0 4px rgba(255,255,255,.25)}
+  .finish{position:absolute;right:72px;top:0;bottom:0;width:10px;background:repeating-linear-gradient(45deg,#fff 0 10px,#111 10px 20px);box-shadow:0 0 0 2px rgba(0,0,0,.25)}
+  .lane{position:relative;height:62px;border-bottom:2px dashed rgba(255,255,255,.42)}
+  .lane:last-child{border-bottom:0}
+  .horse{position:absolute;left:0;top:10px;width:74px;height:40px;transition:left .08s linear;display:flex;align-items:center;gap:5px;font-size:32px;filter:drop-shadow(0 8px 6px rgba(0,0,0,.22))}
+  .horse small{font-size:12px;background:rgba(255,255,255,.88);border-radius:999px;padding:4px 7px;color:#271b16;font-weight:900;white-space:nowrap}
+  .leaderboard{margin-top:16px;display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:10px;text-align:center;font-weight:900;min-height:66px}
+  .card span{display:block;color:var(--muted);font-size:12px;font-weight:700;margin-top:3px}
+  .result{margin-top:16px;padding:18px;border-radius:20px;background:#fff;border:1px solid var(--line);font-size:20px;font-weight:900;text-align:center;display:none}
+  .result.win{background:#f2ffe8;border-color:#95c77f}
+  .result.lose{background:#fff1ef;border-color:#df9b93}
+  @media(max-width:760px){.hero{grid-template-columns:1fr}.teacher{display:flex;align-items:center;gap:12px;text-align:left}.teacher img{width:82px;height:82px}.controls{grid-template-columns:1fr}.leaderboard{grid-template-columns:1fr 1fr}body{padding:12px}}
+</style>
+</head>
+<body>
+<div class="app">
+  <section class="hero">
+    <div class="panel">
+      <h1>El Gran Hipódromo de Aitor 🏇</h1>
+      <p class="sub">Apuesta con monedas ficticias, elige caballo y que gane el mejor. Aitor supervisa la carrera como comisario oficial.</p>
+    </div>
+    <div class="panel teacher">
+      <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAeAB4AAD/4QLuRXhpZgAATU0AKgAAAAgABAE7AAIAAAAMAAABSodpAAQAAAABAAABVpydAAEAAAAYAAACzuocAAcAAAEMAAAAPgAAAAAc6gAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQW5uYSBCYXRsbGUAAAWQAwACAAAAFAAAAqSQBAACAAAAFAAAAriSkQACAAAAAzEyAACSkgACAAAAAzEyAADqHAAHAAABDAAAAZgAAAAAHOoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIwMjY6MDQ6MTMgMTg6MDQ6NDkAMjAyNjowNDoxMyAxODowNDo0OQAAAEEAbgBuAGEAIABCAGEAdABsAGwAZQAAAP/hBB5odHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+DQo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSJ1dWlkOmZhZjViZGQ1LWJhM2QtMTFkYS1hZDMxLWQzM2Q3NTE4MmYxYiIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIi8+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPjx4bXA6Q3JlYXRlRGF0ZT4yMDI2LTA0LTEzVDE4OjA0OjQ5LjExODwveG1wOkNyZWF0ZURhdGU+PC9yZGY6RGVzY3JpcHRpb24+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPjxkYzpjcmVhdG9yPjxyZGY6U2VxIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpsaT5Bbm5hIEJhdGxsZTwvcmRmOmxpPjwvcmRmOlNlcT4NCgkJCTwvZGM6Y3JlYXRvcj48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+PC94OnhtcG1ldGE+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg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" alt="Profesor como comisario de carrera">
+      <div class="badge">Aitor, comisario oficial</div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="controls">
+      <div>
+        <label for="betHorse">Caballo elegido</label>
+        <select id="betHorse"></select>
+      </div>
+      <div>
+        <label for="coins">Apuesta ficticia</label>
+        <input id="coins" type="number" min="1" max="100" value="10">
+      </div>
+      <div>
+        <label>&nbsp;</label>
+        <button id="startBtn">Empezar carrera</button>
+      </div>
+    </div>
+
+    <div class="status">
+      <div class="pill" id="message">Elige tu caballo favorito.</div>
+      <div class="pill" id="wallet">Bote ficticio: 100 monedas</div>
+    </div>
+
+    <div class="track" id="track">
+      <div class="finish"></div>
+    </div>
+
+    <div class="leaderboard" id="leaderboard"></div>
+    <div class="result" id="result"></div>
+  </section>
+</div>
+
+<script>
+const horses = [
+  { name:'Gerard Galopador', emoji:'🐎', pos:0, speed:0 },
+  { name:'Anna A Toda Brida', emoji:'🏇', pos:0, speed:0 },
+  { name:'Paola Pura Sangre', emoji:'🐴', pos:0, speed:0 },
+  { name:'Álex Turbo Trote', emoji:'🏇', pos:0, speed:0 },
+  { name:'Félix Foto-Finish', emoji:'🐎', pos:0, speed:0 },
+  { name:'Ester Estrella Ecuestre', emoji:'🐴', pos:0, speed:0 },
+  { name:'Laura La Yegua Relámpago', emoji:'🏇', pos:0, speed:0 }
+];
+let racing = false;
+let wallet = 100;
+let timer = null;
+
+const track = document.getElementById('track');
+const select = document.getElementById('betHorse');
+const startBtn = document.getElementById('startBtn');
+const message = document.getElementById('message');
+const walletEl = document.getElementById('wallet');
+const result = document.getElementById('result');
+const leaderboard = document.getElementById('leaderboard');
+
+horses.forEach((h,i)=>{
+  const opt = document.createElement('option');
+  opt.value = i;
+  opt.textContent = h.name;
+  select.appendChild(opt);
+
+  const lane = document.createElement('div');
+  lane.className = 'lane';
+  lane.innerHTML = `<div class="horse" id="horse-${i}"><span>${h.emoji}</span><small>${h.name}</small></div>`;
+  track.appendChild(lane);
+});
+
+function renderBoard(){
+  leaderboard.innerHTML = '';
+  [...horses].sort((a,b)=>b.pos-a.pos).forEach((h,idx)=>{
+    const card = document.createElement('div');
+    card.className='card';
+    card.innerHTML = `${idx+1}º ${h.name} <span>${Math.round(h.pos)}%</span>`;
+    leaderboard.appendChild(card);
+  });
+}
+renderBoard();
+
+function resetRace(){
+  horses.forEach((h,i)=>{
+    h.pos = 0;
+    h.speed = Math.random()*1.4 + .6;
+    document.getElementById(`horse-${i}`).style.left = '0%';
+  });
+  result.style.display='none';
+  result.className='result';
+  renderBoard();
+}
+
+function stepRace(){
+  horses.forEach((h,i)=>{
+    const burst = Math.random() < .12 ? Math.random()*3.2 : 0;
+    const hesitation = Math.random() < .08 ? -Math.random()*1.5 : 0;
+    h.pos += h.speed + Math.random()*1.9 + burst + hesitation;
+    h.pos = Math.max(0, Math.min(100, h.pos));
+    document.getElementById(`horse-${i}`).style.left = `calc(${h.pos}% - ${h.pos * .74}px)`;
+  });
+  renderBoard();
+  const winner = horses.find(h=>h.pos >= 100);
+  if(winner) finishRace(winner);
+}
+
+function finishRace(winner){
+  clearInterval(timer);
+  racing = false;
+  startBtn.disabled = false;
+  startBtn.textContent = 'Revancha';
+
+  const chosen = horses[Number(select.value)];
+  const coins = Math.max(1, Number(document.getElementById('coins').value || 1));
+  const won = chosen === winner;
+  wallet += won ? coins*3 : -coins;
+  wallet = Math.max(0, wallet);
+  walletEl.textContent = `Bote ficticio: ${wallet} monedas`;
+
+  result.style.display='block';
+  result.classList.add(won ? 'win' : 'lose');
+  result.innerHTML = won
+    ? `🎉 ¡Victoria! Ganó <b>${winner.name}</b>. Aitor aprueba esta apuesta.`
+    : `😅 Ganó <b>${winner.name}</b>. Tú apostaste por <b>${chosen.name}</b>. Aitor pide revancha.`;
+  message.textContent = won ? 'Apuesta ganadora.' : 'La próxima carrera será tuya.';
+}
+
+startBtn.addEventListener('click',()=>{
+  if(racing) return;
+  resetRace();
+  racing = true;
+  startBtn.disabled = true;
+  message.textContent = '¡Y arrancan los caballos!';
+  timer = setInterval(stepRace, 90);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,6221 @@
+WEBVTT
+
+00:24:48.000 --> 00:24:51.000
+No, eso no.
+
+00:24:51.000 --> 00:24:56.000
+En el otro grupo se han pegado todo el fin de semana montando eh C R M y cosas.
+
+00:24:56.000 --> 00:24:58.000
+En otro grupo deben de tener mucho tiempo libre.
+
+00:24:58.000 --> 00:24:59.000
+A escucha, ya te digo yo que no.
+
+00:24:59.000 --> 00:25:02.000
+O sea, yo yo no he montado nada nuevo, pero yo ya no puedo trabajar sin inteligencia artificial.
+
+00:25:02.000 --> 00:25:04.000
+Another issue.
+
+00:25:04.000 --> 00:25:10.000
+Ya es parte. Es como usar excel. Para mí es lo mismo.
+
+00:25:10.000 --> 00:25:16.000
+Es muy fuerte. Es muy fuerte y si tú no has probado a.
+
+00:25:16.000 --> 00:25:21.000
+con esto que te dije el otro día de la nueva versión y la de GPT.
+
+00:25:21.000 --> 00:25:25.000
+A subirle tu código de programación de la app y mejorarla con eso?
+
+00:25:25.000 --> 00:25:32.000
+Sabes que no, pero bueno, tuve un fin de semana medio complicado.
+
+00:25:32.000 --> 00:25:33.000
+Okay. Tienes el código descargado o no?
+
+00:25:33.000 --> 00:25:38.000
+Pero lo voy a probar.
+
+00:25:38.000 --> 00:25:44.000
+eh tengo el de, a ver. Ya te digo.
+
+00:25:44.000 --> 00:25:54.000
+Eh.
+
+00:25:54.000 --> 00:26:01.000
+Ehh. El de captura de pantalla a ese te refieres.
+
+00:26:01.000 --> 00:26:03.000
+A Pepe tuya?
+
+00:26:03.000 --> 00:26:11.000
+Ah. Pero la, la tengo como creao todavía, no, no.
+
+00:26:11.000 --> 00:26:13.000
+No te la has descargado? No, no has descargado el código?
+
+00:26:13.000 --> 00:26:22.000
+¿Cómo, cómo? No, es que no se acepta.
+
+00:26:22.000 --> 00:26:23.000
+No.
+
+00:26:23.000 --> 00:26:31.000
+Eso descargarlo pa, no sabes hacerlo? Enséñame eh si quieres entra y te guío y lo descargas y ya aprovechamos si quieres y podemos probar el tuyo para ver cómo lo mejora.
+
+00:26:31.000 --> 00:26:32.000
+si quieres. Hoy vamos a hablar de.
+
+00:26:32.000 --> 00:26:40.000
+Dale, sí. A ver, o sea, es un HTML, pero es de crea o eso es lo que no termino de entender.
+
+00:26:40.000 --> 00:26:48.000
+No, pero no es un HTML solo si te fijas cuando le das arriba a la derecha código creo que pone o a no a explorador de carpetas o.
+
+00:26:48.000 --> 00:26:52.000
+Eh espera crea o lo has hecho no. Un segundito.
+
+00:26:52.000 --> 00:26:56.000
+Sí.
+
+00:26:56.000 --> 00:27:00.000
+Todos los que tengan CRM que me lo pongan ahí me tienen.
+
+00:27:00.000 --> 00:27:06.000
+Si hay alguien que tenga. No recuerdo, un segundo, le dice que voy a entrar en un momento.
+
+00:27:06.000 --> 00:27:11.000
+Sí, sí.
+
+00:27:11.000 --> 00:27:17.000
+Creo que es arriba a la derecha, vienen con unas pestañitas, a ver.
+
+00:27:17.000 --> 00:27:24.000
+Lo voy a bajar primero. porque había hecho algunas mejoras y.
+
+00:27:24.000 --> 00:27:27.000
+Bueno, y quedaron ahí.
+
+00:27:27.000 --> 00:27:43.000
+Me la creo que es. A ver.
+
+00:27:43.000 --> 00:27:50.000
+vaya hasta aquí no tengo, me cago en la leche.
+
+00:27:50.000 --> 00:27:53.000
+Un minuto y empezamos.
+
+00:27:53.000 --> 00:27:55.000
+Ok.
+
+00:27:55.000 --> 00:28:03.000
+Aitor, lo que yo sí he escuchado este fin de semana en varios vídeos es hablando de de cloud.
+
+00:28:03.000 --> 00:28:12.000
+Y de la potencia que tiene cloud últimamente, o sea eh de hecho salía uno del estilo de esos que tú a veces pones.
+
+00:28:12.000 --> 00:28:18.000
+de os voy a enseñar en dos minutos como he conseguido hacer un agente.
+
+00:28:18.000 --> 00:28:27.000
+O todo un proceso de automatización que al principio me costaba dos meses, luego dos semanas y ahora en dos horas, o sea en en dos minutos lo he conseguido hacer.
+
+00:28:27.000 --> 00:28:28.000
+Y, y que es, eh, para programar que es.
+
+00:28:28.000 --> 00:28:32.000
+Correcto.
+
+00:28:32.000 --> 00:28:33.000
+El mejor puede ser probablemente. Seguro, probablemente que sí.
+
+00:28:33.000 --> 00:28:37.000
+La .
+
+00:28:37.000 --> 00:28:41.000
+Si sabes cuál es el problema que ve que al final.
+
+00:28:41.000 --> 00:28:49.000
+Ehm como. Esto, mira, esto es como la vida, ¿sabes? O sea, ahora mismo, por ejemplo, en una agencia de marketing no contratamos a nadie que se haga un máster de marketing en general.
+
+00:28:49.000 --> 00:28:57.000
+de marketing online, ¿vale? Pues vamos a uno que se que se hace uno deseo, que se hace uno de Google Ads, que se hace no sé qué, ¿vale? Y es especialista.
+
+00:28:57.000 --> 00:29:04.000
+aquí pasa igual, como no pueden ser ninguna en la mejor en todo, pues lo que están haciendo es, según van las carreteras.
+
+00:29:04.000 --> 00:29:08.000
+Van van poniendo el dinero ya en alguna vía para ser los mejores.
+
+00:29:08.000 --> 00:29:14.000
+¿Sabes? Entonces ellos han tirado al código porque era lo que más retrasados van el resto porque sí han tirado el resto a las imágenes a no sé qué a.
+
+00:29:14.000 --> 00:29:21.000
+a los informes a tal, ¿sabes? Entonces, ellos han tirado el código y yo creo que siempre han sido los mejores, ¿eh? Probablemente.
+
+00:29:21.000 --> 00:29:26.000
+Siempre han sido los mejores, estoy abriendo la presentación, a ver.
+
+00:29:26.000 --> 00:29:27.000
+Entonces. ¿El qué, qué?
+
+00:29:27.000 --> 00:29:34.000
+eh ahí te mantiene. Perdón, no, que ahí te mandé el link.
+
+00:29:34.000 --> 00:29:39.000
+de, de lo que me pediste. Sí, de la Pepe.
+
+00:29:39.000 --> 00:29:45.000
+Vale, estoy intentando entrar aquí en, a ver, un segundo.
+
+00:29:45.000 --> 00:29:48.000
+Nadie tiene CRM entonces, joder.
+
+00:29:48.000 --> 00:29:52.000
+Sí, ahí dice Sandra que tiene.
+
+00:29:52.000 --> 00:29:59.000
+¿Cuál tienes, Sandra tú?
+
+00:29:59.000 --> 00:30:00.000
+Pausan más de uno, Aitor, nosotros usamos más de un CRM.
+
+00:30:00.000 --> 00:30:02.000
+Y el resto nadie tiene.
+
+00:30:02.000 --> 00:30:04.000
+No, no uno solo. Tenemos más de un C R M nosotros en el trabajo.
+
+00:30:04.000 --> 00:30:09.000
+Como a más de uno.
+
+00:30:09.000 --> 00:30:11.000
+Pero de distintas plataformas. por.
+
+00:30:11.000 --> 00:30:17.000
+Sí. Porque te extraño?
+
+00:30:17.000 --> 00:30:21.000
+Hostia, la primera vez en mi vida que veo que una empresa tiene distintos C R M.
+
+00:30:21.000 --> 00:30:31.000
+Es que los inmobiliarios aparte que cada portal. Tú necesitas comunicar con cada portal ahora hay plataformas y C R M que comunican todos los portales.
+
+00:30:31.000 --> 00:30:32.000
+Hmm.
+
+00:30:32.000 --> 00:30:38.000
+Nosotros tenemos dos líneas de negocios tenemos un C R M para la acción interna del alquiler, un C R M para la gestión normal de la.
+
+00:30:38.000 --> 00:30:40.000
+De la agencia.
+
+00:30:40.000 --> 00:30:45.000
+Okay, porque igual se implementa uno y luego se implementa el otro, porque a lo mejor.
+
+00:30:45.000 --> 00:30:46.000
+Son brutos distintos, porque. No porque uno no vale para el otro.
+
+00:30:46.000 --> 00:30:50.000
+Una fusión de empresas o algo así. Ah, okey, okey, okey.
+
+00:30:50.000 --> 00:30:55.000
+Es decir, nosotros estamos para la gestión integral un CRM que nos lleve todo.
+
+00:30:55.000 --> 00:30:59.000
+Los alquileres lo la parte digamos de precio integral.
+
+00:30:59.000 --> 00:31:00.000
+Y y luego tenemos uno que se llama inmovida que es muy conocido en el sector.
+
+00:31:00.000 --> 00:31:04.000
+Sí.
+
+00:31:04.000 --> 00:31:12.000
+Que nos conecta con todo el mundo online por portales y gestiones varias, ¿vale?
+
+00:31:12.000 --> 00:31:15.000
+Okay, ¿y entre ellos tienen conexión o no?
+
+00:31:15.000 --> 00:31:17.000
+En no. No, de momento no.
+
+00:31:17.000 --> 00:31:25.000
+¿No? Pues mira. Pero porque no, no, no hace falta tener conexión.
+
+00:31:25.000 --> 00:31:27.000
+Eh porque son dos productos que son distintos digamos que.
+
+00:31:27.000 --> 00:31:30.000
+Yeah, son divisiones de empresa distinta y no tiene que haber ninguna conexión, ¿no?
+
+00:31:30.000 --> 00:31:38.000
+No, puede haberla tranquilamente, pero, es decir, el problema que los programas los hacen los informáticos.
+
+00:31:38.000 --> 00:31:49.000
+Entonces la zona como informáticos y no solo tenemos que adaptar a los informáticos, entonces nosotros tenemos hasta un CRM para acción integral y ha entrado otro que tiene inteligencia artificial que es bastante más friendly.
+
+00:31:49.000 --> 00:31:53.000
+Y estamos en la fase de cambio con el segundo en CRM.
+
+00:31:53.000 --> 00:31:56.000
+No tengo más pregunta señoría después de la palabra informática no tengo más.
+
+00:31:56.000 --> 00:31:58.000
+¿Preguntas. No, no, no, no, nada, nada más que afectar, señoría.
+
+00:31:58.000 --> 00:32:03.000
+Algo más? No, ¿verdad?
+
+00:32:03.000 --> 00:32:14.000
+Al final, eh. La empresa le da su uso y si a la empresa le vale suficiente y si no tiene que haber con eso no la hay vale lo que sí que tiene que haber es CRM hoy.
+
+00:32:14.000 --> 00:32:24.000
+Porque al final, digamos que tenemos tanta información y tenemos que controlar tanto el dato que tenerlo en Excel y cosas así, aunque seamos una pyme.
+
+00:32:24.000 --> 00:32:25.000
+Nosotros para trabajar abrimos siete ocho ventanas al día.
+
+00:32:25.000 --> 00:32:28.000
+Tienes CRM por 8 euros, ¿sabes? Sí, claro, claro, claro.
+
+00:32:28.000 --> 00:32:29.000
+Como te lo digo, porque si tú entras en el registro de la propiedad, tiene que entrar en el registro de la propiedad.
+
+00:32:29.000 --> 00:32:30.000
+Sí, sí. Correcto.
+
+00:32:30.000 --> 00:32:33.000
+Oh.
+
+00:32:33.000 --> 00:32:39.000
+Si entras en cada momento en catástro, entras en el cata mientras en los portales, entran distintas, en cada uno.
+
+00:32:39.000 --> 00:32:43.000
+Son estamentos públicos encima que cada sesión es única, o sea, es un coñazo que no veas, sí.
+
+00:32:43.000 --> 00:32:44.000
+No te lo imaginas y. Y cada uno te pone la factura en sus R M.
+
+00:32:44.000 --> 00:32:48.000
+que ellos. No, no, claro, claro, claro, claro.
+
+00:32:48.000 --> 00:32:50.000
+No te la manda, ¿sabes?
+
+00:32:50.000 --> 00:32:56.000
+No, no, no, no. Ah, Iván. Igual en Italia, pero aquí.
+
+00:32:56.000 --> 00:32:59.000
+No, no, no, esta es más complicado aún, ¿no?
+
+00:32:59.000 --> 00:33:00.000
+No te creas yo.
+
+00:33:00.000 --> 00:33:10.000
+No eh ellos tienen que hacer lo mismo tendrían que centralizar sabes o sea ellos sí que tienen un C R M para todos los estamentos o o es muy parecido por detrás está muy enganchado todo sabes porque tienen control de todo y todo está unido.
+
+00:33:10.000 --> 00:33:15.000
+Entonces al final podrían centralizarlo y que no tuviera un central a 30 sitios y que tú entraras en una plataforma y tener.
+
+00:33:15.000 --> 00:33:20.000
+Sabes todos los botones de nota simple, no sé qué, ¿sabes? O sea, todo, todo, todo, todo.
+
+00:33:20.000 --> 00:33:27.000
+Yo, yo yo estuve hablando con. Hace hace años te han pasado años con un C R M que ya no usamos con lo que estamos trabajando.
+
+00:33:27.000 --> 00:33:34.000
+Y le dije que tenía que crear un entorno donde todos los accesos que tiene un inmobiliario deberían estar a través de sus RM.
+
+00:33:34.000 --> 00:33:40.000
+Y me preguntó por qué tan difícil entrar en el catastro de forma independiente digo mira si yo tengo que explicártelo.
+
+00:33:40.000 --> 00:33:43.000
+Si nos vamos a explicar, perdemos el tiempo y así y así.
+
+00:33:43.000 --> 00:33:52.000
+y dile bueno puedes elegir entrar en el catastro o comprar un billete en la web de AVE, el de Renfe, lo que tú quieras, o sea, cualquiera de las dos cosas está como al mismo nivel.
+
+00:33:52.000 --> 00:34:01.000
+Y él lo maneja por detrás está como el mismo al fondo al fondo del todo sabes está el mismo y por el camino eh pone el pone la mano en los mismos sabes entre medias.
+
+00:34:01.000 --> 00:34:02.000
+Wow.
+
+00:34:02.000 --> 00:34:09.000
+Esto es lo que tienes esas web valen millones y millones de euros y esos terrenos valen millones y millones de euros sabes eso dónde está esa pasta para que no funcione bien?
+
+00:34:09.000 --> 00:34:14.000
+No puede ser, ¿sabes? O sea, en fin, eh, this is Spain, como dicen, ¿sabes?
+
+00:34:14.000 --> 00:34:15.000
+Bueno.
+
+00:34:15.000 --> 00:34:22.000
+¿Cuál tiene? 200 Esther, no joda que dice muchacha?
+
+00:34:22.000 --> 00:34:27.000
+¿Para qué quieres el CRM, Esther? Hoy vamos a hablar de esto, ¿vale? C R M.
+
+00:34:27.000 --> 00:34:32.000
+De la importancia y hacer uno. Estoy buscando de hecho un prom para mandároslo.
+
+00:34:32.000 --> 00:34:43.000
+Yo principalmente aitor. Lo uso para control de proveedores y de clientes. El problema es que para que me liegue Las Dos Cosas me piden una pasta.
+
+00:34:43.000 --> 00:34:48.000
+Para llevar proveedores y clientes, ¿sí? pero qué quieres meter dentro? O sea, entiéndeme tú cómo.
+
+00:34:48.000 --> 00:34:53.000
+Imagínate que son como paneles como exceles, ¿vale? Y puedes organizarlo como tú quieras, departamentos o tal. ¿cómo cómo querrías tener tú dentro de esto?
+
+00:34:53.000 --> 00:34:59.000
+Pero al final acaba siendo un poco caótico.
+
+00:34:59.000 --> 00:35:00.000
+Totalmente.
+
+00:35:00.000 --> 00:35:01.000
+Imposible.
+
+00:35:01.000 --> 00:35:12.000
+A ver es que necesito muchas cosas. O sea, necesito que me combine una serie de clientes con una serie de productos de diferentes proveedores.
+
+00:35:12.000 --> 00:35:17.000
+Vale y que me los de medio agrupados.
+
+00:35:17.000 --> 00:35:21.000
+Entonces luego igual.
+
+00:35:21.000 --> 00:35:28.000
+Sí, eso eso me pasa a mí, o sea.
+
+00:35:28.000 --> 00:35:30.000
+¿qué le vamos a hacer?
+
+00:35:30.000 --> 00:35:35.000
+Es que no voy a contestar, ya te lo digo.
+
+00:35:35.000 --> 00:35:44.000
+O sea, estás en el momento normal todos hemos pasado por ahí vale o sea no te agobies hoy hoy igual te alegro un poco, ¿vale? La vida estoy buscando el programa a ver qué.
+
+00:35:44.000 --> 00:35:47.000
+que hablo contigo porque.
+
+00:35:47.000 --> 00:35:51.000
+podéis tener un C R M propio chiquitito eso que tienes, ¿vale?
+
+00:35:51.000 --> 00:35:56.000
+donde tú puedas subir el Excel directamente que tú quieras.
+
+00:35:56.000 --> 00:36:00.000
+Y se automatiza todo o. Virguerías, vale, el otro día yo no os enseñé uno de.
+
+00:36:00.000 --> 00:36:03.000
+Y la intención de la prueba con el passport.
+
+00:36:03.000 --> 00:36:04.000
+Intenté hacer una prueba. Con el Hashpot.
+
+00:36:04.000 --> 00:36:05.000
+Okay?
+
+00:36:05.000 --> 00:36:11.000
+Vale. Y solamente le cargué los contactos de los clientes.
+
+00:36:11.000 --> 00:36:13.000
+Y ya se me bloqueó y me dijo que tenía que pagarlo.
+
+00:36:13.000 --> 00:36:15.000
+¿Sí? Está jodido.
+
+00:36:15.000 --> 00:36:19.000
+Doscientos Pavos.
+
+00:36:19.000 --> 00:36:20.000
+O sea lo .
+
+00:36:20.000 --> 00:36:24.000
+O sea, solo le carga ya. Pero yo quería hacer pruebas para ver si me sirve.
+
+00:36:24.000 --> 00:36:27.000
+Venga. Vale, pues tiro para adelante.
+
+00:36:27.000 --> 00:36:30.000
+Claro, pero escucha, tú para hacer una prueba con que suba 50 contactos ya te sobra, ¿eh?
+
+00:36:30.000 --> 00:36:38.000
+Claro. Pero como me dijo que se me metía en el en el mi en la base de datos, de los contactos y que los cargase, pues, yo le di a carga a todos.
+
+00:36:38.000 --> 00:36:44.000
+Y no había terminado cuando me dijo que para mí la perra Gor.
+
+00:36:44.000 --> 00:36:50.000
+Claro, lo normal, vamos, es una empresa privada que quiere que tiene que pagar un montón de miles de empleados, ¿sabes? O sea.
+
+00:36:50.000 --> 00:36:56.000
+Te quiere cobrar seguro, escucha, también te digo. Es como si.
+
+00:36:56.000 --> 00:37:03.000
+Hoy a pruebas el carnet de conducir y dice, va, voy a probar a conducir la primera vez en mi coche solo, voy a probarlo con un Ferrari.
+
+00:37:03.000 --> 00:37:06.000
+Vale, voy a probar con un Ferrari a ver qué pasa.
+
+00:37:06.000 --> 00:37:11.000
+El problema es que, eh, es como, eh, súper conocido, no sé qué, ¿vale?
+
+00:37:11.000 --> 00:37:17.000
+Para quedarse una idea, si vienen a instalártelo ellos profesionalmente, te cobran 15000 pavos, 15000 euros.
+
+00:37:17.000 --> 00:37:21.000
+Like, te das una idea, ¿vale? El nivel de C R M vale.
+
+00:37:21.000 --> 00:37:23.000
+Y ahora te vas a un C R M como.
+
+00:37:23.000 --> 00:37:29.000
+Yo qué sé, tú lo quieres para ti, además, un segundo que te voy a mirar el precio.
+
+00:37:29.000 --> 00:37:38.000
+es el que tengo yo además un segundo. Lo mínimo que te dan son tres usuarios, pero tienes el básico a.
+
+00:37:38.000 --> 00:37:40.000
+El problema es que tienes que pagar 3 usuarios, ¿vale? Mínimo.
+
+00:37:40.000 --> 00:37:41.000
+Vale.
+
+00:37:41.000 --> 00:37:45.000
+Pero lo tienes por veintisiete euros al mes que son tres usuarios.
+
+00:37:45.000 --> 00:37:47.000
+¿vale? Claro.
+
+00:37:47.000 --> 00:37:48.000
+Uno. Pero bueno, si eso es el mínimo, ese sería el.
+
+00:37:48.000 --> 00:37:56.000
+o incluso. Es el mínimo pero es que o sea ya por veintisiete euros es que vas ahora lo vamos a ver, vale.
+
+00:37:56.000 --> 00:37:59.000
+Y luego está todo aquel que. El Gelgue.
+
+00:37:59.000 --> 00:38:04.000
+Estoy intentando hacer una prueba con el b veinticuatro.
+
+00:38:04.000 --> 00:38:05.000
+y que, y qué tal?
+
+00:38:05.000 --> 00:38:15.000
+La acabo de abrirlo hace dos horas o sea, y estaba con otra cosa con lo cual no he abierto lo deja y me he ido a lo que estaba haciendo.
+
+00:38:15.000 --> 00:38:20.000
+Vale, vale, ok, yo lo que te aconsejo es que te vayas a algo como.
+
+00:38:20.000 --> 00:38:22.000
+Te explico.
+
+00:38:22.000 --> 00:38:25.000
+Hmm.
+
+00:38:25.000 --> 00:38:30.000
+Más eh. Conocido, vamos a llamarle.
+
+00:38:30.000 --> 00:38:39.000
+Vale, yo que sé, hay muchos, yo ahora te voy a explicar varios, ahí está Odu, está Zoho, está Monday.
+
+00:38:39.000 --> 00:38:43.000
+Está un montón. un montón, un montón de ellos, ¿vale?
+
+00:38:43.000 --> 00:38:44.000
+Mhm.
+
+00:38:44.000 --> 00:38:50.000
+Entonces, cuando. O sea no no necesitas más.
+
+00:38:50.000 --> 00:38:53.000
+te lo ponen visualmente muy atractivo para que lo podáis usar.
+
+00:38:53.000 --> 00:38:57.000
+Y yo he ayudado a una compi a, em.
+
+00:38:57.000 --> 00:39:00.000
+a, a, a crear uno con G P T.
+
+00:39:00.000 --> 00:39:05.000
+que te crea toda la estructura, además GPT ahora, por ejemplo, con Mondi, que es el que yo uso.
+
+00:39:05.000 --> 00:39:08.000
+Hay un conector que es cachondísimo porque le digo.
+
+00:39:08.000 --> 00:39:13.000
+En pone una nota este lead eh diciendo que voy a llamarle el día 18.
+
+00:39:13.000 --> 00:39:19.000
+O cámbia el segundo apellido a tal o borra esta columna, mete esta columna, ¿vale? Todo por GPT.
+
+00:39:19.000 --> 00:39:25.000
+Y directamente entra en Monday, entra en el panel correspondiente y me hace el cambio y me avisa que lo ha hecho y cuando voy está.
+
+00:39:25.000 --> 00:39:27.000
+Vale con un conector directo que hay en GPT.
+
+00:39:27.000 --> 00:39:37.000
+Entonces, claro, por 20 euros. Bueno, de hecho tienes una parte gratuita, ahora si queréis la vamos a ver, ¿vale? Porque Mondi, por ejemplo, tiene una parte gratuita para crear 2 paneles, imagínate.
+
+00:39:37.000 --> 00:39:42.000
+Proveedores y clientes. Vale, y eso es gratis, coste cero.
+
+00:39:42.000 --> 00:39:48.000
+0 euros y puedes conectarlo exactamente igual con GPT y usarlo exactamente igual, ¿vale?
+
+00:39:48.000 --> 00:39:53.000
+El problema es que cuando quieres tener una estructura un poco más grande, pues ya tienes que pagar, ¿vale? La las licencia de trenes, ¿vale?
+
+00:39:53.000 --> 00:39:58.000
+Pero son cosas como muy sencillas. Esto te da un montón de valor, ¿vale?
+
+00:39:58.000 --> 00:40:03.000
+Cuando os digo que podéis haceros el que no quiera pagar esto, uno vosotros mismos.
+
+00:40:03.000 --> 00:40:09.000
+es porque el otro día no volvimos aquí el de los caracoles.
+
+00:40:09.000 --> 00:40:15.000
+No, el otro día, ah pues sería y lo y lo haría en la otra clase, monté uno en directo aquí.
+
+00:40:15.000 --> 00:40:16.000
+que ahora os voy a pasar el prom, ¿vale?
+
+00:40:16.000 --> 00:40:17.000
+Yeah, I'm Montar uno.
+
+00:40:17.000 --> 00:40:19.000
+para una empresa. ¿El qué?
+
+00:40:19.000 --> 00:40:26.000
+Que mi idea era montar uno más que nada para poder hacerlo un poco de la manera que yo lo necesito.
+
+00:40:26.000 --> 00:40:27.000
+Entonces esa era mi idea. Pero claro.
+
+00:40:27.000 --> 00:40:29.000
+Claro, correcto, esa es la idea. Claro.
+
+00:40:29.000 --> 00:40:30.000
+No hay cosas que.
+
+00:40:30.000 --> 00:40:40.000
+Claro, lo que pasa que os voy a, os voy a pasar un documento a todos para que me firméis de que me vais a pagar 100 euros al mes todos.
+
+00:40:40.000 --> 00:40:46.000
+Por deciros cómo se hace porque tú vas a comprarlo y vale $3000, ¿sabes lo que te digo?
+
+00:40:46.000 --> 00:40:52.000
+la broma, el caje que lo cambias 200 sabes entonces ahora os paso un documentito, ¿vale?
+
+00:40:52.000 --> 00:40:59.000
+al mes de por vida es una cosa es como el sueldo de.
+
+00:40:59.000 --> 00:41:11.000
+Como no sabía de qué montarlo. Dije pues a ver de qué, pedí ideas GPT y me dijo, pues una empresa de distribución de caracoles. Digo, pues venga.
+
+00:41:11.000 --> 00:41:16.000
+Y entonces. Monte una empresa de distribución de caracoles, ¿vale?
+
+00:41:16.000 --> 00:41:24.000
+Cría y distribución de caracoles y. Fue montar un CRM para mi empresa, ¿vale?
+
+00:41:24.000 --> 00:41:32.000
+como no tenía documentos de datos, lo que hice fue pedirle a un GPT que me hiciera los Exceles, ¿vale? Para cargarlos en el CRM y que se vieran datos.
+
+00:41:32.000 --> 00:41:37.000
+Con el prom que os voy a mandar ahora para que lo ahora lo cambiamos y os hacéis vuestro CRM, ¿vale?
+
+00:41:37.000 --> 00:41:43.000
+se montó esto que os voy a enseñar.
+
+00:41:43.000 --> 00:41:49.000
+um.
+
+00:41:49.000 --> 00:41:54.000
+aquí lo veis.
+
+00:41:54.000 --> 00:41:57.000
+O sea, uno, vale.
+
+00:41:57.000 --> 00:42:04.000
+Alucina, ¿eh? O sea, ya ya no solo el C R M, ¿vale? Para mi empresa de caracoles, es la manera de mostrar los datos.
+
+00:42:04.000 --> 00:42:12.000
+Vale, tengo un árbol general con la facturación neta, los márgenes, cobros pendientes, el stock, ¿vale? Incidencias y demás, incluso la entrega media.
+
+00:42:12.000 --> 00:42:19.000
+ventas por mes, top clientes, vale, porque esto es todo el mundo que esté sentado, por favor, vale, si alguien está de pie porque no se desmaye.
+
+00:42:19.000 --> 00:42:21.000
+y se clave algo en la espalda, ¿vale? O en la cabeza.
+
+00:42:21.000 --> 00:42:25.000
+eh, todo esto, esto es por almacén porque además le he puesto que tenga dos almacenes, ¿vale?
+
+00:42:25.000 --> 00:42:34.000
+Esto de primeras, si me voy a clientes tengo aquí todos los clientes donde puedo incluso abrir la ficha de cliente y puedo editar la ficha de cliente, ¿vale? O sea, esto.
+
+00:42:34.000 --> 00:42:40.000
+Yo puedo guardar el cliente y ahora este cliente, si entro de nuevo, pues esto se le ha cambiado al 12, no se ha roto, ¿vale?
+
+00:42:40.000 --> 00:42:46.000
+con su facturación de cliente y demás. Por hostelería retail y demás, dependiendo incluso por las zonas, ¿vale?
+
+00:42:46.000 --> 00:42:50.000
+O buscarlo por código postal y demás. En los pedidos más de lo mismo, incluso.
+
+00:42:50.000 --> 00:42:56.000
+Me salta los vencimientos, los cobros y demás, y puedo editar el pedido, meterle más productos, menos productos, cambiar las fechas, etc, etc.
+
+00:42:56.000 --> 00:43:04.000
+Vale, y tengo todo el pipeline. En logística más de lo mismo, incluso los envíos visibles del tiempo medio.
+
+00:43:04.000 --> 00:43:10.000
+Con con todo esto tengo distintas empresas de transporte con lo que puedo ver los envíos que he hecho, etc, etc, ¿vale?
+
+00:43:10.000 --> 00:43:15.000
+y puedo ver lo que ha tardado cada una de las empresas de transporte, los kilos que ha llevado, el coste de logística.
+
+00:43:15.000 --> 00:43:18.000
+1 y toda la ruta que puedo editar y demás.
+
+00:43:18.000 --> 00:43:24.000
+Sino ir al stop, tengo todo el stock controlado, vale, sin ningún problema, igual que lo demás, me voy a cobros.
+
+00:43:24.000 --> 00:43:30.000
+En cobros tengo pues todo, ¿vale? Todos los vencimiento y para configuración.
+
+00:43:30.000 --> 00:43:39.000
+Puedo importar cada uno de los 3 Excel que son los que yo le he pedido a GPT que me haga, que uno es pedidos y clientes, envíos facturación y logística.
+
+00:43:39.000 --> 00:43:47.000
+Y otro el inventario, ¿vale? Incluso puedo resetear la app, puedo exportar todos los datos, puedo cargar los datos de una demo.
+
+00:43:47.000 --> 00:43:52.000
+Puedo meter un cliente nuevo, puedo meter un lote nuevo o puedo meter un pedido nuevo.
+
+00:43:52.000 --> 00:43:53.000
+Y con esto. pueden ir en paz.
+
+00:43:53.000 --> 00:43:57.000
+Lo quiero.
+
+00:43:57.000 --> 00:43:59.000
+Perdón, voy a haber agua.
+
+00:43:59.000 --> 00:44:06.000
+Solo falta facturación ya, ¿no?
+
+00:44:06.000 --> 00:44:07.000
+Yo. Sí.
+
+00:44:07.000 --> 00:44:08.000
+Escucha, ¿quién ha dicho eso? ¿Qué, Javier, ¿no? Ahora, mientras que vosotros os hacéis el vuestro?
+
+00:44:08.000 --> 00:44:12.000
+impuestos.
+
+00:44:12.000 --> 00:44:15.000
+Le meto yo la facturación a este. ¿Vale? Y después y después se la.
+
+00:44:15.000 --> 00:44:20.000
+No pero que haga que haga las facturas y además con belifactum eso ya sería.
+
+00:44:20.000 --> 00:44:26.000
+Bueno, lo que tú quieras, pide por esa boquita, Javier, tú cuándo te he dicho yo que no algo aquí? ¿cuándo te he dicho yo que no algo a ti?
+
+00:44:26.000 --> 00:44:27.000
+Vale, vamos a ir por fases. Esta es la idea, ¿vale?
+
+00:44:27.000 --> 00:44:29.000
+Venga, toma.
+
+00:44:29.000 --> 00:44:30.000
+Sí.
+
+00:44:30.000 --> 00:44:43.000
+¿Qué valor tiene? Como no quiero soltar mucho la chapa me refiero en cuanto a diapositiva no sé qué tengo una presentación muy grande que vamos a ver, pero hoy quiero aterrizar un poco el rollo CRM, que podéis haceros uno y que podéis trastear luego para que el próximo día entendáis el valor que puede tener un CRM.
+
+00:44:43.000 --> 00:44:48.000
+Y las cosas que se pueden hacer, ¿vale? Porque en este CRM de momento.
+
+00:44:48.000 --> 00:44:58.000
+En es eh como lo explico. realmente tengo un control de de todos mis clientes empresas pero no tengo nada como para hacer cosas, o sea.
+
+00:44:58.000 --> 00:45:03.000
+Yo puedo luego decirle a esto que me lo mejore, me agrupa a los clientes por.
+
+00:45:03.000 --> 00:45:06.000
+Cantidad de ventas y meter una herramienta que mande un mailing.
+
+00:45:06.000 --> 00:45:12.000
+¿Vale? Cada x tiempo. a los que más compren con un equis de valor, ¿vale?
+
+00:45:12.000 --> 00:45:17.000
+Entonces con esto ya empiezo a hacer cosas con la gente del C R M, ¿vale?
+
+00:45:17.000 --> 00:45:26.000
+eh, que automáticamente se mande un correo electrónico cuando el eh la fecha de vencimiento de factura pase 20 días pum y sí automáticamente, ¿vale?
+
+00:45:26.000 --> 00:45:33.000
+Y esto ya es empezar a hacer cosas, es como si yo tuviera un Excel, lo voy poniendo en pestañas los dos grupos y voy.
+
+00:45:33.000 --> 00:45:40.000
+Con toda la gente la meto en una cadena de correos y, y escribo un correo y lo mando out, pero esto lo puedes automatizar de manera interna, ¿vale?
+
+00:45:40.000 --> 00:45:49.000
+Siempre que haya herramientas gratuitas, que es casi siempre que podamos incluir dentro de de esto, ¿vale?
+
+00:45:49.000 --> 00:45:54.000
+Te lo digo Javier por el los enlaces y demás, esto es una herramienta que ahora mismo es.
+
+00:45:54.000 --> 00:45:59.000
+Entenderme, una app local, vale, ¿qué quiere decir? Que esto.
+
+00:45:59.000 --> 00:46:04.000
+es un archivito, es un segundo, lo voy a enseñar para que lo veas.
+
+00:46:04.000 --> 00:46:08.000
+Pero esto no deja de ser como una estructura de una casa.
+
+00:46:08.000 --> 00:46:13.000
+A la cual lo puedes ir después añadiendo cosas, cambiándole las ventanas.
+
+00:46:13.000 --> 00:46:15.000
+Poniéndola bonita, pero la estructura. está ahí, o sea, eso es lo potente, claro, o sea, nosotros lo está diciendo.
+
+00:46:15.000 --> 00:46:22.000
+Yeah, ya te vale. Correcto, correcto, mira.
+
+00:46:22.000 --> 00:46:30.000
+Este, este, este GPT, ¿vale? Que es especialista en código, me ha hecho este turrón, ¿vale? De código, todo esto que es larguísimo, ¿vale?
+
+00:46:30.000 --> 00:46:37.000
+Yo, para poder visualizarlo. Esto le di aquí a copiar y hay una herramienta online que ahora vamos a ver un segundo, es que se me pone esto aquí en medio.
+
+00:46:37.000 --> 00:46:46.000
+que es esta. Yo, cuando yo pego aquí el código que me da, automáticamente aquí a la derecha se ve, ¿vale? O sea, yo esto lo abro.
+
+00:46:46.000 --> 00:46:54.000
+Y ya tengo el C R M, ¿vale? que lo estoy viendo como online, ¿entenderme vale con esta herramienta de previsualización.
+
+00:46:54.000 --> 00:47:00.000
+Si yo hará esto con este código lo guardo en un archivo, cuando yo haga doble clic en ese archivo se me va a abrir como.
+
+00:47:00.000 --> 00:47:09.000
+online vale como con el navegador. Y efectivamente, Javier, esto es la base. Ahora le digo, y ahora come esto, y ahora quítame esto y ahora.
+
+00:47:09.000 --> 00:47:14.000
+Muéstrame como una especie de gráficas rollo velocímetro, ¿vale?
+
+00:47:14.000 --> 00:47:18.000
+a la que yo le voy a poner mi.
+
+00:47:18.000 --> 00:47:23.000
+Lo que tengo que facturar este año, ¿vale? El mínimo de facturación.
+
+00:47:23.000 --> 00:47:32.000
+El éxito de facturación. ¿Vale? Y eso que se va, va, va en rojo, en rojo se va poniendo naranja, naranja, naranja, va llegando al verde, al verde var y cuando.
+
+00:47:32.000 --> 00:47:40.000
+¿Entiendes? Esto y, y, y que ponga 3 y que con según entréis al dashboard podéis ver cómo va la empresa con 4 indicadores, por ejemplo.
+
+00:47:40.000 --> 00:47:45.000
+Pero como dice Javier, esto ya es y sumo y sumo y sumo y sumo, ¿vale? Pero hay una base creada.
+
+00:47:45.000 --> 00:47:48.000
+Yo que le he dicho al GPT lo que quiero.
+
+00:47:48.000 --> 00:47:56.000
+¿Qué quiero, quiero esto, ¿vale? Es lo que vamos a hacer con un pro hacernos el nuestro, ¿vale? Haceros el vuestro, ¿vale?
+
+00:47:56.000 --> 00:47:57.000
+Okay. Ah, no, yo creo que.
+
+00:47:57.000 --> 00:48:01.000
+Era mi derecha porque se ha puesto a sonar.
+
+00:48:01.000 --> 00:48:02.000
+Vale, vale, okay. Venga.
+
+00:48:02.000 --> 00:48:12.000
+Eh una, yo tengo una consulta en. Lo del código que me decía, si lo pasé a código era pasarlo con este HTML.
+
+00:48:12.000 --> 00:48:13.000
+No, no, no, no, es que dentro de, no, no, no.
+
+00:48:13.000 --> 00:48:17.000
+lo de creao. Entonces, lo que.
+
+00:48:17.000 --> 00:48:24.000
+Ehm.
+
+00:48:24.000 --> 00:48:29.000
+Dentro de creao, ¿vale? Si no ahora le descanso lo mismo tú y yo.
+
+00:48:29.000 --> 00:48:42.000
+Cuando entras en la app. Arriba a la derecha, si quieres entra y te lo digo, arriba a la derecha, creo que salen como varias pestañas y una pone como administrador de archivos y ahí vas a ver que hay un montón de archivos. Todo eso es lo que tienes que descargarte.
+
+00:48:42.000 --> 00:48:48.000
+todo entero. Vale, todo entero, entonces con ese código ya con GPT.
+
+00:48:48.000 --> 00:48:55.000
+Fíjate la calidad que tiene ya, ya no tienes por qué gastar créditos en creao, porque ahí ya tienes la base, es justo lo que dice Javier.
+
+00:48:55.000 --> 00:48:56.000
+¿Vale? Justo, justo lo que dice Javier.
+
+00:48:56.000 --> 00:49:02.000
+Sí, pero, pero no, no. No sé dónde verlo, ahí yo te lo mandé por el chat.
+
+00:49:02.000 --> 00:49:05.000
+No, pero yo, tú lo que me han mandado es.
+
+00:49:05.000 --> 00:49:07.000
+La U R L de la app. No, lo que tú.
+
+00:49:07.000 --> 00:49:13.000
+Sí. Y tú lo que dices es dentro de la app.
+
+00:49:13.000 --> 00:49:19.000
+Claro, tú te vas a la app en creao, le das a la app, ¿vale? Como si fueras a editarla, entiéndeme, donde sale el chat y la app a la derecha.
+
+00:49:19.000 --> 00:49:21.000
+Sí, sí.
+
+00:49:21.000 --> 00:49:24.000
+Encima de la app tienes unas pestañas. Y en esas pestañas en una pone no sé qué de archivos, explorador de archivos o.
+
+00:49:24.000 --> 00:49:30.000
+Sí.
+
+00:49:30.000 --> 00:49:31.000
+Todos preguntas, chats.
+
+00:49:31.000 --> 00:49:33.000
+O algo así.
+
+00:49:33.000 --> 00:49:37.000
+See, with file, aquí está.
+
+00:49:37.000 --> 00:49:39.000
+Y ahí te salen como un montón de archivos.
+
+00:49:39.000 --> 00:49:43.000
+Y hay un sitio donde te pone descargar todo, ahora lo vemos, no te preocupes, ahora lo vemos, ¿vale?
+
+00:49:43.000 --> 00:49:46.000
+Ahora lo vemos si lo va, lo, lo vas a hacer tú luego.
+
+00:49:46.000 --> 00:49:48.000
+Ah, no, no sé. No, no, no. Okay.
+
+00:49:48.000 --> 00:49:51.000
+Arte lo digo, no te preocupes, ¿vale? Entonces.
+
+00:49:51.000 --> 00:49:52.000
+Vale.
+
+00:49:52.000 --> 00:49:59.000
+Lo que lo que tenemos que hacer es todos tener los documentos, los documentos que vamos a cargar, ¿vale?
+
+00:49:59.000 --> 00:50:08.000
+Si alguien tiene ya documentos de su empresa que pueda utilizar para cargar el C R M, por ejemplo, su base de datos de cliente, no sé qué bonbum, pues lo puede usar ahora, ¿vale? Para todo el que no tenga.
+
+00:50:08.000 --> 00:50:13.000
+Vale para todo el que no tenga. Podemos ir a GPT y decirle.
+
+00:50:13.000 --> 00:50:17.000
+Tengo una empresa de esto, vale, darle contexto, voy a montar un C R M.
+
+00:50:17.000 --> 00:50:27.000
+Vale, dame los documentos que necesite para todo. Para que os genere esos Exceles, ¿vale?
+
+00:50:27.000 --> 00:50:28.000
+¿Hay alguien que. ¿Alguien?
+
+00:50:28.000 --> 00:50:31.000
+los documentos que pedimos.
+
+00:50:31.000 --> 00:50:32.000
+tú no vas a poder ir escucha tú no vas a poder, tú no vas a poder, mira.
+
+00:50:32.000 --> 00:50:35.000
+Los documentos le pedimos.
+
+00:50:35.000 --> 00:50:38.000
+un C R M se nutre de, imagínate, de todos tus clientes.
+
+00:50:38.000 --> 00:50:39.000
+Sí.
+
+00:50:39.000 --> 00:50:45.000
+¿Vale? Se nutre de todos tus pedidos, de tu stock, ¿vale? Se nutre de de toda esa información.
+
+00:50:45.000 --> 00:50:50.000
+Vale, hay gente aquí que, pues, mira, como decían, yo es que ya tengo, lo llevo en un Excel.
+
+00:50:50.000 --> 00:50:55.000
+Vale, ese, esa persona puede utilizar el Excel para.
+
+00:50:55.000 --> 00:51:01.000
+Ese Excel que ya tiene, ¿vale? Para montar el CRM inicial.
+
+00:51:01.000 --> 00:51:02.000
+Sí, sí, lo entiendo.
+
+00:51:02.000 --> 00:51:08.000
+¿Me entiendes esto lo hice? Vale, tú como no tienes, es como si yo eres como yo con la empresa de caracoles.
+
+00:51:08.000 --> 00:51:10.000
+Vale, tú vas a hacer exactamente lo que yo hice.
+
+00:51:10.000 --> 00:51:11.000
+Claro, o sea, yo lo que quiero es armar como la estructura en blanco.
+
+00:51:11.000 --> 00:51:15.000
+tú básico.
+
+00:51:15.000 --> 00:51:21.000
+Sí, pero que ya me quede, digamos, toda la información para el momento en que yo cargue los datos.
+
+00:51:21.000 --> 00:51:25.000
+Eh eso. O sea, que me quedé en blanco.
+
+00:51:25.000 --> 00:51:26.000
+Sí, escucha, ¿tú has visto que en la mía yo?
+
+00:51:26.000 --> 00:51:29.000
+Sería así.
+
+00:51:29.000 --> 00:51:35.000
+He podido, tenía un montón de resetear la app.
+
+00:51:35.000 --> 00:51:36.000
+Mm-hmm.
+
+00:51:36.000 --> 00:51:38.000
+y de cargar datos de ejemplo. Si tú no carga el inicio o datos de ejemplo, tú no vas a poder ver cómo quedan las pantallas y muchas cosas.
+
+00:51:38.000 --> 00:51:40.000
+Claro, claro.
+
+00:51:40.000 --> 00:51:41.000
+Perfecto, sí.
+
+00:51:41.000 --> 00:51:47.000
+Entiendes? Entonces tú de inicio ahora necesitas unos. datos de ejemplo para poder montarte tu C R M.
+
+00:51:47.000 --> 00:51:48.000
+Mm-hmm.
+
+00:51:48.000 --> 00:51:54.000
+Luego resetean la app y ahí has visto que se podían cargar los tuyos, luego tú irás cargando los tuyos, ¿vale? Pero de inicio el que no tenga los puede crear ahora mismo en un momento, ¿vale?
+
+00:51:54.000 --> 00:51:58.000
+Okay.
+
+00:51:58.000 --> 00:51:59.000
+Retor, tenemos 28000 contactos en el CRM, ¿qué hago?
+
+00:51:59.000 --> 00:52:03.000
+Perfecto.
+
+00:52:03.000 --> 00:52:04.000
+Rezar. No, mira, lo primero, rezar, lo segundo, darles mi contacto.
+
+00:52:04.000 --> 00:52:09.000
+Pásame alguno.
+
+00:52:09.000 --> 00:52:18.000
+Sigo con la lista. O sea, descargar, o sea, no reviente, es que revienta GPT como en su proceso ahora mismo.
+
+00:52:18.000 --> 00:52:19.000
+And oh, tú descárgate un un muestrario 100, lo que sea, un muestrario y ya está.
+
+00:52:19.000 --> 00:52:23.000
+Yeah.
+
+00:52:23.000 --> 00:52:27.000
+Y un segundito porque para crear los documentos, ¿vale?
+
+00:52:27.000 --> 00:52:35.000
+necesitáis un segundo. necesitáis otro problem, son 2 Pro Excel.
+
+00:52:35.000 --> 00:52:36.000
+Un segundo. Sí, y os voy a dar los 2 y luego cada uno se hará los suyos.
+
+00:52:36.000 --> 00:52:42.000
+mhm.
+
+00:52:42.000 --> 00:52:48.000
+tiene que irme diciendo. Cosas de valor que creéis que tiene.
+
+00:52:48.000 --> 00:52:57.000
+Un C R M, o sea. Pues poder segmentar a mis clientes, okay, ese es el que he dicho yo. ¿qué otras cosas podríamos hacer con esto?
+
+00:52:57.000 --> 00:53:00.000
+Con un C R M.
+
+00:53:00.000 --> 00:53:12.000
+el valorar cada cuánto está pidiendo un cliente. Entonces su stock está llegando al límite y mandarle a lo mejor un aviso de si necesitas renovar tu stock.
+
+00:53:12.000 --> 00:53:16.000
+Tienes ahora mismo una oferta por equis. Este.
+
+00:53:16.000 --> 00:53:21.000
+Y si no, correctísimo, y si no tuvieras el C R M, qué, qué riesgos hay?
+
+00:53:21.000 --> 00:53:26.000
+O sea, lo puedes hacer igual manual, ¿vale? Pero, ¿qué riesgos hay?
+
+00:53:26.000 --> 00:53:27.000
+Pero, y si no, y si no te acuerdas?
+
+00:53:27.000 --> 00:53:29.000
+Ponerte una alerta en la agenda, claro.
+
+00:53:29.000 --> 00:53:34.000
+A ver, todo distribuidor al final siempre tiene un control de stock.
+
+00:53:34.000 --> 00:53:35.000
+Y de ventas, o sea, tiene un histórico, tú tienes un histórico.
+
+00:53:35.000 --> 00:53:39.000
+Sí, sí, todo distribuidor es persona. todo distribuidor es persona sabes.
+
+00:53:39.000 --> 00:53:40.000
+Escucha, todo distribuidor es persona. además de distribuidor.
+
+00:53:40.000 --> 00:53:42.000
+Eh.
+
+00:53:42.000 --> 00:53:43.000
+Las roturas de esto que están a la orden del día.
+
+00:53:43.000 --> 00:53:44.000
+Sí.
+
+00:53:44.000 --> 00:53:48.000
+Pues eso. Sabes, o sea, el tema es, a lo que voy es, ¿se te olvida mandar ese aviso y la cagas.
+
+00:53:48.000 --> 00:53:53.000
+Claro, claro.
+
+00:53:53.000 --> 00:53:58.000
+¿Sabes? O sea, lo mandas tarde y la cagas, no sé qué y la cagas y lo tienes automatizado, el proceso que ha dicho Javier es.
+
+00:53:58.000 --> 00:54:06.000
+Súper, eso te puede ahorrar disgustos, automatizar procesos, ahorras tiempos, o sea, al final es todo como muy automatizado y.
+
+00:54:06.000 --> 00:54:11.000
+Y te quitas un problema, ¿vale? Si eso lo haces con 50, pues son un montón de problemas.
+
+00:54:11.000 --> 00:54:18.000
+Os pego en el chat lo que. Yo le puse para generar los documentos, ¿vale? Os lo voy a enseñar primero y luego ahora os lo pego en el chat.
+
+00:54:18.000 --> 00:54:28.000
+¿Entendéis entender que esto es para practicar. que ni es el definitivo ni tenéis que pegaros media hora para hacer los documentos porque es que no hay necesidad luego ya nos lo curraremos, ¿vale?
+
+00:54:28.000 --> 00:54:35.000
+Buenas tardes, una, una serie de datos, necesito que me quede estos documentos simulados, pum pum pum.
+
+00:54:35.000 --> 00:54:38.000
+y me crea, ¿veis los pedidos, el inventario y tal.
+
+00:54:38.000 --> 00:54:50.000
+que son los 3 que yo he utilizado? Vale, esto es lo que yo os voy a pegar aquí ahora mismo, un segundito.
+
+00:54:50.000 --> 00:54:54.000
+y lo adaptáis a vuestra empresa, todo el que no tenga documentos.
+
+00:54:54.000 --> 00:54:58.000
+Y eso se lo vais a pedir a este G P T que os voy a.
+
+00:54:58.000 --> 00:55:01.000
+Un soneto.
+
+00:55:01.000 --> 00:55:09.000
+What chat, los voy a pasar.
+
+00:55:09.000 --> 00:55:15.000
+A este GPT que lo podéis anclar a la derecha porque es un máquina en análisis de datos.
+
+00:55:15.000 --> 00:55:21.000
+Okay.
+
+00:55:21.000 --> 00:55:29.000
+Si queréis que los Excel sea de pedidos o de stock o de clientes o de lo que corresponda, decírselo, ¿entendéis? O sea.
+
+00:55:29.000 --> 00:55:41.000
+Porque yo le he dejado vía libre y él me lo ha creado en base a lo que maneja una empresa de caracoles, pero como yo no tenía ni idea, pues le le he dejado que tire, ¿vale? Pero vosotros para vuestra empresa le podéis decir el tipo de documento.
+
+00:55:41.000 --> 00:55:44.000
+que en realidad luego el día de mañana iréis a subir.
+
+00:55:44.000 --> 00:55:51.000
+¿Entiendes? Javier?
+
+00:55:51.000 --> 00:55:52.000
+Dime.
+
+00:55:52.000 --> 00:55:59.000
+¿Me oyes? Mira. Sí, como lo vas a montar de cero tú, ¿vale? Ya que has dicho lo de la facturación, si te la quieres jugar.
+
+00:55:59.000 --> 00:56:03.000
+además de pedirle estos, vale, estos primero pídele estos.
+
+00:56:03.000 --> 00:56:07.000
+que te los dé y después si quieres dile y ahora dame los documentos que tendría que subir.
+
+00:56:07.000 --> 00:56:11.000
+de la contabilidad de la empresa. ¿Vale?
+
+00:56:11.000 --> 00:56:12.000
+Vale.
+
+00:56:12.000 --> 00:56:20.000
+Y luego cuando montes tú tu C R M vamos a, nos la vamos a jugar tú y yo a pedirle el normal más la facturación ya de una sin hacerlo.
+
+00:56:20.000 --> 00:56:25.000
+es que está muy top GPT vale vamos a apretar un poco las torregas a ver si lo consigues de una, ¿vale?
+
+00:56:25.000 --> 00:56:28.000
+Para los que tenemos datos en Excel no hacemos este paso.
+
+00:56:28.000 --> 00:56:35.000
+Este paso es efectivamente, Elisa, es para que cuando ahora le pidamos el CRM.
+
+00:56:35.000 --> 00:56:36.000
+Vale, le digamos, te ven. Quiero que tenga estos datos y el día de mañana subiré estos datos, ¿vale?
+
+00:56:36.000 --> 00:56:41.000
+Vale.
+
+00:56:41.000 --> 00:56:44.000
+Vale, como yo tengo datos, no hacemos, no hago este paso, ¿vale?
+
+00:56:44.000 --> 00:56:47.000
+Listo, no haces correcto y ahora os voy a mandar el prom, ¿vale?
+
+00:56:47.000 --> 00:56:49.000
+Para generar el C R M. Lo tengo aquí.
+
+00:56:49.000 --> 00:56:52.000
+Vale.
+
+00:56:52.000 --> 00:56:57.000
+No, no, no, no.
+
+00:56:57.000 --> 00:57:01.000
+Vale.
+
+00:57:01.000 --> 00:57:04.000
+La historia, creerlos.
+
+00:57:04.000 --> 00:57:10.000
+Los tres cuadros en base al prom ese que ha puesto.
+
+00:57:10.000 --> 00:57:11.000
+Vale.
+
+00:57:11.000 --> 00:57:14.000
+Pero que los tres lo mando lo pegamos en el mismo en el mismo Datasis Report o no.
+
+00:57:14.000 --> 00:57:19.000
+Copy, paste, copy, paste, copy, paste.
+
+00:57:19.000 --> 00:57:22.000
+Espera, espera, dame un segundito que estoy guardando el problem.
+
+00:57:22.000 --> 00:57:29.000
+C R N. Eh una una duda que tengo en la pregunta em.
+
+00:57:29.000 --> 00:57:30.000
+He copiado.
+
+00:57:30.000 --> 00:57:32.000
+que me tú has creado el qué?
+
+00:57:32.000 --> 00:57:34.000
+Ese prom que has puesto.
+
+00:57:34.000 --> 00:57:36.000
+En Chatgpt y me ha creado tres.
+
+00:57:36.000 --> 00:57:37.000
+¿Sí?
+
+00:57:37.000 --> 00:57:41.000
+Digamos, tres bloques correcto con tres.
+
+00:57:41.000 --> 00:57:45.000
+Disimulaciones de base de datos.
+
+00:57:45.000 --> 00:57:46.000
+Vale, en G P T la has hecho, ¿no?
+
+00:57:46.000 --> 00:57:50.000
+Sí.
+
+00:57:50.000 --> 00:57:52.000
+Esto, yo lo que te he dicho es que lo se lo pidas al GPT que te he mandado ahí.
+
+00:57:52.000 --> 00:57:57.000
+Ok. Adapta análisis reporte. A él le pegó el pronto.
+
+00:57:57.000 --> 00:58:02.000
+Claro, es que, mira, GPT de los, escucha, Germán, yo te, te voy a dar la lógica, ¿vale?
+
+00:58:02.000 --> 00:58:07.000
+En este instante G P T, los que te ha dado ya te valen.
+
+00:58:07.000 --> 00:58:16.000
+Vale con su versión nueva ya te valen. He dicho este porque os lo podéis anclar ya porque es muy bueno en en datos y análisis y el que te va a generar seguramente sea.
+
+00:58:16.000 --> 00:58:17.000
+Yeah.
+
+00:58:17.000 --> 00:58:20.000
+Más real vale. al que te ha generado GPT que va a ser bueno pero este es muy bueno, ¿vale?
+
+00:58:20.000 --> 00:58:26.000
+Ya, pero creo es un minuto más. No pierdo el tiempo mejor.
+
+00:58:26.000 --> 00:58:27.000
+Es que ya ha visto lo que tarda, ¿vale? O sea, es.
+
+00:58:27.000 --> 00:58:28.000
+Sí, sí, sí.
+
+00:58:28.000 --> 00:58:32.000
+generalos que ya de hecho estoy mandando el prom, ¿vale? Estoy mandando el prom ya.
+
+00:58:32.000 --> 00:58:37.000
+Vale, para los que ya tengáis los documentos.
+
+00:58:37.000 --> 00:58:48.000
+que todo el mundo abra el documento. Y aguante con el documento abierto porque al principio no lo va a entender, ¿vale?
+
+00:58:48.000 --> 00:58:53.000
+A mí me lo está creando, no sé. Yo le, le di un contexto.
+
+00:58:53.000 --> 00:58:54.000
+mínimo de que es un taller de cerámica, bla, bla, bla.
+
+00:58:54.000 --> 00:58:58.000
+Sí. ¿Y has visto el mío? Ya ha visto el mío?
+
+00:58:58.000 --> 00:58:59.000
+Sí, sí.
+
+00:58:59.000 --> 00:59:08.000
+No es para probar si tú lo que tienes que quedarte es, ok, cuando tenga mis documentos, este paso me lo salto y lo siguiente que voy a hacer es como ya tengo el prom de mi CRM, montar el CRM y ya está.
+
+00:59:08.000 --> 00:59:15.000
+Vale, pero si el que no tenga documentos que no se quede pillado ahora por, no, es que no tengo documento, bueno, pues lo pasaba que no los cree GPT, ¿vale?
+
+00:59:15.000 --> 00:59:19.000
+Vale, abrir todos el, el Word que he mandado.
+
+00:59:19.000 --> 00:59:24.000
+Mientras que os crean los documentos, ¿vale?
+
+00:59:24.000 --> 00:59:42.000
+Un segundito, fecha de modificación, vale. Si os fijáis en el documento, hay un primer texto que empieza buenas tardes, pa nada como eres especialista, no sé qué tal, he exportado todos los datos que tengo, debe estar adaptado a response y visualizarse en cualquier dispositivo, ¿vale? Y después empieza fecha salida, no sé cuánto, pum pum pum pum, como como en morse.
+
+00:59:42.000 --> 00:59:44.000
+Correcto.
+
+00:59:44.000 --> 00:59:48.000
+A ver, espera que un momento.
+
+00:59:48.000 --> 00:59:50.000
+I'm on Lizzie!
+
+00:59:50.000 --> 00:59:54.000
+Okay. A ver, a ver.
+
+00:59:54.000 --> 00:59:58.000
+Vale, para todos los que han visto esto.
+
+00:59:58.000 --> 01:00:00.000
+mhm.
+
+01:00:00.000 --> 01:00:06.000
+Hay GPTs que cuando los construyen, ¿vale? tienen la capacidad.
+
+01:00:06.000 --> 01:00:11.000
+de leer documentos que les mandamos. Y hay G P T es que cuando los construyen.
+
+01:00:11.000 --> 01:00:16.000
+no les aplican de esas 4 cositas del lienzo, generar imágenes, ¿vale?
+
+01:00:16.000 --> 01:00:19.000
+Busca en internet y tal que marcamos cuando creamos un G P T.
+
+01:00:19.000 --> 01:00:23.000
+Hay veces que no le marcan esta opción y otras veces que sí, ¿vale?
+
+01:00:23.000 --> 01:00:31.000
+Esto es lo que provoca es que hay GPTs que son muy, muy buenos, pero que cuando le mandas un documento no es capaz de leerlo y te dice que no has mandado un documento.
+
+01:00:31.000 --> 01:00:33.000
+¿Vale? Y tú estás viendo el documento en el chat.
+
+01:00:33.000 --> 01:00:34.000
+Esto pasa porque no lo han activado dentro de esta opción, ¿entendéis esta parte?
+
+01:00:34.000 --> 01:00:37.000
+Maravilloso.
+
+01:00:37.000 --> 01:00:39.000
+mhm. Sí.
+
+01:00:39.000 --> 01:00:40.000
+Bueno.
+
+01:00:40.000 --> 01:00:41.000
+Sí o no? Sí, ok. ¿Quién ha dicho? Bueno.
+
+01:00:41.000 --> 01:00:46.000
+Um. But me parece chino.
+
+01:00:46.000 --> 01:00:50.000
+Escucha, cuando hemos creado, mira, pero te lo voy a enseñar, ¿vale? Que es más fácil.
+
+01:00:50.000 --> 01:00:56.000
+saber dónde es, ella verás, mira.
+
+01:00:56.000 --> 01:01:01.000
+Un segundito. Edito 1 y lo veis.
+
+01:01:01.000 --> 01:01:07.000
+Dedicar. Mira.
+
+01:01:07.000 --> 01:01:12.000
+Cuando creamos.
+
+01:01:12.000 --> 01:01:22.000
+Cuando creamos un GPT. Aquí le metíamos arriba las instrucciones, le poníamos el nombre, la descripción, le poníamos las instrucciones y aquí abajo podíamos marcar las funciones que tiene.
+
+01:01:22.000 --> 01:01:28.000
+las funciones es que genere imágenes, que interprete código, lienzo, tal, tal o que busque en internet, ¿vale?
+
+01:01:28.000 --> 01:01:36.000
+dependiendo de lo que queramos que haga el GPT y lo que se desvíe el GPT le marcamos que pueda buscar en internet o no, porque hay veces que si le dejamos que busque en internet.
+
+01:01:36.000 --> 01:01:37.000
+Se desvía y no hace lo que tiene que hacer, que es lo que pone aquí arriba.
+
+01:01:37.000 --> 01:01:39.000
+Mm-hmm.
+
+01:01:39.000 --> 01:01:41.000
+¿Entendéis esta parte, sí? ¿Qué pasa, que hay veces que le desmarcan esto?
+
+01:01:41.000 --> 01:01:47.000
+Sí.
+
+01:01:47.000 --> 01:01:53.000
+Este de aquí se lo desmarcan. Y entonces cuando yo le mando un archivo al G P T.
+
+01:01:53.000 --> 01:01:59.000
+Me dice que no he subido ningún archivo. Le dije, entonces se lo vuelves a subir y dice.
+
+01:01:59.000 --> 01:02:04.000
+Vale, cuando me subas el archivo te lo estudio y dices, eres tonto? ¿qué te pasa, tío? Si te lo he subido dos veces ya.
+
+01:02:04.000 --> 01:02:09.000
+Vale, vale, esto es porque no tienen marcado esto, vale, vale.
+
+01:02:09.000 --> 01:02:10.000
+¿Entendido esto, hay G P T S que yo os mando que son muy, muy buenos.
+
+01:02:10.000 --> 01:02:13.000
+No.
+
+01:02:13.000 --> 01:02:17.000
+A él lo suyo, pero que no leen documentos.
+
+01:02:17.000 --> 01:02:22.000
+Pero necesito el GPT porque es muy, muy bueno haciendo el CR.
+
+01:02:22.000 --> 01:02:32.000
+M, ¿vale? Esos vamos a utilizar hoy. Yo os voy a pasar ahora un GPT, ¿vale? Al que necesitamos mandarle ese texto que tenéis ahí arriba, que lo podéis mejorar o ampliar, ¿vale?
+
+01:02:32.000 --> 01:02:36.000
+Y lo de debajo son los Exceles que he abierto el Excel.
+
+01:02:36.000 --> 01:02:46.000
+He copiado el 100% del contenido. He venido aquí, lo he pegado, he abierto el siguiente Excel, lo he copiado, lo he pegado, he venido al siguiente Excel, lo he copiado, lo he pegado, ¿entendéis?
+
+01:02:46.000 --> 01:02:52.000
+porque el G P T cuando le mando el Excel no es capaz de leerlo.
+
+01:02:52.000 --> 01:02:53.000
+Repeat, please.
+
+01:02:53.000 --> 01:02:54.000
+Alguien no ha entendido esto? Iván, lo lo enseño, es más fácil.
+
+01:02:54.000 --> 01:02:59.000
+Ok.
+
+01:02:59.000 --> 01:03:00.000
+Claro. Claro, lo tienes que pegar porque no le podes mandar el archivo.
+
+01:03:00.000 --> 01:03:06.000
+Mira. Correcto, mira.
+
+01:03:06.000 --> 01:03:09.000
+So, no. Okay.
+
+01:03:09.000 --> 01:03:16.000
+Esto. Entonces cuando yo le mando, si yo le mandara, le, le mandara estáis viendo mi Excel?
+
+01:03:16.000 --> 01:03:18.000
+Hmm.
+
+01:03:18.000 --> 01:03:19.000
+Si yo le mandara este documento y le y le dijera léelo, él me va a decir, no me has mandado ningún documento y yo se lo he mandado.
+
+01:03:19.000 --> 01:03:25.000
+Sí.
+
+01:03:25.000 --> 01:03:32.000
+porque no tiene la capacidad, ¿vale? para que lo lea y me monte el C R M yo lo que es, vengo aquí, ¿veis que marco aquí?
+
+01:03:32.000 --> 01:03:37.000
+¿Vale? Marc Wait, que se selecciona todo. Edición, copiar.
+
+01:03:37.000 --> 01:03:43.000
+Y ahora me vengo al Word. Y aquí le digo pegad.
+
+01:03:43.000 --> 01:03:47.000
+Y se me va a pegar, va a tardar, no os asustéis porque veis que va a tardar en mucha información.
+
+01:03:47.000 --> 01:03:50.000
+Veis que ya se ha pegado? Vale, ah .
+
+01:03:50.000 --> 01:03:52.000
+Pero ¿y en qué parte tenemos que.
+
+01:03:52.000 --> 01:03:57.000
+Pegarlo da igual en cual no.
+
+01:03:57.000 --> 01:03:59.000
+Que en qué parte va pegado.
+
+01:03:59.000 --> 01:04:00.000
+Al principio de.
+
+01:04:00.000 --> 01:04:05.000
+estoy, perdóname. Es que ves que en el documento está un párrafo que es lo que le pido el CRM y debajo empiezan los Exceles.
+
+01:04:05.000 --> 01:04:08.000
+Sí.
+
+01:04:08.000 --> 01:04:13.000
+Vale, pues tú borra todos mis Exceles. Y ahí pegan los tuyos.
+
+01:04:13.000 --> 01:04:18.000
+Ahh, vale o sea todos estos textos en chino que hay aquí son tus exceles.
+
+01:04:18.000 --> 01:04:19.000
+Anda good vale.
+
+01:04:19.000 --> 01:04:23.000
+Claro, mira, claro.
+
+01:04:23.000 --> 01:04:31.000
+Mira, eh, ¿dónde está el Excel aquí? Yo imagínate, me vengo aquí, selecciono todos mis vale todos estos.
+
+01:04:31.000 --> 01:04:39.000
+Y ahora le digo botón derecho, copiar, me ven y me vengo aquí al documento, un segundo.
+
+01:04:39.000 --> 01:04:44.000
+Y me vengo aquí y lo pego.
+
+01:04:44.000 --> 01:04:45.000
+A partir de fecha de salida todo eso son mis excellers, ¿vale?
+
+01:04:45.000 --> 01:04:47.000
+Parte de fecha de salida, ¿no?
+
+01:04:47.000 --> 01:04:55.000
+que no se asuste nadie, que salga fe, es que sale feo, es que no sé qué, que sale con colores desordenados, no sé cuánto, pum pum pum pum.
+
+01:04:55.000 --> 01:04:58.000
+Vale, ya os lo dije yo y os lo dijo Lisi que lo, que lo había.
+
+01:04:58.000 --> 01:04:59.000
+Tip.
+
+01:04:59.000 --> 01:05:00.000
+Hmm.
+
+01:05:00.000 --> 01:05:03.000
+¿Me oís? A ver. Digo, me he salido.
+
+01:05:03.000 --> 01:05:08.000
+que había salido la noticia ahora mismo en tareas administrativas es más listo que nosotros, ahí lo dejo, por lo tanto.
+
+01:05:08.000 --> 01:05:14.000
+No os agobie que esté mal, desordenado y no sé qué en el word, que no pasa nada, que él lo entiende, ¿vale?
+
+01:05:14.000 --> 01:05:20.000
+Él lo va a entender perfectamente, ¿okay? Vuelvo a subirlo, Javier, sí.
+
+01:05:20.000 --> 01:05:26.000
+Un segundo, copiar. Ahí lo llevas, un segundo, ya lo tienes.
+
+01:05:26.000 --> 01:05:27.000
+Vale.
+
+01:05:27.000 --> 01:05:30.000
+Pero por algún motivo hiciste el prom para que genere tres archivos o no.
+
+01:05:30.000 --> 01:05:33.000
+Pegamos los tres es que si ves el prome, dice: Genérame, tres archivos.
+
+01:05:33.000 --> 01:05:36.000
+Como que generé 3.
+
+01:05:36.000 --> 01:05:45.000
+El. Por algún motivo pediste que genere tres, y hoy ha generado tres archivos.
+
+01:05:45.000 --> 01:05:46.000
+Me acabo de dar, o sea, me lo acaba de decir tú para que tal.
+
+01:05:46.000 --> 01:05:49.000
+Lo hacemos con uno más.
+
+01:05:49.000 --> 01:05:56.000
+No. Imagínate, lo suyo sería que le dijera a Germán.
+
+01:05:56.000 --> 01:06:03.000
+Voy a montar un C R M, ¿vale? Mi empresa es esto y necesito saber qué tipos de datos tengo que tener dentro del CRM para.
+
+01:06:03.000 --> 01:06:06.000
+Tenía contra dos mis clientes la facturación y los recursos humanos.
+
+01:06:06.000 --> 01:06:11.000
+Y él te va a decir, necesitas esto, esto y esto y le dices, vale, pues generame los Exceles, ¿vale?
+
+01:06:11.000 --> 01:06:15.000
+Con total sinceridad, esa es como voy, voy a la clase pum pum, genérame no sé cuánto, pues pensaría en ese momento algo de 3 y le puse 3 y me fui.
+
+01:06:15.000 --> 01:06:22.000
+Yeah, no me generó curiosidad, nada más. Pensé que era por algún motivo, en especial.
+
+01:06:22.000 --> 01:06:25.000
+Que va, te va a valer con lo que te ha generado te va a valer, ¿vale?
+
+01:06:25.000 --> 01:06:31.000
+Greme, ya verás. Entonces, cuando voy a pasar el GPT, ¿vale?
+
+01:06:31.000 --> 01:06:36.000
+Cuando todos tenemos ya esto.
+
+01:06:36.000 --> 01:06:42.000
+Un segundo.
+
+01:06:42.000 --> 01:06:50.000
+Y entonces aquí le tenemos que pegar los datos de los tres archivos.
+
+01:06:50.000 --> 01:06:51.000
+Yep.
+
+01:06:51.000 --> 01:06:53.000
+Claro, correcto, de los 3 o de los 10, el que tenga diez que no le pegue, que no le pegue 10, ¿vale? O sea, que esto, repito que es para.
+
+01:06:53.000 --> 01:06:55.000
+Pero yo aitor yo, por ejemplo.
+
+01:06:55.000 --> 01:07:03.000
+Yo tengo un C, R. M. Ya con la persona con la que colaboro. Yo soy autónoma. Y ahora ya para con mi empresa.
+
+01:07:03.000 --> 01:07:09.000
+Me quiero hacer un C. R. M: De momento, lo único que tengo de la empresa es la página web.
+
+01:07:09.000 --> 01:07:10.000
+Tú yo. Ahora, ¿qué hago? Mira.
+
+01:07:10.000 --> 01:07:14.000
+Vale. Por lo que vemos, lo que, lo que os he explicado en el, lo primero, lo que estaba haciendo.
+
+01:07:14.000 --> 01:07:18.000
+Pero sin datos ni nada.
+
+01:07:18.000 --> 01:07:21.000
+No, justo lo que ha hecho Lisi. O lo que he hecho yo con las empresas de caracoles, yo no tengo Ana el Belén, te juro que no tengo ninguna empresa de caracoles.
+
+01:07:21.000 --> 01:07:25.000
+I don't know.
+
+01:07:25.000 --> 01:07:29.000
+Mi padre estuvo lo que pasa, que no es rentable porque tarda mucho criar.
+
+01:07:29.000 --> 01:07:34.000
+Claro, si echas pasta y da pasta de Uti, pero si echas pasta y eso tarda mucho, puta, ni de coño.
+
+01:07:34.000 --> 01:07:36.000
+Tarda mucho, tarda mucho. Lo digo, yo.
+
+01:07:36.000 --> 01:07:52.000
+Mira, ¿ves el problem que he puesto yo ahí, que le he pedido que, como eres experto en no sé qué, pues créame los documentos para montar un CRM de una empresa de caracoles. Vale, Lizzie que ha hecho? Ha hecho lo mismo, pero le ha dicho, "Tengo una empresa de no sé qué, no sé cuántos, créame los documentos para montarme un CRM de esto y tampoco tiene datos.".
+
+01:07:52.000 --> 01:07:57.000
+En tu caso, entra y le dices. Dame los documentos para montarme un CRM, ¿vale?
+
+01:07:57.000 --> 01:08:02.000
+para gestionar esto, los clientes, las facturas, no sé qué, el stock, el tal, lo que tú quieras, ¿vale?
+
+01:08:02.000 --> 01:08:04.000
+Entonces él te va a devolver los.
+
+01:08:04.000 --> 01:08:07.000
+Excel es que luego vamos a usar para montar el, el C R M.
+
+01:08:07.000 --> 01:08:09.000
+Venga.
+
+01:08:09.000 --> 01:08:12.000
+Vale, tienes que pedírselos a ese GPT que te he mandado, ¿vale? Que he mandado ahí.
+
+01:08:12.000 --> 01:08:14.000
+Sí lo tengo.
+
+01:08:14.000 --> 01:08:15.000
+Y este gordo lo subimos a H G P T.
+
+01:08:15.000 --> 01:08:19.000
+Vale, vuelvo. Espera, espera, no, no, no, lo subes a un GPT que yo te voy a dar ahora mismo, un segundo.
+
+01:08:19.000 --> 01:08:25.000
+Pero aitor aquí todo lo que viene aquí que viene, lo como tú dices: Bueno, en chino.
+
+01:08:25.000 --> 01:08:28.000
+Todo esto.
+
+01:08:28.000 --> 01:08:31.000
+Lo borro o no hace falta.
+
+01:08:31.000 --> 01:08:32.000
+Sí, claro, borras porque son los míos.
+
+01:08:32.000 --> 01:08:38.000
+Claro es la empresa de caracoles, fecha de salida entrega. No todo eso.
+
+01:08:38.000 --> 01:08:39.000
+Claro.
+
+01:08:39.000 --> 01:08:41.000
+A partir del dos mil veinticinco.
+
+01:08:41.000 --> 01:08:43.000
+de páginas de salida o algo así o no, no sé cómo fecha de salida.
+
+01:08:43.000 --> 01:08:48.000
+No a partir de veinte veinticinco barras cero, uno.
+
+01:08:48.000 --> 01:08:53.000
+No, no, no pone fecha de salida, creo que es lo primero que pone.
+
+01:08:53.000 --> 01:08:54.000
+Olimpo, yo es que no lo veo. La fecha de saliva.
+
+01:08:54.000 --> 01:08:55.000
+Échale esa habitación.
+
+01:08:55.000 --> 01:08:59.000
+Si no. Si es justo, mira, está el texto en el Word, debajo empieza el código raro.
+
+01:08:59.000 --> 01:09:01.000
+C.
+
+01:09:01.000 --> 01:09:06.000
+Pues ahí todo el código fuera.
+
+01:09:06.000 --> 01:09:08.000
+¿Sabes?
+
+01:09:08.000 --> 01:09:14.000
+Debe estar adaptado después de visualizarse en cualquier dispositivo.
+
+01:09:14.000 --> 01:09:15.000
+Venga, lo borro.
+
+01:09:15.000 --> 01:09:20.000
+Justo todo lo que viene después. puerta y ahí es donde pegan lo tuyo.
+
+01:09:20.000 --> 01:09:21.000
+Vale.
+
+01:09:21.000 --> 01:09:22.000
+¿Vale?
+
+01:09:22.000 --> 01:09:26.000
+Claro, yo no pegué nada y solo le. Digamos.
+
+01:09:26.000 --> 01:09:27.000
+Okay?
+
+01:09:27.000 --> 01:09:33.000
+Que yo al no pegarle nada, o sea, lo tengo solo lo del inicio, el prom del inicio.
+
+01:09:33.000 --> 01:09:34.000
+Ahí tienes que pegar los datos de los Excel que has generado.
+
+01:09:34.000 --> 01:09:37.000
+Nada más.
+
+01:09:37.000 --> 01:09:44.000
+Ojo a la retahíla que hay que borrar.
+
+01:09:44.000 --> 01:09:47.000
+Truco, truco para todo el mundo, por favor.
+
+01:09:47.000 --> 01:09:48.000
+Hay algo que me perdí entonces porque. Yo no generé ningún Excel.
+
+01:09:48.000 --> 01:09:52.000
+Esto va solo, pero.
+
+01:09:52.000 --> 01:09:53.000
+Ya está.
+
+01:09:53.000 --> 01:09:57.000
+ahora voy, Lizzie, un segundo. Truco para todo el mundo en war Y demás.
+
+01:09:57.000 --> 01:09:58.000
+Si le dais al control y a la A.
+
+01:09:58.000 --> 01:10:00.000
+A ver, sí.
+
+01:10:00.000 --> 01:10:01.000
+O selecciona el 100% del contenido del documento.
+
+01:10:01.000 --> 01:10:04.000
+Ya, pero no queremos el contenido todo el contenido, porque a lo al principio, si nos sirve.
+
+01:10:04.000 --> 01:10:05.000
+I don't.
+
+01:10:05.000 --> 01:10:09.000
+mhm.
+
+01:10:09.000 --> 01:10:10.000
+Espera, te coger el ratón.
+
+01:10:10.000 --> 01:10:20.000
+Amore, más que cosa. Escúchame, Ana Belén, será más fácil subir arriba del todo y bajar un poquito la raya que baja desde el war entero?
+
+01:10:20.000 --> 01:10:21.000
+Espera que pongo el ratón que estoy con el dedo.
+
+01:10:21.000 --> 01:10:23.000
+Optimización del tiempo.
+
+01:10:23.000 --> 01:10:24.000
+Madre mía. Sé que tengo muchas cosas que hacer.
+
+01:10:24.000 --> 01:10:29.000
+Vale. Andy, te lo mando de nuevo.
+
+01:10:29.000 --> 01:10:33.000
+Un segundo liso y voy contigo y el resto os digo ya.
+
+01:10:33.000 --> 01:10:39.000
+Es que, un segundo, os mando el. Os mando el GPT.
+
+01:10:39.000 --> 01:10:52.000
+compartir para los que ya lo tengáis, podéis empezar un segundo.
+
+01:10:52.000 --> 01:10:54.000
+¿Qué vas a mandar el GPT del principio?
+
+01:10:54.000 --> 01:11:00.000
+Escucha, tú quédate ahí atrás primero.
+
+01:11:00.000 --> 01:11:01.000
+Lizzie estás en el banquillo ahora mismo.
+
+01:11:01.000 --> 01:11:04.000
+Primaria. Es que estoy mareada, estoy mareada y te juro.
+
+01:11:04.000 --> 01:11:09.000
+Claro, con la calma, tú tranquila, yo ahora voy contigo, tú no te preocupes.
+
+01:11:09.000 --> 01:11:18.000
+Compartir un segundo, copiar el enlace. Venga, para el resto, para los que ya lo tienen, ¿vale? Tiene el documento con sus Exceles pegados y demás.
+
+01:11:18.000 --> 01:11:24.000
+Ese es muy bueno generando los de RMS, ¿vale?
+
+01:11:24.000 --> 01:11:27.000
+equipo entramos al word.
+
+01:11:27.000 --> 01:11:33.000
+No, aquí copias todo lo que hay en el Word, no le mandas el documento, porque ese es el que te he dicho que le mandas el documento y te dice.
+
+01:11:33.000 --> 01:11:34.000
+Ok, ok. Hablo italiano.
+
+01:11:34.000 --> 01:11:45.000
+My que cosa no me mandaste nada. No cuando iba, cuando iba a Italia pa ligar sabes lo que te digo pero .
+
+01:11:45.000 --> 01:11:49.000
+Pero nunca he hablado italiano, ¿sabes? Me he inventado el italiano, si quieres le podemos llamar.
+
+01:11:49.000 --> 01:11:54.000
+Ehm . Este, cogemos todo lo que hay en el Word, controla.
+
+01:11:54.000 --> 01:11:58.000
+Aquí sí, controla, vale, y aquí en este GPT.
+
+01:11:58.000 --> 01:12:07.000
+Control V antes de hacerlo, todos arriba en el nombre, le ponemos thinking, la versión más nueva que os deje 5.3, 5, 4.
+
+01:12:07.000 --> 01:12:14.000
+Thinking, vale, todo al máximo, ¿vale? Antes de darle al botón.
+
+01:12:14.000 --> 01:12:19.000
+los estilos visuales. ¿Qué quiere decir esto?
+
+01:12:19.000 --> 01:12:20.000
+los colorcitos en no sé qué, vale, todas estas.
+
+01:12:20.000 --> 01:12:30.000
+Escúchame una cosita. Yo yo tengo todo marcado con el ratón. Y me solo me viene la opción: pegar opciones De Pegado no, me viene el el.
+
+01:12:30.000 --> 01:12:32.000
+Vestián o intentando borrar.
+
+01:12:32.000 --> 01:12:35.000
+No me sale.
+
+01:12:35.000 --> 01:12:37.000
+eh. Vale, te voy a dar otra opción, ¿vale?
+
+01:12:37.000 --> 01:12:41.000
+Es que es antes. Tenía una una, una Peli. Y ahora tengo una H. P.
+
+01:12:41.000 --> 01:12:51.000
+Escucha, Ana Belén, a mí, a mí, mira. Mira, yo, yo en mi, en mi empresa yo lo digo, por favor, tú cuando me vengas con una incidencia me vienes con una incidencia y con tres posibles soluciones, me vas a hacer el favor, ¿eh?
+
+01:12:51.000 --> 01:12:57.000
+Me escuchan a Belén, te voy a dar otro truco, imagínate, cógete.
+
+01:12:57.000 --> 01:12:59.000
+Igual el mío te va por lo que sea, ¿vale?
+
+01:12:59.000 --> 01:13:02.000
+Cógete la parte de escrito. Vale, lo que no es el código.
+
+01:13:02.000 --> 01:13:04.000
+Mhm.
+
+01:13:04.000 --> 01:13:05.000
+Vale, venga.
+
+01:13:05.000 --> 01:13:09.000
+y que era de todo un word nuevo? Y probamos así, igual es el mío, ¿eh? Que no te deja por la versión o cualquier tontura de estas, ¿vale? Para ver.
+
+01:13:09.000 --> 01:13:13.000
+No, no me deja, ya te lo digo. Yo.
+
+01:13:13.000 --> 01:13:14.000
+Eso cuando te pase Ana Belén de de verdad, ¿eh?
+
+01:13:14.000 --> 01:13:16.000
+Okay, um, a ver, me estoy perdiendo.
+
+01:13:16.000 --> 01:13:17.000
+eh, búscate las mañas, abres un text Edith de estos de.
+
+01:13:17.000 --> 01:13:19.000
+Pero yo siempre lo hago. Si soy autónoma.
+
+01:13:19.000 --> 01:13:22.000
+Imagínate.
+
+01:13:22.000 --> 01:13:23.000
+¿qué me vas a aguantar.
+
+01:13:23.000 --> 01:13:28.000
+Eso te voy a contar. Si estamos todo el día si sabes todo el día la carrera sabes inventando.
+
+01:13:28.000 --> 01:13:30.000
+En fin, Lizzie. El primer promo que yo te he mandado y el primer GPT es para que le digas créame.
+
+01:13:30.000 --> 01:13:35.000
+Sí.
+
+01:13:35.000 --> 01:13:39.000
+Tres Excel de de ejemplo para yo montar mi CRM y él te ha tenido que dar 3 Excel.
+
+01:13:39.000 --> 01:13:42.000
+Mm-hmm. Sí. Me dio, pero a ver, eh.
+
+01:13:42.000 --> 01:13:46.000
+Pues eso se.
+
+01:13:46.000 --> 01:13:52.000
+Espérate que, ¿dónde está? Aquí. Eh.
+
+01:13:52.000 --> 01:13:54.000
+Sí, aquí los tengo, sí. Eso es, entonces los que tengo que pegar.
+
+01:13:54.000 --> 01:13:57.000
+Okay.
+
+01:13:57.000 --> 01:14:01.000
+Ya está, ya entendí, ahora sí.
+
+01:14:01.000 --> 01:14:08.000
+Vale. Los estilos visuales, lo que estaba diciendo, el color del botones, no sé qué no le haya dado, ¿vale?
+
+01:14:08.000 --> 01:14:15.000
+aquí podríamos decirle ya pues quiero que sea así, que tenga modo noche y modo día, no sé qué, pum pum, que sea lo que queráis, ¿vale?
+
+01:14:15.000 --> 01:14:19.000
+Vale, en ese antes de lo de pegar los Exceles, ¿vale? En esa parte de arriba.
+
+01:14:19.000 --> 01:14:27.000
+Si no le decimos nada, él lo va a montar con las mejores prácticas y después podemos ir haciendo cambios de colores y demás, ¿vale? ¿entendéis?
+
+01:14:27.000 --> 01:14:28.000
+Si de una le metiéramos el logo nuestro, nos pondría el logo nuestro ya vale, pero luego lo podemos incluir.
+
+01:14:28.000 --> 01:14:32.000
+Mm-hmm.
+
+01:14:32.000 --> 01:14:37.000
+Okay, entonces todo el que quiera que meta colores o lo que sea y el que no.
+
+01:14:37.000 --> 01:14:40.000
+Puede hacer así? Y pinchar intro.
+
+01:14:40.000 --> 01:14:47.000
+Le cargamos el excel, o la infor, o sea, perdón, el excel, el word o la información que hay en el word.
+
+01:14:47.000 --> 01:14:48.000
+La información que hay en el world, ¿por qué?
+
+01:14:48.000 --> 01:14:49.000
+Vale.
+
+01:14:49.000 --> 01:14:52.000
+Por lo que he explicado, si le subes un documento te va a decir.
+
+01:14:52.000 --> 01:14:58.000
+Querida Esther, no te preocupes, pásame el documento que lo voy a estudiar y le subirás el documento y te dirá.
+
+01:14:58.000 --> 01:15:02.000
+No veo ningún documento, Esther, súbeme el documento, por favor, y tú ya estarás cabreadita.
+
+01:15:02.000 --> 01:15:03.000
+Tú sabes. Okay.
+
+01:15:03.000 --> 01:15:07.000
+Estoy gastando mi litros de agua, creo, eh. Estoy gastando mil litros de agua porque está trabajando.
+
+01:15:07.000 --> 01:15:12.000
+Yeah.
+
+01:15:12.000 --> 01:15:15.000
+Vais a ver lo que os va a crear, o sea, vais a alucinar.
+
+01:15:15.000 --> 01:15:18.000
+No para esto, eh.
+
+01:15:18.000 --> 01:15:22.000
+Que nadie pare eso porque va a ser extensísimo, ¿vale?
+
+01:15:22.000 --> 01:15:26.000
+Vale, para todos los que ya lo tengan rodando.
+
+01:15:26.000 --> 01:15:31.000
+Lo que nos va a dar es ese código enorme, ese código enorme se llama HTML, ¿vale?
+
+01:15:31.000 --> 01:15:37.000
+No tenemos que saber programar, no tenemos que saber lo que hay dentro, no nos importa un pimiento, no nada.
+
+01:15:37.000 --> 01:15:41.000
+¿Vale? No, nada. Pero tenemos que coger ese.
+
+01:15:41.000 --> 01:15:46.000
+ese código. y ponerlo en un archivo.
+
+01:15:46.000 --> 01:15:52.000
+En un archivo real. pegarlo como si lo pegamos en un Word, ¿me entendéis?
+
+01:15:52.000 --> 01:15:53.000
+Mm-hm.
+
+01:15:53.000 --> 01:16:01.000
+Sí, okay. Cuando genere el código arriba a la derecha va a haber un dos cuadraicos que vamos a copiar ese código y ahora os doy apps.
+
+01:16:01.000 --> 01:16:06.000
+¿Vale? Para los que tengan Mac. Vale para los que tengan Mac.
+
+01:16:06.000 --> 01:16:09.000
+No sé si está para Windows buscarlo porque es bueno.
+
+01:16:09.000 --> 01:16:17.000
+Cote editor se llama. Bueno, puedo compartir, creo, a ver.
+
+01:16:17.000 --> 01:16:23.000
+Parto yo aquí. ¿En dónde está la P Store, un segundo.
+
+01:16:23.000 --> 01:16:26.000
+Os comparto el enlace directo para los que tengáis.
+
+01:16:26.000 --> 01:16:28.000
+Apple.
+
+01:16:28.000 --> 01:16:31.000
+los de la secta.
+
+01:16:31.000 --> 01:16:38.000
+Cote, esto es una maravilla. O tedito, este es.
+
+01:16:38.000 --> 01:16:42.000
+Uy, uy, compartir. Copiar el enlace, ¿el qué?
+
+01:16:42.000 --> 01:16:44.000
+Hi.
+
+01:16:44.000 --> 01:16:45.000
+No.
+
+01:16:45.000 --> 01:16:52.000
+Nada que no le he puesto el texto anterior el que nos has puesto.
+
+01:16:52.000 --> 01:16:53.000
+Mal! Perdón!
+
+01:16:53.000 --> 01:17:02.000
+Pues dale, ponte encima, editas el lapicerito. Y lo mandaré luego, ¿vale? Para todos los de Mac, ahí tenéis un enlace directo a una aplicación que es súper chula. Bajárosla e instalarla, ¿vale?
+
+01:17:02.000 --> 01:17:11.000
+Esto podemos transformar cualquier cosa en HTML, en JavaScript, en no sé qué, en Markdown, tal, en todos los sistemas de programación que hay en el mundo.
+
+01:17:11.000 --> 01:17:13.000
+¿Vale? Que no, que no para nada, solo para 3.
+
+01:17:13.000 --> 01:17:18.000
+Pero es muy bueno instalar los demás para los de Windows.
+
+01:17:18.000 --> 01:17:28.000
+Un segundito.
+
+01:17:28.000 --> 01:17:41.000
+Solo está para Mac, un segundo. Vale, los que tengáis en Mac tenéis, por ejemplo.
+
+01:17:41.000 --> 01:17:43.000
+notepad.
+
+01:17:43.000 --> 01:17:50.000
+No, es que no tenéis, eh. Vale, mirad, todos los documentos tenéis una cosa que se llama bloc de notas.
+
+01:17:50.000 --> 01:17:51.000
+Sí.
+
+01:17:51.000 --> 01:17:59.000
+Vale, vale, si abrís bloc de notas. Pegáis el código y lo guardáis como.
+
+01:17:59.000 --> 01:18:07.000
+Pitiflú punto html. Vale, lo que sea punto HTML ya os vale.
+
+01:18:07.000 --> 01:18:10.000
+¿Vale? Es como esta herramienta que os digo, lo podéis hacer con, con el.
+
+01:18:10.000 --> 01:18:12.000
+El código entero cuando haya terminado de crearse, entiendo.
+
+01:18:12.000 --> 01:18:16.000
+Correcto, correcto, ahora mismo no puedes, ¿vale? Ahora mismo no puedes, ¿vale?
+
+01:18:16.000 --> 01:18:22.000
+Vale, para todos los que tengan co editor, os enseño cómo funciona porque los otros lo pegan por el HTML y listo, ¿vale?
+
+01:18:22.000 --> 01:18:27.000
+Y este os enseño yo como va porque es súper fácil para los que tengan instalado ya.
+
+01:18:27.000 --> 01:18:31.000
+Es muy guay.
+
+01:18:31.000 --> 01:18:35.000
+A ver de las dos que has mandado son para.
+
+01:18:35.000 --> 01:18:36.000
+No, el primero que he mandado es para Apple, ¿vale?
+
+01:18:36.000 --> 01:18:39.000
+Para Apple.
+
+01:18:39.000 --> 01:18:43.000
+El segundo, o sea, el primero es para echarger o sea sí el segundo es para Apple, vale.
+
+01:18:43.000 --> 01:18:45.000
+No, él, no, bueno.
+
+01:18:45.000 --> 01:18:50.000
+No parece solamente uno el HTML CSS. Más JavaScript que aquí tenemos.
+
+01:18:50.000 --> 01:18:53.000
+Ese es el que nos va a hacer el C R M, eso es un GPT.
+
+01:18:53.000 --> 01:18:54.000
+Vale, en, ahora mismo no hago nada entonces.
+
+01:18:54.000 --> 01:19:01.000
+Vaya. Ahora, cuando nos dé el código, va a haber que crear un archivito.
+
+01:19:01.000 --> 01:19:02.000
+Vale para los de Apple les ha mandado la app, para los de Windows con notepad ya te vale.
+
+01:19:02.000 --> 01:19:09.000
+Vale.
+
+01:19:09.000 --> 01:19:10.000
+Sí, o texted o el que tengas de texto, da igual, lo que sea, ¿vale?
+
+01:19:10.000 --> 01:19:13.000
+Not bad.
+
+01:19:13.000 --> 01:19:14.000
+Vale, mira. Okay.
+
+01:19:14.000 --> 01:19:17.000
+del Word. Igual no vale.
+
+01:19:17.000 --> 01:19:18.000
+¿Cuál? No, bueno, vale.
+
+01:19:18.000 --> 01:19:25.000
+Word.
+
+01:19:25.000 --> 01:19:26.000
+Vale, lo de notas, nota, vale.
+
+01:19:26.000 --> 01:19:34.000
+Pues no vale para todo. Vale, esta es la herramienta que os he dicho para los demás, ¿vale? Es súper sencillo, pegamos aquí el texto que sea, que en este caso es el código.
+
+01:19:34.000 --> 01:19:37.000
+Y aquí arriba del todo un segundo. Claro, bueno.
+
+01:19:37.000 --> 01:19:40.000
+Perdón, me, me perdí con una cosa, ¿qué código?
+
+01:19:40.000 --> 01:19:47.000
+Dime, dime, dime, no te lo ha dado todavía, Lisi?
+
+01:19:47.000 --> 01:19:48.000
+El código que te está creando de la del CRM.
+
+01:19:48.000 --> 01:19:50.000
+Ok, sí, acá. Sí, sí.
+
+01:19:50.000 --> 01:19:51.000
+¿Vale? Vale, ese código.
+
+01:19:51.000 --> 01:19:55.000
+Que dice que JavaScript, sí, ahí está.
+
+01:19:55.000 --> 01:19:56.000
+Hay una herramienta que para los de Mac esa se ha quedado y los de Windows lo otro, ¿vale? Que tú.
+
+01:19:56.000 --> 01:20:01.000
+mhm.
+
+01:20:01.000 --> 01:20:02.000
+le das un archivo nuevo como un Word, ¿vale? Y aquí pega, vamos a pegar el codeguito que nos dé, ¿vale?
+
+01:20:02.000 --> 01:20:07.000
+Mm-hmm.
+
+01:20:07.000 --> 01:20:10.000
+Y aquí arriba a la derecha veis que hay un desplegable.
+
+01:20:10.000 --> 01:20:11.000
+espera, espera. Pero a ver.
+
+01:20:11.000 --> 01:20:17.000
+Aquí están todos los, todos los códigos renovables. Okay.
+
+01:20:17.000 --> 01:20:18.000
+No te preocupes, Lisi, ahora voy para atrás, ¿vale? Ahora voy para atrás contigo, no te preocupes.
+
+01:20:18.000 --> 01:20:21.000
+que me perdí, espera, espera, espera, perdón.
+
+01:20:21.000 --> 01:20:22.000
+Sí.
+
+01:20:22.000 --> 01:20:31.000
+Aquí arriba tenemos markdown H T M L P tal da da dale y un montón de ellos. Bueno, pues pegaremos aquel código, le daremos HTML y lo guardaremos, ¿vale? Ya está, eso es lo que haremos con la herramienta.
+
+01:20:31.000 --> 01:20:37.000
+Para los que tengan text edit o cualquiera de Windows pegarán el código, lo guardarán, punto HTML y ya está.
+
+01:20:37.000 --> 01:20:42.000
+No os preocupéis que cuando llegue el momento y tengáis el código lo vamos a repetir, ¿vale? De hecho, vamos a parar a comer.
+
+01:20:42.000 --> 01:20:47.000
+Para que mientras que comemos genere el CRM, ¿vale? Y después volvemos y seguimos, ¿vale? Esa es la idea.
+
+01:20:47.000 --> 01:20:49.000
+Que nadie toque nada, que no hace falta. Lisi.
+
+01:20:49.000 --> 01:20:50.000
+Para ti. Tú has creado los 3 archivos, ¿no?
+
+01:20:50.000 --> 01:20:54.000
+Sí, sí. Sí.
+
+01:20:54.000 --> 01:20:55.000
+Nos has pegado en el word? ¿Has abierto el G P P de.
+
+01:20:55.000 --> 01:20:58.000
+Sí, y ya me dio un código. Sí.
+
+01:20:58.000 --> 01:21:04.000
+Ya tienes el código? Imposible.
+
+01:21:04.000 --> 01:21:05.000
+Mí también me lo ha dado ya. Eh?
+
+01:21:05.000 --> 01:21:06.000
+Imposible. 1.
+
+01:21:06.000 --> 01:21:12.000
+No sé si me estoy perdiendo algo, el word, el problem este de caracoles a con los datos metidos.
+
+01:21:12.000 --> 01:21:16.000
+Lo copiamos y lo pegamos en el HTML fss.
+
+01:21:16.000 --> 01:21:18.000
+Por con los cambios. Claro, lo pega, lo pegas y le das al play y te olvidas, vas a comer.
+
+01:21:18.000 --> 01:21:25.000
+Sí, claro, con los cambios que.
+
+01:21:25.000 --> 01:21:26.000
+Sí.
+
+01:21:26.000 --> 01:21:28.000
+Os lo ha dado ya el HTML entonces? Vale.
+
+01:21:28.000 --> 01:21:29.000
+You can you.
+
+01:21:29.000 --> 01:21:30.000
+A mí sí, a mí sigue trabajando también.
+
+01:21:30.000 --> 01:21:38.000
+Es que me extraña, Iván, me extraña mucho, escucha, o a lo mejor les han pedido un C R M para gestionar una panadería que acaba de abrir.
+
+01:21:38.000 --> 01:21:40.000
+Y solo tiene en stock 2 barras de pan.
+
+01:21:40.000 --> 01:21:41.000
+Entonces sí que les ha dado el código, pero si no ya te digo yo que no me lo creo vamos.
+
+01:21:41.000 --> 01:21:46.000
+Y yo también tengo un código. Estoy esperando a ver dónde lo pego.
+
+01:21:46.000 --> 01:21:50.000
+Si te estaba viendo que te reías y estabas calladito, Germán, ¿me entiendes? O sea ya ya.
+
+01:21:50.000 --> 01:21:55.000
+Pero no sé si esté bien.
+
+01:21:55.000 --> 01:22:02.000
+No os preocupéis que puede estar bien, que a lo mejor es algo más sencillo y y otro le ha metido más datos, entonces tarda más en organizarlo, no os preocupéis, ¿vale?
+
+01:22:02.000 --> 01:22:03.000
+Como que me dio tres códigos diferentes de los tres Excel distintos.
+
+01:22:03.000 --> 01:22:07.000
+Dicho lo cual.
+
+01:22:07.000 --> 01:22:08.000
+que le cargué.
+
+01:22:08.000 --> 01:22:13.000
+Pues algo has puesto encima que no corresponde.
+
+01:22:13.000 --> 01:22:14.000
+Yo a a las nueve me gustaría ver el partido no sé si era.
+
+01:22:14.000 --> 01:22:18.000
+No.
+
+01:22:18.000 --> 01:22:33.000
+Me está diciendo. Le he pedido que me haga una modificación y me está diciendo bueno, un contenido y luego me pone añadir a index. Html: si quiere decir que Tengo Que Copiar el Uno Con El Otro No.
+
+01:22:33.000 --> 01:22:40.000
+Escucha. Vamos por el paso, generamos el C R M.
+
+01:22:40.000 --> 01:22:44.000
+Este se puede ir usted a comer tranquilamente.
+
+01:22:44.000 --> 01:22:48.000
+Yo no, Aitor, por favor.
+
+01:22:48.000 --> 01:22:49.000
+Por favor, escuchadme, todo el que quiere irse a comer que se vaya a comer.
+
+01:22:49.000 --> 01:22:52.000
+total.
+
+01:22:52.000 --> 01:22:58.000
+Ya empieza el descanso ahora mismo. Vale, para los que tengan incidencias que se queden, si quieren, vale.
+
+01:22:58.000 --> 01:23:02.000
+Esther, cuando hagamos el CRM todos, vamos a las modificaciones, ¿vale?
+
+01:23:02.000 --> 01:23:03.000
+Que si no tengo que ir para adelante y luego para atrás, vale.
+
+01:23:03.000 --> 01:23:04.000
+Vale que yo directamente le he metido modificaciones.
+
+01:23:04.000 --> 01:23:06.000
+Lizzie.
+
+01:23:06.000 --> 01:23:09.000
+Ya, ya me imagino, no te preocupes, y si no, dale caña y luego luego rehaces el mensaje.
+
+01:23:09.000 --> 01:23:12.000
+Y luego lo real.
+
+01:23:12.000 --> 01:23:13.000
+Dile que sí, a lo de Index, a lo de Index dile que sí, ya está, ¿vale?
+
+01:23:13.000 --> 01:23:14.000
+¿A qué hora volvemos?
+
+01:23:14.000 --> 01:23:17.000
+Vale.
+
+01:23:17.000 --> 01:23:18.000
+y tira pa'lante. Pues en veinte minutos veinticinco.
+
+01:23:18.000 --> 01:23:21.000
+Aitor, ¿a qué hora volvemos? Ok.
+
+01:23:21.000 --> 01:23:28.000
+¿Vale? Lisi? A ti te ha dado tres códigos distintos, ¿no? Dices.
+
+01:23:28.000 --> 01:23:29.000
+Vale.
+
+01:23:29.000 --> 01:23:35.000
+Sí, acá estoy. Sí, con el, con el prompt inicial de los caracoles le cambié los caracoles, le puse lo que yo necesitaba.
+
+01:23:35.000 --> 01:23:41.000
+Y me descargó 3 descarga de clases regulares, descarga de pack de clases.
+
+01:23:41.000 --> 01:23:42.000
+y descarga de eventos. A estos.
+
+01:23:42.000 --> 01:23:45.000
+Pero es lo que te ha de Zaragoza. Esto nos ha esperado en el documento en el otro documento Word.
+
+01:23:45.000 --> 01:23:50.000
+¿Cómo? Los abrí, claro, los abrí.
+
+01:23:50.000 --> 01:23:55.000
+Abrí, ah, no, los abrí y directamente en el chat.
+
+01:23:55.000 --> 01:24:01.000
+Pero ya que me queréis volver loquísimo, si es que he dicho 20 veces, mira que lo he explicado.
+
+01:24:01.000 --> 01:24:06.000
+Hay G P T S que si no le activas esta opción no te va a leer los documentos.
+
+01:24:06.000 --> 01:24:07.000
+No, no, pero se los copié los documentos, cada uno.
+
+01:24:07.000 --> 01:24:12.000
+Por eso. Dentro del chat.
+
+01:24:12.000 --> 01:24:13.000
+Claro.
+
+01:24:13.000 --> 01:24:17.000
+Vale, junto al quiero un C R M.
+
+01:24:17.000 --> 01:24:19.000
+Claro, eh, junto al. No.
+
+01:24:19.000 --> 01:24:25.000
+No, no la has puesto arriba, quiero un CRM, tú le has pegado los tres terceros y le has dicho anchas Castilla, ¿no?
+
+01:24:25.000 --> 01:24:31.000
+No, no, no, no, le puse ese buenas tardes, eres especialista, bla, bla, bla.
+
+01:24:31.000 --> 01:24:33.000
+Explorado los datos que tengo.
+
+01:24:33.000 --> 01:24:34.000
+Vale. Vale, y eso, y eso se lo mandaste.
+
+01:24:34.000 --> 01:24:39.000
+Eh exportable ta ta ta ta ta. Ehm debe estar adaptado, bla, bla, bla.
+
+01:24:39.000 --> 01:24:40.000
+Eso se lo mandé, le mandé así. Claro, cada uno se lo.
+
+01:24:40.000 --> 01:24:46.000
+Y después le mandaste los Exceles. Y el que ha hecho?
+
+01:24:46.000 --> 01:24:47.000
+Se lo pegué y me. Y me hizo eh tres códigos.
+
+01:24:47.000 --> 01:24:52.000
+¿Y el qué ha hecho?
+
+01:24:52.000 --> 01:24:55.000
+Claro, porque está hecho uno para cada uno, ¿vale? Mira.
+
+01:24:55.000 --> 01:24:56.000
+Es que es que no, igual no termino de entender, te, te puedo compartir.
+
+01:24:56.000 --> 01:24:58.000
+Escucha, hazte una cosa. Sí, venga, compártemelo y ahora voy, voy al siguiente, sí, sí, sí.
+
+01:24:58.000 --> 01:24:59.000
+Víctor a mi Jesús.
+
+01:24:59.000 --> 01:25:00.000
+la pantalla de esto. Porque, porque me parece.
+
+01:25:00.000 --> 01:25:01.000
+Lo vas a.
+
+01:25:01.000 --> 01:25:03.000
+A mí el suspenso me está matando donde pego. Mi código. Html: por favor.
+
+01:25:03.000 --> 01:25:07.000
+Me parece que es lo mejor.
+
+01:25:07.000 --> 01:25:16.000
+Mira, mira, Germán, abre una pestaña de Google, abre una pestaña de Google y pone en Google HTML online y le das al primero.
+
+01:25:16.000 --> 01:25:24.000
+¿Vale? Al primero, cuando te salga esa pantalla pegas el código ahí y a la izquierda tienes un view full page, pégalo y hazlo, ¿vale?
+
+01:25:24.000 --> 01:25:30.000
+A la izquierda, según lo pegues, te vas a salir a la derecha, pero tienes un un view full page, ¿vale?
+
+01:25:30.000 --> 01:25:35.000
+Mira, Lizzie, el tema es si te fijas yo te he dicho, ponlo todo en el.
+
+01:25:35.000 --> 01:25:39.000
+En el documento y ahora copia todo el documento y pégalo aquí.
+
+01:25:39.000 --> 01:25:40.000
+El problema es que si no seáis estrictamente los pasos.
+
+01:25:40.000 --> 01:25:42.000
+Claro, sí.
+
+01:25:42.000 --> 01:25:43.000
+Al izquierda, quieta, no te preocupes, sube arriba del todo, quieta.
+
+01:25:43.000 --> 01:25:45.000
+Then.
+
+01:25:45.000 --> 01:25:46.000
+Ahí estoy arriba de todo. Sí, sí, sí, sí, ya me di cuenta.
+
+01:25:46.000 --> 01:25:54.000
+digamos, entiéndeme, le pasa lo primero, luego. Él te ha creado como tres T R M pa que te hagas una idea vale no.
+
+01:25:54.000 --> 01:25:55.000
+Vale, ¿cómo lo vamos a arreglar? ¿cómo lo vamos a arreglar?
+
+01:25:55.000 --> 01:25:57.000
+Sí, sí, sí, sí.
+
+01:25:57.000 --> 01:25:59.000
+Vete bajando al primer.
+
+01:25:59.000 --> 01:26:04.000
+Excel que le has pegado al primero. O tienes todos los puntos pegados?
+
+01:26:04.000 --> 01:26:10.000
+No, a ver, le fui pegando, mira, es que no, no sé qué es lo que hizo aquí, aquí está el primero.
+
+01:26:10.000 --> 01:26:13.000
+quieta, baja para abajo al final de todo ese, no, baja para abajo.
+
+01:26:13.000 --> 01:26:16.000
+Hasta el final de ese.
+
+01:26:16.000 --> 01:26:23.000
+Ujum.
+
+01:26:23.000 --> 01:26:28.000
+Es mejor que bajes con la rayita de la derecha, si no te vas a volver loca.
+
+01:26:28.000 --> 01:26:29.000
+porque lo tenemos que hacer con los tres, ¿vale?
+
+01:26:29.000 --> 01:26:33.000
+Espérate porque lo tengo. Okay, a ver.
+
+01:26:33.000 --> 01:26:35.000
+No, no, ahora, vale, copialo, dale los dos puntitos.
+
+01:26:35.000 --> 01:26:41.000
+Sí.
+
+01:26:41.000 --> 01:26:42.000
+Y eso pégalo abajo en el chat. No le des intro, eh.
+
+01:26:42.000 --> 01:26:45.000
+Ujum.
+
+01:26:45.000 --> 01:26:46.000
+No, aquí. Okay, mhm.
+
+01:26:46.000 --> 01:26:56.000
+Bueno, pégalo, pégalo, hazme caso. Vale, ahora sigue bajando hasta el siguiente Excel.
+
+01:26:56.000 --> 01:26:57.000
+¿Qué le has pegado hasta el final del todo? Copialo.
+
+01:26:57.000 --> 01:27:00.000
+Mm-hmm.
+
+01:27:00.000 --> 01:27:01.000
+Ahí, cópialo. Baja abajo los dos puntitos.
+
+01:27:01.000 --> 01:27:09.000
+este es cortito.
+
+01:27:09.000 --> 01:27:10.000
+mhm.
+
+01:27:10.000 --> 01:27:16.000
+ahí, cópialo. Vale, y ahora, cuidado Lisi, porque tienes que darle poniéndote al final, al final donde el 80 2,8, no, no, no, al final.
+
+01:27:16.000 --> 01:27:17.000
+y dale, acuérdate lo del con, lo de la flechita de mayúsculas y el intro para que baje.
+
+01:27:17.000 --> 01:27:22.000
+I, I...
+
+01:27:22.000 --> 01:27:26.000
+eh la ficha de mayúsculas. Y el intro, okay.
+
+01:27:26.000 --> 01:27:29.000
+Y entro, sí. Listo, y pega ahí el otro y lo mismo haces con el tercero, ¿vale?
+
+01:27:29.000 --> 01:27:34.000
+Ahí está. Okey.
+
+01:27:34.000 --> 01:27:37.000
+Venga, dale, pégalo, ¿lo has pegado? ¿lo has pegado el segundo?
+
+01:27:37.000 --> 01:27:39.000
+Sí, sí, sí, el segundo lo pegué. A ver, y el.
+
+01:27:39.000 --> 01:27:44.000
+Venga, pues pega el tercero. No, no han mandado un tercero, quita, quita, no te preocupes, vale con esto, vale con esto, Lisi, quieta.
+
+01:27:44.000 --> 01:27:45.000
+ahora ahora en el chat pincha en el chat.
+
+01:27:45.000 --> 01:27:48.000
+Bueno, le doy con esto, sí.
+
+01:27:48.000 --> 01:27:53.000
+Y dale control A.
+
+01:27:53.000 --> 01:27:57.000
+Pincha, pincha, y no muevas el ratón, pincha encima del chat, como si fueras a escribir.
+
+01:27:57.000 --> 01:27:58.000
+Y ahora control C.
+
+01:27:58.000 --> 01:28:01.000
+Sí. Sí.
+
+01:28:01.000 --> 01:28:04.000
+Vale, y ahora sube para arriba del todo al primer mensaje.
+
+01:28:04.000 --> 01:28:05.000
+I para editarlo, ah, ya entendí.
+
+01:28:05.000 --> 01:28:08.000
+Ah, ya, hey, my friend, vamos.
+
+01:28:08.000 --> 01:28:09.000
+O la flechita de la derecha que no tenemos tiempo, venga.
+
+01:28:09.000 --> 01:28:12.000
+Mm-hmm.
+
+01:28:12.000 --> 01:28:13.000
+Sí, claro.
+
+01:28:13.000 --> 01:28:20.000
+Claro, optimiza el tiempo, venga, edítalo.
+
+01:28:20.000 --> 01:28:21.000
+Venga y ahora pégalo abajo en todo. Baja abajo del todo.
+
+01:28:21.000 --> 01:28:26.000
+Yeah, lo pego aquí. Aquí no, aquí.
+
+01:28:26.000 --> 01:28:30.000
+No, no, no, no, no, no, no, no, su ahí, pero hace scroll, es que tiene más texto debajo.
+
+01:28:30.000 --> 01:28:34.000
+No, no, quieta, baja, ahí dentro de Zoho, ¿hay más debajo.
+
+01:28:34.000 --> 01:28:36.000
+Oh!
+
+01:28:36.000 --> 01:28:37.000
+Okay.
+
+01:28:37.000 --> 01:28:42.000
+Venga, de abajo del todo, ahí pégalo.
+
+01:28:42.000 --> 01:28:47.000
+Vale, dale enviar.
+
+01:28:47.000 --> 01:28:50.000
+Y te vas a comer lisi, la siguiente incidencia.
+
+01:28:50.000 --> 01:28:51.000
+Germán. cada código lo has visto ya?
+
+01:28:51.000 --> 01:28:59.000
+Y he visto la interfaz se ha creado. Se ha creado un Crm.
+
+01:28:59.000 --> 01:29:00.000
+Vale. ¿Vale?
+
+01:29:00.000 --> 01:29:05.000
+Donde dice clientes, ventas e inventario, pero pero pero creo que no funciona. Pero pero.
+
+01:29:05.000 --> 01:29:10.000
+No, no, escucha, dale en el visor ese de HTML a la izquierda hay una barra lateral, le has dado a view full eh.
+
+01:29:10.000 --> 01:29:12.000
+Full page.
+
+01:29:12.000 --> 01:29:13.000
+eh, full view o algo así, o full page?
+
+01:29:13.000 --> 01:29:17.000
+See preview full page. No.
+
+01:29:17.000 --> 01:29:18.000
+Y esa la pantalla completa y ahí no funciona.
+
+01:29:18.000 --> 01:29:22.000
+A ver. Me dice clientes a ver nombre. Voy a poner germán.
+
+01:29:22.000 --> 01:29:26.000
+Ciudad Madrid, y añadir.
+
+01:29:26.000 --> 01:29:33.000
+Así lo está creando.
+
+01:29:33.000 --> 01:29:34.000
+Nice to. Gracias.
+
+01:29:34.000 --> 01:29:37.000
+Okay, a comer, siguiente incidencia.
+
+01:29:37.000 --> 01:29:40.000
+Vamos. Ahora lo vemos permanente, venga.
+
+01:29:40.000 --> 01:29:41.000
+Lisi, te estás compartiendo. Pantalla.
+
+01:29:41.000 --> 01:29:44.000
+Me voy a comer adiós.
+
+01:29:44.000 --> 01:29:45.000
+Lucy se ha ido a comer.
+
+01:29:45.000 --> 01:29:48.000
+Sí, espera que la quito yo, la quito yo, la quito yo, no te preocupes, la quito yo.
+
+01:29:48.000 --> 01:29:49.000
+Vale.
+
+01:29:49.000 --> 01:29:51.000
+Vale, ¿quién más tiene incidencia? Venga.
+
+01:29:51.000 --> 01:29:56.000
+No, yo resuelto, ya tengo el código, es bueno, estaba terminando de tal, pregunta.
+
+01:29:56.000 --> 01:30:01.000
+Emm este código lo vamos a meter ahora en otra para que nos genere el C R M.
+
+01:30:01.000 --> 01:30:02.000
+No, eso es el C R M. Mira, para todo el que lo tenga ya, os pongo un, un enlace aquí.
+
+01:30:02.000 --> 01:30:13.000
+Local M, o sea. Vale, pues, si yo quiero modificar porque no sé en qué color me lo va a sacar ni nada, quiero mis colores corporativos.
+
+01:30:13.000 --> 01:30:14.000
+Esa es.
+
+01:30:14.000 --> 01:30:15.000
+Isa, Elisa, escucha Elisa, frena, frena.
+
+01:30:15.000 --> 01:30:16.000
+Venga, vale, freno.
+
+01:30:16.000 --> 01:30:23.000
+pongo un enlace en el chat. entrar todos, los que tengáis el código ya, entrar.
+
+01:30:23.000 --> 01:30:27.000
+Yo no tengo el código.
+
+01:30:27.000 --> 01:30:28.000
+a la vuelta lo vamos a hacer, vete a comer tranquila.
+
+01:30:28.000 --> 01:30:32.000
+Venga. Así que tengo que hacer lasaña para la niña.
+
+01:30:32.000 --> 01:30:33.000
+Vale.
+
+01:30:33.000 --> 01:30:35.000
+Venga, vente a comer, no te preocupes. Elisa, ¿has abierto esto?
+
+01:30:35.000 --> 01:30:37.000
+Sí, estoy en ello. Me está preguntando a mí cosas de las cookies.
+
+01:30:37.000 --> 01:30:41.000
+Ahora copias en los. Vale, copias todo el codeguito, los cuadraditos de arriba del todo el código?
+
+01:30:41.000 --> 01:30:46.000
+Vale, ya está.
+
+01:30:46.000 --> 01:30:50.000
+Más vale, espérate, que veo que no he terminado, que aquí sigue tatá.
+
+01:30:50.000 --> 01:30:53.000
+Claro, es que me extraña que termine.
+
+01:30:53.000 --> 01:30:55.000
+Vale, no, claro, es que le he metido todos los expedientes, todos los clientes y todas las facturas.
+
+01:30:55.000 --> 01:30:58.000
+Mira.
+
+01:30:58.000 --> 01:31:04.000
+That's a flipar, Elisa, a ti te va a cambiar la vida, créeme, hazme caso, ¿eh? Mira, Elisa, te lo voy a enseñar para cuando termine, ¿vale? Para que no te dé ansiedad, mira.
+
+01:31:04.000 --> 01:31:05.000
+está la banda. Escucha, esta es la palabra que está en la página que ves, ¿no?
+
+01:31:05.000 --> 01:31:10.000
+No me decía la fiesta me conoces.
+
+01:31:10.000 --> 01:31:11.000
+Mira, tú lo pegas aquí, ¿vale? No estoy escribiendo yo, tú esto lo borras y lo pegas aquí.
+
+01:31:11.000 --> 01:31:15.000
+Sí, sí, sí.
+
+01:31:15.000 --> 01:31:16.000
+Y te va a salir aquí a la derecha el CRM, ¿vale?
+
+01:31:16.000 --> 01:31:18.000
+Borro eso y pegó ahí todo. Vale.
+
+01:31:18.000 --> 01:31:23.000
+Vale, pero luego dale aquí a esto porque lo que va a hacer es dártelo en grande como en web.
+
+01:31:23.000 --> 01:31:24.000
+Vale al botoncito de la izquierda y lo ves.
+
+01:31:24.000 --> 01:31:27.000
+Vale.
+
+01:31:27.000 --> 01:31:32.000
+¿Vale? Y ahora a la vuelta vamos a ver varios y vamos a, vamos a empezar a tocar y vamos a ver el valor que puede tener, ¿vale?
+
+01:31:32.000 --> 01:31:33.000
+Vale.
+
+01:31:33.000 --> 01:32:03.000
+Venga a comer todo el mundo.
+
+01:57:13.000 --> 01:57:31.000
+Está por ahí Lisí?
+
+01:57:31.000 --> 01:57:32.000
+Hola hola hola.
+
+01:57:32.000 --> 01:57:35.000
+Yo estoy. Ya me ha hecho, me ha hecho el CRM, sí.
+
+01:57:35.000 --> 01:57:39.000
+Te lo ha hecho ya?
+
+01:57:39.000 --> 01:57:48.000
+Por lo que sea, no ha cogido todos los datos del Excel, supongo que como los he copiado, los he pegado rápidos, no ha leído todo.
+
+01:57:48.000 --> 01:57:49.000
+for academy, and.
+
+01:57:49.000 --> 01:57:50.000
+Me ha cogido como salteado.
+
+01:57:50.000 --> 01:57:52.000
+¿Por qué lo dices?
+
+01:57:52.000 --> 01:58:01.000
+Pues porque en las facturas. Me ha cogido de este año 2026, me ha cogido 2.
+
+01:58:01.000 --> 01:58:07.000
+Y del dos mil veinticinco me ha cogido dos, cuatro, seis ocho.
+
+01:58:07.000 --> 01:58:16.000
+10. Y ya te digo yo que tengo más de 10 facturas en el 2025 y más de dos en el 2026 y voy por la veintitantos.
+
+01:58:16.000 --> 01:58:18.000
+Y todos los Excel son iguales?
+
+01:58:18.000 --> 01:58:21.000
+Todos los Excel son iguales, sí.
+
+01:58:21.000 --> 01:58:27.000
+Ferrarísimo esto que me dices, ¿eh?
+
+01:58:27.000 --> 01:58:28.000
+Y los va peganteros, claro, o sea, entiendo que sí.
+
+01:58:28.000 --> 01:58:35.000
+No sé. Sí, sí, sí, copiar, pegar desde la primera celda hasta la última celda.
+
+01:58:35.000 --> 01:58:42.000
+Los expedientes lo mismo. Igual y las clientes igual, o sea, no sé, no he comprobado, pero vamos.
+
+01:58:42.000 --> 01:58:49.000
+clientes aquí hay 106. Y aquí no hay 106, 1, 2, 3, 4, 5.
+
+01:58:49.000 --> 01:58:52.000
+y te ha creado alguna cosa como para subir tú los Exceles?
+
+01:58:52.000 --> 01:58:54.000
+Sí, eso sí.
+
+01:58:54.000 --> 01:58:58.000
+Subelos tú, resúbelos.
+
+01:58:58.000 --> 01:59:05.000
+A ver, importar clientes. Ah, deja aquí la tabla, la de espera.
+
+01:59:05.000 --> 01:59:09.000
+Mira, apúntate un cambio que tienes que hacer, no pegas ya más tablas, subes archivos.
+
+01:59:09.000 --> 01:59:15.000
+Vale.
+
+01:59:15.000 --> 01:59:25.000
+El resto, todo el que lo he puesto en el chat, todo el que quiera mandarme el archivito de HTML y lo pongo aquí en clase, lo veo siempre que no tenga como Elisa, por ejemplo, datos sensibles, o sea.
+
+01:59:25.000 --> 01:59:35.000
+cosas de vuestra empresa pues ese no vale. Pero el que lo haya hecho simulado, si me quiere pegar el HDML lo abro yo aquí y lo vemos en clase, ¿vale? ¿te lo ha hecho ya Iván o no?
+
+01:59:35.000 --> 01:59:36.000
+¿Y qué tal ha ido?
+
+01:59:36.000 --> 01:59:42.000
+Yo sí lo tengo. bonito muy bonito sabes.
+
+01:59:42.000 --> 01:59:44.000
+Pero la, ajá, pero no lo has probado todavía?
+
+01:59:44.000 --> 01:59:45.000
+Ah, mira, mira, mira, mira, mira. en el chat, espérate, lo pego otra vez.
+
+01:59:45.000 --> 01:59:51.000
+No, no, ¿qué tengo que hacer ahora?
+
+01:59:51.000 --> 01:59:53.000
+Es muy bonito, ¿eh?
+
+01:59:53.000 --> 01:59:59.000
+En ese enlace, métete en ese enlace copia, espera antes de ir, cópiate en el GPT cópiate el codeito.
+
+01:59:59.000 --> 02:00:00.000
+Sí copiado. Ok.
+
+02:00:00.000 --> 02:00:10.000
+Y ahora abres este enlace. Y según entrés donde sale marcado arriba en azul un texto bórralo y pegas tu código.
+
+02:00:10.000 --> 02:00:12.000
+En ese espacio tan pequeño.
+
+02:00:12.000 --> 02:00:17.000
+No, eh, se te va a poner entero. Mira, le sigo yo mi pantalla.
+
+02:00:17.000 --> 02:00:21.000
+Muy bien, okey, y ahora que tengo algún botón.
+
+02:00:21.000 --> 02:00:24.000
+No, ahora se te ha puesto el C R M a la derecha, ¿verdad?
+
+02:00:24.000 --> 02:00:25.000
+Y ahora dale a la izquierda a la, a la pestañita que pone la primera preview.
+
+02:00:25.000 --> 02:00:29.000
+Sí.
+
+02:00:29.000 --> 02:00:30.000
+full page.
+
+02:00:30.000 --> 02:00:33.000
+Ok. Ok.
+
+02:00:33.000 --> 02:00:35.000
+Ahí lo tienes tu C R M. Eso ya, o sea, no, esto es para que lo previsualices.
+
+02:00:35.000 --> 02:00:41.000
+Y qué hago ahora con eso?
+
+02:00:41.000 --> 02:00:42.000
+Tú ahí ya lo puedes usar, si le das tienes que poder usarlo como el mío de antes, es lo mismo.
+
+02:00:42.000 --> 02:00:50.000
+Okey.
+
+02:00:50.000 --> 02:00:51.000
+A mí no me sale.
+
+02:00:51.000 --> 02:00:53.000
+datos, exportar JSON.
+
+02:00:53.000 --> 02:00:55.000
+Pero enseño mira.
+
+02:00:55.000 --> 02:00:59.000
+A ver.
+
+02:00:59.000 --> 02:01:05.000
+Vale, ahí tienes, hay x propiedades, 3 ocupadas, no sé cuántas disponibles, ingresos, pum pum pum.
+
+02:01:05.000 --> 02:01:12.000
+La rentabilidad por propiedad, bueno, eso es por provincia, ¿no? Rentabilidad por provincia por propiedad.
+
+02:01:12.000 --> 02:01:19.000
+Y luego a la izquierda tienes propiedades, vete navegando por el menú de la izquierda.
+
+02:01:19.000 --> 02:01:24.000
+Ahí tienes todas las propiedades, puedes ver si le das a la derecha acciones.
+
+02:01:24.000 --> 02:01:27.000
+poder a la derecha, a la derecha en una propiedad.
+
+02:01:27.000 --> 02:01:31.000
+Hay un botón a la derecha del todo. que pone ver.
+
+02:01:31.000 --> 02:01:38.000
+Sí, y ahí ves pues lo que está ocupado te habrá puesto equis en base a los datos, ¿vale? Todo esto ya es modificable, ¿vale?
+
+02:01:38.000 --> 02:01:41.000
+Pincha fuera. Fuera de ese cuadro para volver al CRM.
+
+02:01:41.000 --> 02:01:47.000
+¿Pero dónde?
+
+02:01:47.000 --> 02:01:48.000
+Tengo reflejo del usuario. Dime.
+
+02:01:48.000 --> 02:02:02.000
+Ahora piensa en clientes. Sigue navegando por el nudo de la izquierda?
+
+02:02:02.000 --> 02:02:11.000
+Uh, no, no me lo muestra.
+
+02:02:11.000 --> 02:02:27.000
+Y eso es en preview y para.
+
+02:02:27.000 --> 02:02:32.000
+Nosotros pagaremos unos mil doscientos euros al año para tener esto.
+
+02:02:32.000 --> 02:02:45.000
+Pero evidentemente hay funcionalidades que son distintas, ¿no?
+
+02:02:45.000 --> 02:02:46.000
+Mm-hm.
+
+02:02:46.000 --> 02:03:04.000
+Se ha caído.
+
+02:03:04.000 --> 02:03:11.000
+Desapareció.
+
+02:03:11.000 --> 02:03:41.000
+Yo no puedo ver nada tampoco.
+
+02:06:54.000 --> 02:07:01.000
+Hola chicos, que se le ha caído a Aitor la conexión que ahora mismo vuelve a entrar, ¿vale?
+
+02:07:01.000 --> 02:07:02.000
+Okay. Vale.
+
+02:07:02.000 --> 02:07:03.000
+Gracias.
+
+02:07:03.000 --> 02:07:33.000
+Nada.
+
+02:07:37.000 --> 02:07:45.000
+Como justo he visto que se han vuelto a conectar varios compañeros, repito que Aitor se ha tenido se le ha caído la conexión que se está reconectando, enseguida vuelve.
+
+02:07:45.000 --> 02:07:49.000
+Y para lo, me imagino que estabais de descanso.
+
+02:07:49.000 --> 02:07:54.000
+Los descansos si os desconectáis. Perdí minutos de conexión, cada minuto cuenta.
+
+02:07:54.000 --> 02:07:58.000
+Si estáis en el descanso, quitáis la cámara, os quitáis el micro.
+
+02:07:58.000 --> 02:08:05.000
+Os levantáis lo que queráis, pero no os salgáis de la sesión si podéis evitarlo, porque si no vais a estar descontando minutos.
+
+02:08:05.000 --> 02:08:08.000
+Y es una pena, ¿vale?
+
+02:08:08.000 --> 02:08:38.000
+Okay.
+
+02:09:39.000 --> 02:10:09.000
+Ya entendí.
+
+02:10:26.000 --> 02:10:56.000
+Sí.
+
+02:11:14.000 --> 02:11:19.000
+Si no, no habéis vuelto, ¿no?
+
+02:11:19.000 --> 02:11:20.000
+Yeah. Es que a mí a mí me pilla en.
+
+02:11:20.000 --> 02:11:22.000
+No, no volvió Aitor, no.
+
+02:11:22.000 --> 02:11:29.000
+En una. En una reunión con farmacéuticos me estoy yendo ahora o sea que.
+
+02:11:29.000 --> 02:11:31.000
+que habéis visto? Cuéntame.
+
+02:11:31.000 --> 02:11:36.000
+eh, mira, la, cómo armar el tema del C R M.
+
+02:11:36.000 --> 02:11:42.000
+eh, nos estuvo, nos pasó, eh, dos G P T.
+
+02:11:42.000 --> 02:11:43.000
+Eh. Vale.
+
+02:11:43.000 --> 02:11:46.000
+Bueno, me pongo en silencio.
+
+02:11:46.000 --> 02:12:16.000
+Y. Nada, después lo verás con.
+
+02:12:17.000 --> 02:12:28.000
+Puede que castañazo me he pegado, perdón. Es que no he podido ni conectarme con la red del móvil, me he intentado conectar con el móvil, no sé, han barrido todo, he tenido que reiniciar y todo.
+
+02:12:28.000 --> 02:12:35.000
+Estamos todos o qué? A ver, un. Iván, perdóname, que estaba contigo, perdóname.
+
+02:12:35.000 --> 02:12:41.000
+Ehm, ahí tenemos tienes. Todo lo que te ha montado que puedes gestionar ahora mismo.
+
+02:12:41.000 --> 02:12:44.000
+¿Vale? Sí.
+
+02:12:44.000 --> 02:12:45.000
+Sí, sí.
+
+02:12:45.000 --> 02:12:52.000
+Esto es ahora, es una base, claro, te ha hecho lo que le ha dado la gana con el poquito que le hemos pedido, ¿vale?
+
+02:12:52.000 --> 02:12:59.000
+aunque nos quedamos con que ha montado un CRM usable que ese archivito HTML si me lo guardo en el ordenador y hago doble clic?
+
+02:12:59.000 --> 02:13:06.000
+Eso funciona de continuo, ¿vale? Le puedo añadir una base de datos para que me vaya almacenando, imagínate, cada vez que guarde Iván.
+
+02:13:06.000 --> 02:13:09.000
+que cargue un Excel nuevo, vale, que haga una actualización.
+
+02:13:09.000 --> 02:13:13.000
+Me guarda una copia del de lo que había antes, por ejemplo, ¿vale?
+
+02:13:13.000 --> 02:13:18.000
+Todo esto se tiene que ir trabajando, ¿vale? Igual que la parte visual y demás, y adaptarlo a ti, ¿vale?
+
+02:13:18.000 --> 02:13:22.000
+ni más ni menos, no tiene más, ¿vale? Ahora voy con el resto, Lizzie.
+
+02:13:22.000 --> 02:13:27.000
+Ya sé dónde está lo tuyo. Mira. Mira.
+
+02:13:27.000 --> 02:13:28.000
+It had a.
+
+02:13:28.000 --> 02:13:29.000
+No, I mean, si los. Lo hice, pero el código lo pegué en el HTML y no.
+
+02:13:29.000 --> 02:13:34.000
+Ella son.
+
+02:13:34.000 --> 02:13:35.000
+A mí tampoco.
+
+02:13:35.000 --> 02:13:37.000
+Un segundito, primero a lo de creador. Voy, voy, un segundito, mira, sí, ¿dónde está? Le digo dónde está y ya lo mueves tú, ¿vale?
+
+02:13:37.000 --> 02:13:43.000
+Okay.
+
+02:13:43.000 --> 02:13:44.000
+Okay. Eh, sí.
+
+02:13:44.000 --> 02:13:50.000
+eh ahí lo ves. Sí, mira, cuando te metes en la app.
+
+02:13:50.000 --> 02:13:53.000
+Y las bandadas. Para nosotros.
+
+02:13:53.000 --> 02:13:54.000
+Sí. Sí.
+
+02:13:54.000 --> 02:14:01.000
+Aquí arriba hay un dashboard. Vale, y cuando le das aquí, a mí no me deja porque esta cuenta no es premium, pero aquí.
+
+02:14:01.000 --> 02:14:03.000
+En code tienes todas las carpetas de la app están ahí dentro, es todo esto que a mí me sale borroso, a ti te sale bien y pagas.
+
+02:14:03.000 --> 02:14:11.000
+Sí.
+
+02:14:11.000 --> 02:14:16.000
+Y aquí por aquí arriba o a la derecha tienes un botón que pone descargar, mira, aquí arriba a la derecha está.
+
+02:14:16.000 --> 02:14:17.000
+Okey. Ujum.
+
+02:14:17.000 --> 02:14:22.000
+descargar zip vale. Ese tip, si tú ahora se lo subes a G P T.
+
+02:14:22.000 --> 02:14:23.000
+Muy ató con el mañana.
+
+02:14:23.000 --> 02:14:28.000
+Él ahora le dice si cámbiame esto y cámbiame lo otro y ya no sé qué y cámbiame lo otro.
+
+02:14:28.000 --> 02:14:29.000
+Igual que haces el T R M igual igual igual.
+
+02:14:29.000 --> 02:14:32.000
+Hmm, ah ah.
+
+02:14:32.000 --> 02:14:33.000
+¿Vale? Igual. Vale, ¿quién?
+
+02:14:33.000 --> 02:14:34.000
+Otra tels negra que yo he visto varias páginas.
+
+02:14:34.000 --> 02:14:36.000
+Okay. Okay. El ser humano no lo pude, no, no me da alcohol.
+
+02:14:36.000 --> 02:14:37.000
+Esa misma que está en negra. Bueno, esa misma.
+
+02:14:37.000 --> 02:14:40.000
+Ahora, ahora vuelvo contigo, voy a, voy a portero, vuelvo contigo. ¿a quién no le ha salido?
+
+02:14:40.000 --> 02:14:42.000
+Great.
+
+02:14:42.000 --> 02:14:44.000
+Yo yo.
+
+02:14:44.000 --> 02:14:48.000
+Después había un teclear Teclad.
+
+02:14:48.000 --> 02:14:49.000
+A ver, perdón, dame un segundo, todo lo que nos está hablando en el silencio.
+
+02:14:49.000 --> 02:14:50.000
+Es que Mario creo que tiene el altavoz activado. Si quieres.
+
+02:14:50.000 --> 02:14:53.000
+Y negro. Esa bolsita tampoco te gustó.
+
+02:14:53.000 --> 02:14:55.000
+Ay, eh, espera, a ver si me pueden, es que me, como me salí entrado un segundo.
+
+02:14:55.000 --> 02:15:02.000
+Tú tenías. Entonces lo miraste también. Tú tenías otra vez guardada en mi bolsita.
+
+02:15:02.000 --> 02:15:03.000
+Puede haber sífined.
+
+02:15:03.000 --> 02:15:08.000
+¿Quién está? Marión, porfa, ¿me oyes?
+
+02:15:08.000 --> 02:15:09.000
+Es que no, hasta que Elena no me haga anfitrión no puedo.
+
+02:15:09.000 --> 02:15:12.000
+Esa es la que estaba guardada en la bolsita. Yo la quite sí, porque llegaron hoy.
+
+02:15:12.000 --> 02:15:16.000
+Marion.
+
+02:15:16.000 --> 02:15:17.000
+Por favor, todo el mundo silenciado. Todo el mundo, o sea, no hable conmigo.
+
+02:15:17.000 --> 02:15:22.000
+Así, nueve citas.
+
+02:15:22.000 --> 02:15:23.000
+Please.
+
+02:15:23.000 --> 02:15:25.000
+Pero es esta misma que yo. Le quité el plástico de esta cosa que.
+
+02:15:25.000 --> 02:15:29.000
+Marion.
+
+02:15:29.000 --> 02:15:34.000
+A ver si me hacen anfitrión. El eh quién no tenía a quién no le salía.
+
+02:15:34.000 --> 02:15:35.000
+¿A quién no le salías? tienes a mí, es que te digo súper bajito quien lo diga.
+
+02:15:35.000 --> 02:15:39.000
+Y también cambia mucho si le quitase el Asa, porque se la hace bastante.
+
+02:15:39.000 --> 02:15:40.000
+Menos puesta que también depende, como usted quieras.
+
+02:15:40.000 --> 02:15:44.000
+Esther, vale, Esther, ¿tú has copiado el archivito y lo has guardado?
+
+02:15:44.000 --> 02:15:50.000
+Quedan mucho más.
+
+02:15:50.000 --> 02:15:51.000
+A ver ahora vale.
+
+02:15:51.000 --> 02:15:52.000
+Desenfadada sin él.
+
+02:15:52.000 --> 02:15:54.000
+El archivito HTML.
+
+02:15:54.000 --> 02:15:57.000
+Creo que ahora te oigo.
+
+02:15:57.000 --> 02:16:02.000
+Vale, Diego, ah, espera que mira, que ya, ya puedo silenciar un segundito.
+
+02:16:02.000 --> 02:16:07.000
+Vale, Esther te decía, tú el código lo has pegado en un archivo y has creado ese archivo HTML.
+
+02:16:07.000 --> 02:16:09.000
+Sí, yo le he pedido al G. P. P.
+
+02:16:09.000 --> 02:16:13.000
+Vale. Le he metido todos los excel y todo lo que hemos dicho.
+
+02:16:13.000 --> 02:16:14.000
+Okay. Vita grabo el código. Vale.
+
+02:16:14.000 --> 02:16:21.000
+Se ha creado el código, pero me da la sensación de que el código que me crea es súper corto.
+
+02:16:21.000 --> 02:16:22.000
+Okay.
+
+02:16:22.000 --> 02:16:29.000
+Súper corto. Vale, ¿has cogido ese codito y lo has llevado a un archivo y lo has guardado como yo te he dicho?
+
+02:16:29.000 --> 02:16:32.000
+Sí, en el.
+
+02:16:32.000 --> 02:16:33.000
+En una en un blog de notas.
+
+02:16:33.000 --> 02:16:34.000
+Vale, súbeme ese archivo.
+
+02:16:34.000 --> 02:16:36.000
+En una hoja de notas.
+
+02:16:36.000 --> 02:16:39.000
+¿Vale? Y lo has guardado como punto HTML.
+
+02:16:39.000 --> 02:16:44.000
+No ves eso? Eso me ha fallado.
+
+02:16:44.000 --> 02:16:48.000
+Vale, pues guárdalo o o tal cual lo tienes, no te preocupes, tal cual lo tienes.
+
+02:16:48.000 --> 02:16:49.000
+Mándamelo por un chat privado.
+
+02:16:49.000 --> 02:16:58.000
+A ver una pregunta. A mí me da la opción de guardarlo como documento de texto aquí no.
+
+02:16:58.000 --> 02:16:59.000
+Pues yo lo pongo como.
+
+02:16:59.000 --> 02:17:02.000
+Mm-hm.
+
+02:17:02.000 --> 02:17:03.000
+El jugador.
+
+02:17:03.000 --> 02:17:05.000
+Tú el código guárdalo en un archivo y me lo subes al chat.
+
+02:17:05.000 --> 02:17:07.000
+Vale.
+
+02:17:07.000 --> 02:17:14.000
+Ya está. ¿y a quién más no le ha salido?
+
+02:17:14.000 --> 02:17:20.000
+Lisie, vale. que no, que te ha generado el código?
+
+02:17:20.000 --> 02:17:27.000
+No te oigo, estás en mute.
+
+02:17:27.000 --> 02:17:33.000
+Sí, me generó el código. eh, lo pegué en.
+
+02:17:33.000 --> 02:17:38.000
+Eh en el H T M L digamos para poder visualizarlo en el.
+
+02:17:38.000 --> 02:17:43.000
+link que mandaste y no. O sea, no me aparece.
+
+02:17:43.000 --> 02:17:47.000
+una imagen me aparece en todos. eh, datos, nada más.
+
+02:17:47.000 --> 02:17:53.000
+Vale, y solo te da un código, ¿no? Fpt.
+
+02:17:53.000 --> 02:17:54.000
+Haz lo mismo que Esther.
+
+02:17:54.000 --> 02:17:55.000
+Eh sí, sí, sí.
+
+02:17:55.000 --> 02:17:59.000
+Una pregunta.
+
+02:17:59.000 --> 02:18:00.000
+Sí, sí, sí, sí, sí, sí.
+
+02:18:00.000 --> 02:18:01.000
+documento, un segundo. Un segundo, porfa, cuando vayáis a hablar, levantáis la mano, porfa, ¿vale?
+
+02:18:01.000 --> 02:18:03.000
+lo que. Lo pego, sí.
+
+02:18:03.000 --> 02:18:09.000
+Lizzie, cuando. Regalo un documento todo el código que te ha dado GPT.
+
+02:18:09.000 --> 02:18:10.000
+en Word y me lo mandas por el chat.
+
+02:18:10.000 --> 02:18:14.000
+En un Word, por ejemplo. Okay, vale.
+
+02:18:14.000 --> 02:18:15.000
+Mm-hm.
+
+02:18:15.000 --> 02:18:16.000
+Vale, Esther, dime.
+
+02:18:16.000 --> 02:18:21.000
+Es el código completo. O sea, el paso. Dos, el paso tres: todo.
+
+02:18:21.000 --> 02:18:22.000
+No código, código.
+
+02:18:22.000 --> 02:18:24.000
+¿Cómo pasados y paso 3.
+
+02:18:24.000 --> 02:18:31.000
+Claro, a mí me da un arquitectura profesional, estructura del proyecto backend completo.
+
+02:18:31.000 --> 02:18:37.000
+Serberg, J. S. Modelo de cliente, modelo de producto.
+
+02:18:37.000 --> 02:18:38.000
+Sí.
+
+02:18:38.000 --> 02:18:41.000
+Pero quedaban muchos archivos.
+
+02:18:41.000 --> 02:18:44.000
+Eso no es lo que hemos pedido.
+
+02:18:44.000 --> 02:18:48.000
+Me ha dado diecisiete mil archivos diferentes autologic rutas del cliente.
+
+02:18:48.000 --> 02:18:52.000
+Claro, porque cada. ¿Qué le has pedido? Dime que le has pedido?
+
+02:18:52.000 --> 02:18:54.000
+El que has puesto tú antes.
+
+02:18:54.000 --> 02:18:58.000
+O sea quiero decir el lo que habías puesto tú en el prom.
+
+02:18:58.000 --> 02:19:04.000
+Pero le he cambiado todos los archivos que le habías. Metido tú. Y he metido los míos.
+
+02:19:04.000 --> 02:19:06.000
+Vale, ¿y arriba no has cambiado nada en el texto?
+
+02:19:06.000 --> 02:19:13.000
+He cambiado. Bueno, le he dicho que no soy una empresa de caracoles.
+
+02:19:13.000 --> 02:19:16.000
+Y espera que llego arriba.
+
+02:19:16.000 --> 02:19:23.000
+Sí. O sea, escucha, Esther, Esther, te lo digo claro.
+
+02:19:23.000 --> 02:19:26.000
+Porque yo te preguntaba, ¿has cambiado algo del texto arriba y me has dicho no.
+
+02:19:26.000 --> 02:19:27.000
+Sí le he puesto el.
+
+02:19:27.000 --> 02:19:33.000
+algo que le ha puesto a escucha, escúchame. algo de que lo has puesto arriba, de lo que le has puesto arriba, ¿vale?
+
+02:19:33.000 --> 02:19:40.000
+Te ha generado una base de datos trasera, un backend, un no sé qué, que yo no lo he puesto arriba eso.
+
+02:19:40.000 --> 02:19:41.000
+Entonces, léeme lo que le has pedido.
+
+02:19:41.000 --> 02:19:53.000
+Buenas tardes como es especialista en h t m l cs y javascript necesito que me ayudes a crear un C R. M. Sencillo para gestionar mi empresa y distribuidora de productos Orek. He exportado los datos que tengo que te puedo adjuntar y debe ser gestión gestion.
+
+02:19:53.000 --> 02:19:57.000
+Sencilla con las principales funcionalidades que tienen como mona c R. M.
+
+02:19:57.000 --> 02:19:59.000
+Odo y o zoo.
+
+02:19:59.000 --> 02:20:05.000
+Debe estar adaptado a responsitive y visualizarse en cualquier dispositivo.
+
+02:20:05.000 --> 02:20:06.000
+Y a partir de ahí le he pegado.
+
+02:20:06.000 --> 02:20:10.000
+Por ejemplo, no los han ido nada. Vale, sigue, sigue.
+
+02:20:10.000 --> 02:20:13.000
+Y a partir de ahí le he pegado todos mis archivos.
+
+02:20:13.000 --> 02:20:16.000
+Entonces no la ha generado, no, o sea, no has añadido nada arriba, ¿no? O sea, aparte de lo mío me refiero.
+
+02:20:16.000 --> 02:20:23.000
+No, no le he cambiado la empresa de caracoles por productos. Ya está.
+
+02:20:23.000 --> 02:20:27.000
+Lo único que le he cambiado.
+
+02:20:27.000 --> 02:20:37.000
+Mira, en P C. Eh, mira, en, si le das al nombre del G P T.
+
+02:20:37.000 --> 02:20:38.000
+Sí, arriba.
+
+02:20:38.000 --> 02:20:41.000
+Al, arriba, ¿vale? Ahí pone compartir.
+
+02:20:41.000 --> 02:20:46.000
+En donde pone auto no.
+
+02:20:46.000 --> 02:20:49.000
+No, en cuando le das al nombre será un desplegable muy grande.
+
+02:20:49.000 --> 02:20:59.000
+Si nuevo chat acerca de ocultar barras, copiar enlace, enviar comentarios, valorar, informar y compartir.
+
+02:20:59.000 --> 02:21:08.000
+me lo sé de memoria, ¿sabes? Vale, y ese copia el enlace y mándamelo por el chat.
+
+02:21:08.000 --> 02:21:16.000
+Vale que lo reviso. Eh, ¿alguien más no le ha salido?
+
+02:21:16.000 --> 02:21:20.000
+Germán, ¿qué te ha salido a ti? Ah, dime, dime, dime, Arturo, Adrián.
+
+02:21:20.000 --> 02:21:31.000
+yo le he dicho a. O sea por hacer el ejemplo desde que de que tú desde que tú has enviado me sale casi bueno pues sale igual que como le salí a Alicia hace un.
+
+02:21:31.000 --> 02:21:32.000
+Hace un rato pero como no. En mi restauración, bueno.
+
+02:21:32.000 --> 02:21:38.000
+y qué sector es?
+
+02:21:38.000 --> 02:21:39.000
+Déjame que vea el de, el de este, mira, ya me lo mandaron.
+
+02:21:39.000 --> 02:21:42.000
+Pero como no tengo.
+
+02:21:42.000 --> 02:21:46.000
+Es rarísimo que os haga como un. el backend es como.
+
+02:21:46.000 --> 02:21:51.000
+O sea, como la parte trasera para gestionar un montón de cosas, ¿sabes? Y es que no tiene sentido que lo haga, es raro, joder.
+
+02:21:51.000 --> 02:21:56.000
+O sea, por el sector, voy a mirar este.
+
+02:21:56.000 --> 02:22:03.000
+Hmm, a ver.
+
+02:22:03.000 --> 02:22:09.000
+Esther, Esther, un Sony.
+
+02:22:09.000 --> 02:22:12.000
+Cargue un segundo.
+
+02:22:12.000 --> 02:22:23.000
+Responsive vale y aquí que te ha hecho, le ha rodado toda la chapa.
+
+02:22:23.000 --> 02:22:36.000
+A ver.
+
+02:22:36.000 --> 02:22:42.000
+A ver. Pues, ¿por qué me queréis engañar, broma?
+
+02:22:42.000 --> 02:22:43.000
+Porque yo. Soy muy de liarlas y no saber de qué he liado. ¿Eh?
+
+02:22:43.000 --> 02:22:52.000
+Pero, ¿por qué? Pero, ¿por qué me queréis engañar? O sea, ¿por qué, por qué me dices que están otros vecinos mil archivos?
+
+02:22:52.000 --> 02:22:58.000
+Mira, te lo enseño, ¿vale? Para el que le haya pasado lo mismo.
+
+02:22:58.000 --> 02:23:08.000
+Adrián. Él te él, tú lo has mandado todo, ¿vale? Y él en vez de darte un HTML pequeñito, ¿vale? Como nos ha pasado a otros, te ha creado como algo un poco más complejo.
+
+02:23:08.000 --> 02:23:15.000
+Igual que ahí van entonces en vez de darte solo un archivo que sería este, el index, vale, donde yo hago doble clic.
+
+02:23:15.000 --> 02:23:22.000
+Y se abre te ha dado este te ha separado los estilos que son como los colorcitos no sé qué.
+
+02:23:22.000 --> 02:23:28.000
+Y como cuando aprietas un botón, vale, cuando aprietas un botón, hay una cosa que se activa, que es JavaScript.
+
+02:23:28.000 --> 02:23:34.000
+Olvidaros, ¿vale? Que es una chorrada. Total. que te ha dado 4 archivos, Esther, 4, ¿vale?
+
+02:23:34.000 --> 02:23:37.000
+El primero es este, que es index. El segundo es este que es Styles.
+
+02:23:37.000 --> 02:23:40.000
+Sí.
+
+02:23:40.000 --> 02:23:44.000
+El tercero es este, ¿vale? Y el cuarto es este.
+
+02:23:44.000 --> 02:23:45.000
+¿Vale? Esos cuatro, ¿vale?
+
+02:23:45.000 --> 02:23:48.000
+Se está el C C S.
+
+02:23:48.000 --> 02:23:49.000
+Mhm.
+
+02:23:49.000 --> 02:23:51.000
+.
+
+02:23:51.000 --> 02:23:54.000
+Vale, esto lo que. tú tienes Mac?
+
+02:23:54.000 --> 02:23:56.000
+No.
+
+02:23:56.000 --> 02:24:03.000
+Vale, mira. Esto, damos un minuto.
+
+02:24:03.000 --> 02:24:07.000
+No sé si estoy viendo mi pantalla completa, solo que la voy a poner entera, ¿vale?
+
+02:24:07.000 --> 02:24:15.000
+y seguros o no. Ay, perdón, perdón, pero tengo que quitar esto un segundito y pongo el vídeo.
+
+02:24:15.000 --> 02:24:21.000
+compartir vídeos, vale. Mira.
+
+02:24:21.000 --> 02:24:24.000
+Esto con la herramienta que les he dado a los demás, ¿vale?
+
+02:24:24.000 --> 02:24:28.000
+que podéis buscar una para Windows que tiene que haber 4000.
+
+02:24:28.000 --> 02:24:35.000
+¿Cómo sería el proceso para que, por si os pasa, vale, al pedir otra cosa?
+
+02:24:35.000 --> 02:24:36.000
+Esto sería archivo nuevo, ¿estáis viendo la pantalla, verdad?
+
+02:24:36.000 --> 02:24:38.000
+Mhm.
+
+02:24:38.000 --> 02:24:39.000
+Vale, archivo nuevo, pego el primero, vale, que es el primero que me ha dado.
+
+02:24:39.000 --> 02:24:43.000
+Sí.
+
+02:24:43.000 --> 02:24:48.000
+Espera que me voy a mover esto a un lado.
+
+02:24:48.000 --> 02:24:50.000
+There's only.
+
+02:24:50.000 --> 02:24:58.000
+Vale, el primero que me ha dado que se llama así index.html, ¿vale? Este de aquí.
+
+02:24:58.000 --> 02:24:59.000
+Un segundo que no sé por qué no me lope ahora.
+
+02:24:59.000 --> 02:25:02.000
+Mm-hmm.
+
+02:25:02.000 --> 02:25:07.000
+Vale, este. Yo le voy a dar archivo.
+
+02:25:07.000 --> 02:25:15.000
+guardar. Y aquí me voy a crear una carpeta nueva que se llama app, por ejemplo.
+
+02:25:15.000 --> 02:25:18.000
+Y lo voy a guardar con el nombre que me ha dicho hoy.
+
+02:25:18.000 --> 02:25:25.000
+Vaya.
+
+02:25:25.000 --> 02:25:33.000
+Guardar ahora voy a darle a uno nuevo. Me da igual segundo, ¿vale? Archivito.
+
+02:25:33.000 --> 02:25:44.000
+Ahora te los paso todos, ¿vale? Un segundo que esto no sé por qué no me, no va súper lento, vale, vengo aquí, lo pego, este que es un segundo.
+
+02:25:44.000 --> 02:25:46.000
+CSS.
+
+02:25:46.000 --> 02:25:51.000
+Le doy aquí arriba.
+
+02:25:51.000 --> 02:25:58.000
+Un segundito que ahora no me deja. me vaya rápido, voy a quitar la pantalla, ¿vale? Que si no va a tardar un montón, es una chorrada.
+
+02:25:58.000 --> 02:26:02.000
+Vale, espero, eso es para Hacerlo En Mac. No.
+
+02:26:02.000 --> 02:26:09.000
+Sí, para todos los que tengáis Windows, ¿vale? Iros a la a donde os deja o en Google directamente, ¿vale? Y ponéis.
+
+02:26:09.000 --> 02:26:17.000
+Rollo en aplicación para crear archivos HTML. Similar.
+
+02:26:17.000 --> 02:26:23.000
+¿Vale? O similar. Un segundito.
+
+02:26:23.000 --> 02:26:28.000
+Te voy a guardar los 4 y ahora os sigo explicando, ¿vale?
+
+02:26:28.000 --> 02:26:32.000
+No, este only beaver. No.
+
+02:26:32.000 --> 02:26:33.000
+Only Bieber el que nos habías pasado, ese no.
+
+02:26:33.000 --> 02:26:37.000
+¿Cuál? No, es que el que os he pasado no es para, es para Mac.
+
+02:26:37.000 --> 02:26:42.000
+para verlo ya eso es para verlo.
+
+02:26:42.000 --> 02:26:43.000
+Google play de Html, editor.
+
+02:26:43.000 --> 02:26:44.000
+Pero si yo lo .
+
+02:26:44.000 --> 02:26:53.000
+Vale, es para. Claro, si alguno, si alguno encuentra alguno que lo diga porque es que, o sea, yo no me conozco los de Windows, ¿vale?
+
+02:26:53.000 --> 02:26:56.000
+Pero alguno si encuentra alguno pues que lo diga.
+
+02:26:56.000 --> 02:27:01.000
+es para, perdón, es para convertir en HTML.
+
+02:27:01.000 --> 02:27:03.000
+es para crear texto. O sea, para crear un archivo, perdóname.
+
+02:27:03.000 --> 02:27:08.000
+Para crear texto. crear archivo.
+
+02:27:08.000 --> 02:27:12.000
+HTML.
+
+02:27:12.000 --> 02:27:21.000
+Vale, crear archivo HTML. Un segundito que ya ha terminado y os lo enseño.
+
+02:27:21.000 --> 02:27:27.000
+Alguien más le ha pasado a bueno aparte de a Adrián, ¿alguien más le ha pasado esto?
+
+02:27:27.000 --> 02:27:29.000
+Eh sí a mí también me pasó. Me dio cuatro, exactamente.
+
+02:27:29.000 --> 02:27:40.000
+que ha dado 4. Vale, okey, y Adrián, ¿tú tienes Mac o tienes Windows?
+
+02:27:40.000 --> 02:27:41.000
+Vale, pues, a ver si encontráis una y, eh.
+
+02:27:41.000 --> 02:27:44.000
+No, no, no.
+
+02:27:44.000 --> 02:27:49.000
+Que sea como esta, ¿vale? O incluso. Ir a Google y le decís.
+
+02:27:49.000 --> 02:27:54.000
+Ehm herramienta para Windows parecida a. Y le ponéis el.
+
+02:27:54.000 --> 02:28:00.000
+Mira, acá me pareció, dice, puedes utilizar cualquier editor de texto como el blog de notas de Windows.
+
+02:28:00.000 --> 02:28:07.000
+Sí, para HTML sí, pero ¿sabes qué pasa, Lisi? Que cuando luego vas a crear un archivo CSS.
+
+02:28:07.000 --> 02:28:08.000
+Vale, ya ese blog no te vale, por eso te he dicho que lo busques directamente, ¿vale? Porque.
+
+02:28:08.000 --> 02:28:12.000
+Claro.
+
+02:28:12.000 --> 02:28:13.000
+Para el HTML sí que te vale y por eso te lo he dicho, ¿vale? Pero para el otro no.
+
+02:28:13.000 --> 02:28:15.000
+Entonces.
+
+02:28:15.000 --> 02:28:17.000
+Me sale a mí uno de Microsoft gratuito que se es Html editor Free.
+
+02:28:17.000 --> 02:28:22.000
+Entonces.
+
+02:28:22.000 --> 02:28:25.000
+Pues mira, ese, por ejemplo, seguro que te vale.
+
+02:28:25.000 --> 02:28:29.000
+Bájatelo. Vale.
+
+02:28:29.000 --> 02:28:30.000
+Un segundo que ya lo estoy. Voy a compartir la pantalla, ¿vale?
+
+02:28:30.000 --> 02:28:37.000
+Uh, editor.
+
+02:28:37.000 --> 02:28:53.000
+Un segundito.
+
+02:28:53.000 --> 02:29:00.000
+Esto porque va tan lento hoy.
+
+02:29:00.000 --> 02:29:03.000
+es que va súper lento, no sé qué le pasa.
+
+02:29:03.000 --> 02:29:11.000
+Ah, vale, ya lo tengo. Estaba de lunes.
+
+02:29:11.000 --> 02:29:16.000
+Vale, ya lo tengo. Ya me lo ha descargado.
+
+02:29:16.000 --> 02:29:17.000
+¿A quién? ¿alguien ha dicho algo?
+
+02:29:17.000 --> 02:29:26.000
+Yo que ya me ha descargado el Html, este editor Free. Entonces, aquí.
+
+02:29:26.000 --> 02:29:27.000
+Donde tengo que meterle las cosas.
+
+02:29:27.000 --> 02:29:33.000
+Ahí es donde pegas el código. Ahí es don, ahí es que, a ver, yo no, no me conozco todas las herramientas, ¿vale?
+
+02:29:33.000 --> 02:29:34.000
+Claro, ya ya ya. Por eso me he quedado callado y he dicho: digo: Te voy a preguntar. ¿Dónde me vas a decir Pues es que si no lo veo.
+
+02:29:34.000 --> 02:29:39.000
+Pero hay.
+
+02:29:39.000 --> 02:29:49.000
+No, no, no, mira, mira, todas las herramientas de estas, ¿vale? Todas o casi todas, al final tienen arriba un archivo.
+
+02:29:49.000 --> 02:29:50.000
+Sí.
+
+02:29:50.000 --> 02:29:52.000
+Nuevo, ¿sabes? o casi todas, vale, ahí te va a dejar o archivo abrir.
+
+02:29:52.000 --> 02:29:57.000
+Acá. Éste tiene varias solapas.
+
+02:29:57.000 --> 02:30:01.000
+CSS Editor.
+
+02:30:01.000 --> 02:30:04.000
+HTML.
+
+02:30:04.000 --> 02:30:05.000
+Esperando, esperando, que termino con ella, espera un segundo.
+
+02:30:05.000 --> 02:30:07.000
+Eh J.
+
+02:30:07.000 --> 02:30:09.000
+lo ves esto de abrir?
+
+02:30:09.000 --> 02:30:12.000
+Si me da como opción de nuevo que me imagino que será lo mismo que abrir.
+
+02:30:12.000 --> 02:30:15.000
+Right.
+
+02:30:15.000 --> 02:30:19.000
+Lo mismo, lo que pasa es que ahí tendrás que pegar el codiguito, igual que en.
+
+02:30:19.000 --> 02:30:25.000
+Pero tiene que venirte subir archivo, ¿vale?
+
+02:30:25.000 --> 02:30:29.000
+tiene que venir.
+
+02:30:29.000 --> 02:30:36.000
+Venga, vamos a pantalla, ya lo tengo. Ahora te lo voy a pasar yo de todas formas estos.
+
+02:30:36.000 --> 02:30:44.000
+Bien, fuera, no me acuerdo. O sea, mira.
+
+02:30:44.000 --> 02:30:50.000
+Un segundo es hacer cambios.
+
+02:30:50.000 --> 02:30:53.000
+Vale, no veis mi pantalla, ¿no? Todavía?
+
+02:30:53.000 --> 02:30:56.000
+No.
+
+02:30:56.000 --> 02:30:57.000
+Ahí la ves? Vale.
+
+02:30:57.000 --> 02:31:01.000
+No, ahora sí.
+
+02:31:01.000 --> 02:31:06.000
+Cuando guardas todos a los que os haya dado varios archivitos, ¿vale? Yo lo que he hecho ha sido.
+
+02:31:06.000 --> 02:31:09.000
+meterlos todos en una carpeta, en una misma carpeta, ¿vale?
+
+02:31:09.000 --> 02:31:10.000
+Vale.
+
+02:31:10.000 --> 02:31:14.000
+Hay un archivo que es como las home de las web siempre se llama index.
+
+02:31:14.000 --> 02:31:19.000
+Vale, esta es la que debería de abrir la aplicación. Si yo hago doble clic aquí.
+
+02:31:19.000 --> 02:31:22.000
+Esto debería abrir el C R M, ¿vale? Y este es el C R M que ha creado.
+
+02:31:22.000 --> 02:31:24.000
+Mm-hmm.
+
+02:31:24.000 --> 02:31:27.000
+Vale, este que está aquí. Esto es lo que quiere, ¿de quién era esto que no recuerdo?
+
+02:31:27.000 --> 02:31:30.000
+Yo mío, pero vamos.
+
+02:31:30.000 --> 02:31:33.000
+You know.
+
+02:31:33.000 --> 02:31:35.000
+There.
+
+02:31:35.000 --> 02:31:36.000
+Pero no me da más explicación.
+
+02:31:36.000 --> 02:31:43.000
+Es que eso no hace nada. No hace nada, tú me has mandado.
+
+02:31:43.000 --> 02:31:47.000
+¿Quién eres? Perdóname que no te he visto, Esther, me han mandado el chat, ¿no?
+
+02:31:47.000 --> 02:31:48.000
+Si te he mandado el Chat, G, P, T. Y si quieres te mando el P, R o m.
+
+02:31:48.000 --> 02:31:56.000
+Sí.
+
+02:31:56.000 --> 02:32:00.000
+Vale, una pregunta, ¿tú qué quieres gestionar con estos documentos que le has mandado?
+
+02:32:00.000 --> 02:32:06.000
+A ver yo lo que quiero es gestionar clientes y proveedores.
+
+02:32:06.000 --> 02:32:07.000
+A ver. Yo tengo una rama de clientes que son.
+
+02:32:07.000 --> 02:32:10.000
+Vale. ¿Sí?
+
+02:32:10.000 --> 02:32:14.000
+Clientes de restauración y distribuidores a nivel nacional.
+
+02:32:14.000 --> 02:32:19.000
+Vale. Tengo una serie de proveedores.
+
+02:32:19.000 --> 02:32:22.000
+Que van a cliente final.
+
+02:32:22.000 --> 02:32:26.000
+A distribuidores o a ambos.
+
+02:32:26.000 --> 02:32:31.000
+Entonces yo tengo listados de productos que van a cliente final.
+
+02:32:31.000 --> 02:32:34.000
+Y a distribuidor con diferentes tarifas.
+
+02:32:34.000 --> 02:32:35.000
+Tengo dime.
+
+02:32:35.000 --> 02:32:39.000
+los dos. Una pregunta, ¿los documentos serán tuyos?
+
+02:32:39.000 --> 02:32:42.000
+Sí.
+
+02:32:42.000 --> 02:32:43.000
+No.
+
+02:32:43.000 --> 02:32:50.000
+Son todos iguales. O sea, de alguna manera tú quieres tener unido esos, esos tres.
+
+02:32:50.000 --> 02:32:51.000
+O sea, el CRM por dentro las tres cosas.
+
+02:32:51.000 --> 02:32:58.000
+A ver yo lo que quiero hacer. Por ejemplo, te pongo un ejemplo. Vale yo la semana que viene tengo una Feria de alimentación en barcelona.
+
+02:32:58.000 --> 02:33:02.000
+Que es enfocada a distribuidores.
+
+02:33:02.000 --> 02:33:03.000
+¿Vale?
+
+02:33:03.000 --> 02:33:11.000
+Entonces yo quiero tener Mi Crm con toda la información, con todos los datos de todos los distribuidores. Y decir: vale pues me meto en los distribuidores y sé los que tienen que venir.
+
+02:33:11.000 --> 02:33:16.000
+Y sé? Qué tipología de producto es la que están trabajando.
+
+02:33:16.000 --> 02:33:17.000
+Porque toda esa información está en mi cabeza. Y mi cabeza, ya hace filtros.
+
+02:33:17.000 --> 02:33:23.000
+Vale, o sea. Vale, mira.
+
+02:33:23.000 --> 02:33:32.000
+Cuando, cuando el resto Esther le ha pedido los documentos a la máquina y nos los ha creado simulados, ¿vale?
+
+02:33:32.000 --> 02:33:38.000
+Eso cuando nos los ha dado, lo que ha hecho ha sido normalizar lo, las columnas y te explico qué es.
+
+02:33:38.000 --> 02:33:42.000
+Si tú no tienes en los tres. La columna nombre.
+
+02:33:42.000 --> 02:33:46.000
+Vale.
+
+02:33:46.000 --> 02:33:47.000
+Vale.
+
+02:33:47.000 --> 02:33:52.000
+Eso no lo va a poder unir. ¿Me entiendes? Vale, entonces si tú quieres tener.
+
+02:33:52.000 --> 02:33:58.000
+Se llaman asociaciones, ¿vale? Si tú quieres saber los productos de un, vale, de un.
+
+02:33:58.000 --> 02:34:04.000
+Cliente por dentro en las columnas todos esos Exceles tienen que estar normalizados para que eso cuando tú lo subas.
+
+02:34:04.000 --> 02:34:05.000
+Mhm.
+
+02:34:05.000 --> 02:34:07.000
+me haga como a mí, me dice.
+
+02:34:07.000 --> 02:34:12.000
+Percebesa cuántos no sé cuánto me ha comprado? ¿con qué agente de transportes pum pum pum pum, ¿vale?
+
+02:34:12.000 --> 02:34:13.000
+Vale.
+
+02:34:13.000 --> 02:34:21.000
+No, no vale, entiéndeme. Les subo la información de cualquier manera sin normalizar, sin que todo tenga, ¿entiendes? No vale, no te lo coge.
+
+02:34:21.000 --> 02:34:22.000
+Es por esto, ¿vale?
+
+02:34:22.000 --> 02:34:30.000
+Creo que te entiendo. Vale a ver, yo por ejemplo, sí que es verdad que pues yo tengo una tarifa de una serie de productos que son productos cárnicos que solamente está.
+
+02:34:30.000 --> 02:34:32.000
+El la descripción.
+
+02:34:32.000 --> 02:34:35.000
+El código de producto y el precio kilo.
+
+02:34:35.000 --> 02:34:38.000
+Punto. No hay más información. Y luego tengo otra.
+
+02:34:38.000 --> 02:34:39.000
+Claro.
+
+02:34:39.000 --> 02:34:46.000
+Tarifa de otro tipo de productos que tienes la descripción, las unidades por caja, el precio por caja, El peso de unidad.
+
+02:34:46.000 --> 02:34:52.000
+O sea, mucha más información. Entonces lo que tú me dices es que digamos haga una.
+
+02:34:52.000 --> 02:34:56.000
+Tabla normalizada.
+
+02:34:56.000 --> 02:34:57.000
+Y meta. Todo.
+
+02:34:57.000 --> 02:35:02.000
+Lo que yo te digo es que, mira. Si tú en todos los productos tuvieras el S K U del producto.
+
+02:35:02.000 --> 02:35:04.000
+Sí.
+
+02:35:04.000 --> 02:35:11.000
+Tú luego podrías. saber si en la, si en los datos que has metido del cliente.
+
+02:35:11.000 --> 02:35:17.000
+los productos que los S K Us que compran normalmente, esto ya te lo uniría con productos, ¿entiendes? O sea.
+
+02:35:17.000 --> 02:35:20.000
+Pero tienes que tener todo algo que lo una todo.
+
+02:35:20.000 --> 02:35:21.000
+Vale, vale, vale, vale, vale.
+
+02:35:21.000 --> 02:35:28.000
+¿Sabes? Vale, ahora este truco, truco, mira. Te abres el G P T que he subido yo antes de data analysis.
+
+02:35:28.000 --> 02:35:31.000
+Team.
+
+02:35:31.000 --> 02:35:39.000
+Vale, y a este le subes. A este le suben los los documentos tuyos.
+
+02:35:39.000 --> 02:35:41.000
+Vale.
+
+02:35:41.000 --> 02:35:50.000
+Vale, ¿y le pones algo rollo. eh estoy creando una, un C R M pero al subir los documentos para o al cargar la información, ¿vale?
+
+02:35:50.000 --> 02:35:51.000
+Hmm.
+
+02:35:51.000 --> 02:35:55.000
+No funciona bien porque no están los documentos normalizados.
+
+02:35:55.000 --> 02:36:00.000
+Vale.
+
+02:36:00.000 --> 02:36:01.000
+Perfect.
+
+02:36:01.000 --> 02:36:03.000
+Por favor, ¿me podrías ayudar a normalizarlos? Y a ver qué te cuenta, a ver qué te cuenta, ¿vale?
+
+02:36:03.000 --> 02:36:06.000
+Vale, vale.
+
+02:36:06.000 --> 02:36:15.000
+Venga, más problemas de Adrián, lo que yo he hecho, Adrián, ¿estás por ahí?
+
+02:36:15.000 --> 02:36:16.000
+Lo que ha hecho Adrián en, con los documentos de Esther, ¿vale? Es.
+
+02:36:16.000 --> 02:36:19.000
+Sí.
+
+02:36:19.000 --> 02:36:24.000
+eh he creado los 4 documentos y los he metido todos dentro de una carpeta.
+
+02:36:24.000 --> 02:36:25.000
+Vale, cuando tú luego le das doble click a index, es como si hicieras clic en una home.
+
+02:36:25.000 --> 02:36:30.000
+Si .
+
+02:36:30.000 --> 02:36:34.000
+y te lo abre online como me ha pasado a mí con el de, con el de Esther, ¿vale?
+
+02:36:34.000 --> 02:36:35.000
+Vale.
+
+02:36:35.000 --> 02:36:41.000
+Entonces, si quieres probar para todos los que os haya dado varios archivos, ¿vale?
+
+02:36:41.000 --> 02:36:43.000
+Podéis probar una opción B con el mismo G P T.
+
+02:36:43.000 --> 02:36:45.000
+Yes.
+
+02:36:45.000 --> 02:36:50.000
+justo debajo del de los códigos que os ha dado escribirle.
+
+02:36:50.000 --> 02:36:57.000
+No quiero varios archivos, quiero solo un HTML. O quiero el CRM en solo un HTML.
+
+02:36:57.000 --> 02:37:03.000
+Vale, y os lo debería rehacer como lo, como lo tenemos el resto, vaya.
+
+02:37:03.000 --> 02:37:10.000
+Pero debajo de todo lo que porque a mí me dio después de esos coditos.
+
+02:37:10.000 --> 02:37:16.000
+Me escribió un montón. Y después me pone esto ya es un C R M.
+
+02:37:16.000 --> 02:37:18.000
+real usable, pero podemos.
+
+02:37:18.000 --> 02:37:28.000
+Claro. Claro, mira, un segundo, Lisi, haz lo mismo que ha hecho Esther, compárteme.
+
+02:37:28.000 --> 02:37:29.000
+El chat.
+
+02:37:29.000 --> 02:37:36.000
+Te lo mandé por. Eh te lo mandé por por WhatsApp porque no, no lo pude no sé por qué no lo pude mandar por el chat.
+
+02:37:36.000 --> 02:37:41.000
+Pero me has mandado el chat?
+
+02:37:41.000 --> 02:37:46.000
+Sí, con los códigos.
+
+02:37:46.000 --> 02:37:53.000
+Eh vale lo primero no me hago nada no no no mira dale encima del nombre lo que ha hecho Esther, voy contigo Elisa, dale encima del nombre.
+
+02:37:53.000 --> 02:37:58.000
+Del chat y abajo la última opción es compartir y ahí copia el enlace y pégamelo aquí.
+
+02:37:58.000 --> 02:37:59.000
+Vale, Germán, ¿qué te ha hecho?
+
+02:37:59.000 --> 02:38:03.000
+No, me.
+
+02:38:03.000 --> 02:38:07.000
+Me fui al panel izquierdo que me dijiste. Le di el.
+
+02:38:07.000 --> 02:38:19.000
+La vista completa y me ha creado como tres tres columnas de logística ventas y el otro, no sé, no me Acuerdo Ahorita, que era pero eran los tres archivos.
+
+02:38:19.000 --> 02:38:20.000
+Mm-hmm.
+
+02:38:20.000 --> 02:38:24.000
+Y puedo llenar y crear la base de datos. ¿No? Pero es muy simple. O sea, más que eso no hace no, pero bueno, es el ejercicio.
+
+02:38:24.000 --> 02:38:27.000
+Vale.
+
+02:38:27.000 --> 02:38:31.000
+Okay, okay. Vale, ese código lo tienes ya en un, en un documento?
+
+02:38:31.000 --> 02:38:32.000
+Lo has creado la HTML?
+
+02:38:32.000 --> 02:38:38.000
+No porque no el código. Se lo pedí. Lo que lo cree. La aplicación que creamos en Gpt.
+
+02:38:38.000 --> 02:38:43.000
+No, no, no, escucha, escucha. ¿Sabes que yo he dado 2 herramientas para poder.
+
+02:38:43.000 --> 02:38:44.000
+crear un archivo HTML. Una para Mac y otra para Windows.
+
+02:38:44.000 --> 02:38:45.000
+Yeah.
+
+02:38:45.000 --> 02:38:47.000
+Yeah.
+
+02:38:47.000 --> 02:38:48.000
+No. Yo tengo Windows.
+
+02:38:48.000 --> 02:38:56.000
+tú que tienes, Mac o Windows? Vale, en Windows abre el bloc de notas.
+
+02:38:56.000 --> 02:38:59.000
+Y tienes que pegar todo ese código y guardas el archivo con el nombre que quieras punto html.
+
+02:38:59.000 --> 02:39:04.000
+Yeah. Okay, a ver.
+
+02:39:04.000 --> 02:39:05.000
+Perdona aitor esto que dices último, ¿para qué es.
+
+02:39:05.000 --> 02:39:09.000
+Vale, eso todo el mundo.
+
+02:39:09.000 --> 02:39:10.000
+A Germán. Vale, es que está.
+
+02:39:10.000 --> 02:39:18.000
+Sí lo de guardar en el, porque tampoco te creas que tengo muy claro de nada de lo que hablas, pero bueno.
+
+02:39:18.000 --> 02:39:25.000
+Escucha, es que va, él va un paso adelante, Mario, acabo de leer lo tuyo, ¿vale? Mira.
+
+02:39:25.000 --> 02:39:32.000
+Esta también he abierto una herramienta antes te la pego otra vez, ¿vale?
+
+02:39:32.000 --> 02:39:40.000
+Son listos online, a ver, mira. tú tienes el código, ¿no? Marian?
+
+02:39:40.000 --> 02:39:41.000
+Okay.
+
+02:39:41.000 --> 02:39:49.000
+Tengo el código. Y tengo el C. R. M, porque de las dos formas por lo que parece que me pusiste que no sé cómo se llama el. No, no es ilab C, R. M. Pero el I lab H, T, L, M. Pero algo parecido.
+
+02:39:49.000 --> 02:39:53.000
+Y también porque el gente, el G, P, T, ese que nos diste.
+
+02:39:53.000 --> 02:39:58.000
+Ya me lo mostró en un momento. Toqué. No sé qué. Y me mostró el C. R. M. Hecho.
+
+02:39:58.000 --> 02:40:02.000
+Como que no me lo decodificó. él.
+
+02:40:02.000 --> 02:40:05.000
+Sí, es el botoncito, mira. Pero entonces tú sí que has visto el C R M.
+
+02:40:05.000 --> 02:40:15.000
+Sí, sí, yo per no. Pero yo lo que no sé es ahora qué es lo que le decías, ¿para qué tenemos que copiar el código notebook en esa notas.
+
+02:40:15.000 --> 02:40:20.000
+Vale, es que no, si te lo digo porque me has puesto, pero tengo.
+
+02:40:20.000 --> 02:40:22.000
+¿Qué hacemos con el C R M para ver si funciona? Me pones?
+
+02:40:22.000 --> 02:40:28.000
+Claro, pues yo lo tengo y tengo y cargué los datos. Pero ¿cómo cómo? ¿Cómo actúo sobre él ahora?
+
+02:40:28.000 --> 02:40:33.000
+Tú has abierto con la herramienta esta que he pegado que me acaba de decir H T L M L Online Viewer.
+
+02:40:33.000 --> 02:40:41.000
+Sí con esa. Y también, como te digo, el mismo G, P, T, que nos diste, que nos hizo el Java.
+
+02:40:41.000 --> 02:40:42.000
+Es que nos hizo el código. También.
+
+02:40:42.000 --> 02:40:44.000
+Alright, quita, quita, quita, escucha, escucha.
+
+02:40:44.000 --> 02:40:55.000
+Tocando para copiar el código. También me lo abrió en al mismo Crm que me abrió el H. T. L. M, no, sé qué.
+
+02:40:55.000 --> 02:40:59.000
+Vale, Mariana, escucha, lo sé. En esta herramienta que yo te he dado, tú has pegado el código y se ha visto el C R M, ¿correcto?
+
+02:40:59.000 --> 02:41:01.000
+Hm: Sí.
+
+02:41:01.000 --> 02:41:11.000
+Vale, si tú le das a la izquierda del primer botón que pone full page.
+
+02:41:11.000 --> 02:41:15.000
+Sí.
+
+02:41:15.000 --> 02:41:16.000
+Sí.
+
+02:41:16.000 --> 02:41:18.000
+Lo ves, te lo abre en grande, ¿no? Vale, y tú me preguntas cómo lo uso?
+
+02:41:18.000 --> 02:41:24.000
+Pues usándolo dale a los botones.
+
+02:41:24.000 --> 02:41:25.000
+Yo tengo la lista con las vale.
+
+02:41:25.000 --> 02:41:28.000
+¿Sabes?
+
+02:41:28.000 --> 02:41:33.000
+Claro, o sea, es que usarlo es. Pruébalo, ¿sabes? O sea.
+
+02:41:33.000 --> 02:41:36.000
+¿Entiendes? Vale, y ahora voy a la siguiente, Marion, al siguiente, lo que me preguntabas del archivo, ¿vale?
+
+02:41:36.000 --> 02:41:38.000
+Hmm.
+
+02:41:38.000 --> 02:41:41.000
+Ahora, para no tener que estar todo el rato.
+
+02:41:41.000 --> 02:41:44.000
+Abriendo la herramienta que te acabo de dar pegando el código para verlo y no sé qué, ¿vale?
+
+02:41:44.000 --> 02:41:45.000
+Hmm.
+
+02:41:45.000 --> 02:41:46.000
+Vale, tú tienes Windows?
+
+02:41:46.000 --> 02:41:48.000
+No, hmm.
+
+02:41:48.000 --> 02:41:51.000
+Mac, vale, he mandado antes una aplicación, ¿te la has bajado?
+
+02:41:51.000 --> 02:41:57.000
+Sí, creo que no, pero sí, pero cre. Pero he escuchado que lo decías. Sí.
+
+02:41:57.000 --> 02:42:01.000
+Vale, si te bajas esa aplicación, ¿vale? Code Editor.
+
+02:42:01.000 --> 02:42:09.000
+Ahí tú puedes pegar el código y guardarlo como un HTML y entonces, ¿para qué es? Para que siempre lo tengas en el ordenador y hagas doble clic en el archivo y abres el C R M.
+
+02:42:09.000 --> 02:42:20.000
+Vale es para guardar el Crm. Esa es la forma de guardar. El Crm no se guarda así. Solo. No no se guarda desde eso que veo en un archivo vale vale okay.
+
+02:42:20.000 --> 02:42:21.000
+Sí es preview. Eso es.
+
+02:42:21.000 --> 02:42:24.000
+No, eso es como para previsualizarlo. Eso es de preview solo, correcto, ¿vale?
+
+02:42:24.000 --> 02:42:27.000
+Vale, vale, vale, vale.
+
+02:42:27.000 --> 02:42:28.000
+Vale.
+
+02:42:28.000 --> 02:42:35.000
+¿Vale? Así te lo guardas, ¿vale? Entonces, si ahora, por ejemplo, quieres hacer mejoras, puedes mandarle directamente el archivo y decirle mejora menos devuelve otro, ¿vale? Elisa, dime.
+
+02:42:35.000 --> 02:42:39.000
+No sé si a lo mejor me estoy precipitando, pero.
+
+02:42:39.000 --> 02:42:44.000
+Emm puede ser que no esté vinculando de los datos que yo le he subido.
+
+02:42:44.000 --> 02:42:57.000
+Si le subo una tabla de clientes y una tabla de expedientes en el que ya figura el cliente, no me está vinculando los clientes de una tabla con los que figuran en los expedientes, ¿no? Están, digamos, cada una por su padre y por su madre.
+
+02:42:57.000 --> 02:43:02.000
+porque si yo genero una factura ahora de hoy a factura nueva en el C R M que me ha creado.
+
+02:43:02.000 --> 02:43:07.000
+No me está cogiendo datos de tal me me pide que complete todos los datos, es decir.
+
+02:43:07.000 --> 02:43:14.000
+Digamos que es tonto, que no sabe que los clientes son clientes sobre los que se pueden generar facturas o abrir expedientes.
+
+02:43:14.000 --> 02:43:19.000
+Escucha, Elisa, que acabas de crearte un CRM en 5 minutos, reina?
+
+02:43:19.000 --> 02:43:20.000
+vario muy rápido, ¿no?
+
+02:43:20.000 --> 02:43:32.000
+¿Cómo le está llamando tonto? ¿Quieres que vayamos mañana a HubSpot y te gastas 15 mil pavos y te lo dan como así?
+
+02:43:32.000 --> 02:43:33.000
+Vale, vale, no, perdón, eh.
+
+02:43:33.000 --> 02:43:39.000
+Elisa por Dios. Vale, escucha, eso por un lado, por otro lado me dices que no te has relacionado, ¿no? Ese es el problema realmente, Elisador.
+
+02:43:39.000 --> 02:43:42.000
+Ese es el tema que no relaciona efectivamente.
+
+02:43:42.000 --> 02:43:51.000
+Vale. Tú estás segura que todos los nombres y todos los apellidos y todos están escritos igual en todos los Exceles?
+
+02:43:51.000 --> 02:43:56.000
+Eh el noventa por ciento sí.
+
+02:43:56.000 --> 02:44:02.000
+Sí, a ver si yo he criado un cliente y a partir de un cliente he creado un expediente y a partir de ese expediente he creado una factura.
+
+02:44:02.000 --> 02:44:08.000
+El propio programa no me ha pedido que genere el cliente para abrir luego la factura, es decir, ya no la ha cogido y si exportando los Excel del propio programa que tengo actualmente.
+
+02:44:08.000 --> 02:44:15.000
+ya están creados. ¿Vale?
+
+02:44:15.000 --> 02:44:16.000
+Debería ser y.
+
+02:44:16.000 --> 02:44:24.000
+entiendo que está dentro de los lados igual. Hay gente del que no tengo expediente y he generado facturas sin más, si hay alguno, por lo tanto, obviamente no puede estar igual en facturas que en clientes, no me lo.
+
+02:44:24.000 --> 02:44:25.000
+Pero te estoy diciendo un noventa por ciento sí coincide.
+
+02:44:25.000 --> 02:44:31.000
+Pero esos son los mínimos. Vale, y ahora pregunta, ¿tienes en los tres? ¿cuántos Exceles tienes?
+
+02:44:31.000 --> 02:44:36.000
+Pues mira, me he creado 2 versiones, uno, el de que solamente he subido.
+
+02:44:36.000 --> 02:44:46.000
+clientes expedientes y facturas. Y otro que es el que estaba intentando hacer ahora que he creado con esos tres y he añadido procuradores juzgados.
+
+02:44:46.000 --> 02:44:49.000
+Y abogados.
+
+02:44:49.000 --> 02:44:54.000
+Pero. Pero solo tienes un Excel.
+
+02:44:54.000 --> 02:44:58.000
+No, no, no, tengo seis Exceles.
+
+02:44:58.000 --> 02:45:02.000
+Vale, y ahora, por ejemplo, en procuradores que columnas hay?
+
+02:45:02.000 --> 02:45:05.000
+Pues, eh, espérate que te lo abro y te lo digo, pero.
+
+02:45:05.000 --> 02:45:07.000
+¿Qué tipo?
+
+02:45:07.000 --> 02:45:13.000
+Como que se pues estará el nombre, estará el número de colegiado de.
+
+02:45:13.000 --> 02:45:15.000
+Del procurador. yo que sé, no sé, dame un segundo.
+
+02:45:15.000 --> 02:45:17.000
+Hmm?
+
+02:45:17.000 --> 02:45:21.000
+Y ahí vendrá algo del cliente.
+
+02:45:21.000 --> 02:45:32.000
+No, en la en la, en la, en el listado de los expedientes sí que me viene el cliente con el procurador que tiene, con el abogado contrario que tiene, con el cliente contrario.
+
+02:45:32.000 --> 02:45:33.000
+El de los expedientes.
+
+02:45:33.000 --> 02:45:39.000
+en el de los expedientes. Vale, y ahora tú estás intentando llevarte la cuerda para tu lado, ¿vale? Y yo me la voy a volver a traer al mío, porque yo no te he preguntado eso, yo te vuelvo a a preguntar.
+
+02:45:39.000 --> 02:45:42.000
+Vale.
+
+02:45:42.000 --> 02:45:47.000
+En el de procuradores tú tienes los datos que me estás diciendo que tienes en el expedientes?
+
+02:45:47.000 --> 02:45:48.000
+Mm, no.
+
+02:45:48.000 --> 02:45:50.000
+Entonces, ¿cómo quieres que los cruce?
+
+02:45:50.000 --> 02:45:55.000
+Porque tendré que meter entonces en cada procurador cuántos expedientes tiene?
+
+02:45:55.000 --> 02:45:59.000
+O júntalo todo en un Excel, no, sí, o sea, tienes que normalizar los datos.
+
+02:45:59.000 --> 02:46:00.000
+es que él no se lo puede inventar.
+
+02:46:00.000 --> 02:46:06.000
+Entonces yo utilizo el primer, utilizo el primer. Corte que has dado, el del análisis de datos para intentar.
+
+02:46:06.000 --> 02:46:08.000
+Ese esco ese escojonudo lisa, ese cojonudo.
+
+02:46:08.000 --> 02:46:12.000
+Para meterle los datos de todo y que me los vincule todos y me.
+
+02:46:12.000 --> 02:46:13.000
+Pero es un solo Excel normalizado con todo.
+
+02:46:13.000 --> 02:46:20.000
+que te lo normalice, sí. Sí, dile, le puedes decir incluso, le puedes decir la palabra normalizar y conciliar.
+
+02:46:20.000 --> 02:46:21.000
+conciliar datos. ¿Vale? Ya verás cómo te lo va a devolver como todo superguay. Es más.
+
+02:46:21.000 --> 02:46:27.000
+Vale, vale, perfecto, perfecto, perfecto.
+
+02:46:27.000 --> 02:46:32.000
+Igual es esto tienes que mirarlo tú si es más interesante como tenerlos separados o todo en uno.
+
+02:46:32.000 --> 02:46:33.000
+Vale, ya veremos, pero. Pero es esto, ¿vale? Ya pasa lo mismo que en el otro caso es.
+
+02:46:33.000 --> 02:46:38.000
+Vale.
+
+02:46:38.000 --> 02:46:47.000
+Casi siempre viene por la normalización, ¿vale? ¿Por qué funcionan el resto bien? Porque al final nos los ha dado él, ya lo ha normalizado, lo ha dejado cojonudo, ¿sabes? Y ya funciona.
+
+02:46:47.000 --> 02:46:51.000
+Ostias, bueno, flipas ahora mismo. El que acaba de crear me dice que tengo una facturación acumulada.
+
+02:46:51.000 --> 02:46:54.000
+¿Qué pasa?
+
+02:46:54.000 --> 02:47:01.000
+de dos millones cincuenta y un mil euros. Pero es que pendiente de cobro.
+
+02:47:01.000 --> 02:47:07.000
+Casi siete billones de pes de euros billones con b de barcelona.
+
+02:47:07.000 --> 02:47:08.000
+Ya sabéis a quién tenéis que pedirle el dinero.
+
+02:47:08.000 --> 02:47:10.000
+Me encanta este papel. Me encanta, me encanta, me encanta.
+
+02:47:10.000 --> 02:47:15.000
+Vale, pues hazte eso, vale, hazte eso y ya verás cómo luego te funciona, ¿vale?
+
+02:47:15.000 --> 02:47:16.000
+Vale, ¿alguien más? ¿alguien más me lo quiere comentar? Lisi, dime.
+
+02:47:16.000 --> 02:47:19.000
+Vale, gracias.
+
+02:47:19.000 --> 02:47:21.000
+Nada, que te mandé ahí para que puedas ver.
+
+02:47:21.000 --> 02:47:25.000
+Voy, voy, voy, voy, un segundito. ¿Dónde está? Pero es que no lo veo.
+
+02:47:25.000 --> 02:47:29.000
+Igual seguí, seguí preguntándole cosas a. En el chat, en el chat ahí dice.
+
+02:47:29.000 --> 02:47:35.000
+Pero dónde me lo han mandado?
+
+02:47:35.000 --> 02:47:36.000
+¿No? Ah sí, sí, sí, un segundo, abrir el navegador, un segundo, sí, sí.
+
+02:47:36.000 --> 02:47:42.000
+eh, sí. A ver, eh, yo después seguí preguntándole cosas.
+
+02:47:42.000 --> 02:47:43.000
+Ya, ya, sí, ya, pero cada vez que me mandáis uno, no veas que me atraca le dais al pobre hombre.
+
+02:47:43.000 --> 02:47:48.000
+O sea que.
+
+02:47:48.000 --> 02:47:56.000
+A ver. Vale, Lisi, mira, te ha pasado exactamente lo mismo, ¿vale?
+
+02:47:56.000 --> 02:47:57.000
+Si te fijas. A ver.
+
+02:47:57.000 --> 02:48:01.000
+Ahí tengo los.
+
+02:48:01.000 --> 02:48:05.000
+Lo primero, fíjate qué importante es cuando yo mando ejemplos adaptarlo a ti.
+
+02:48:05.000 --> 02:48:08.000
+Vale, la primera frase que él te dice es.
+
+02:48:08.000 --> 02:48:19.000
+No sé cuánto. Y te pone estructura del proyecto CRM caracoles.
+
+02:48:19.000 --> 02:48:22.000
+Eso es lo primero que te pone, ¿vale? En el punto dos.
+
+02:48:22.000 --> 02:48:26.000
+Por lo que hago de caracoles tiene que haber.
+
+02:48:26.000 --> 02:48:28.000
+Pero si yo lo borré. puede ser que estés mirando lo último.
+
+02:48:28.000 --> 02:48:33.000
+Puede ser que no, vale, Lisi, pero escúchame. No, no, no, mira, te lo enseño, lo tengo aquí delante.
+
+02:48:33.000 --> 02:48:35.000
+Por.
+
+02:48:35.000 --> 02:48:40.000
+No, no, mira, mira, para que lo veáis todos, además me refiero para que al final de todo esto aprendemos, ¿vale?
+
+02:48:40.000 --> 02:48:43.000
+tú le subes todo de aquí, ¿vale? Vale, le subes todo, pum pum.
+
+02:48:43.000 --> 02:48:46.000
+Sí.
+
+02:48:46.000 --> 02:48:51.000
+Vale, lo primero que aquí, no sé por qué, pero hay muy poquitos datos, solo esto.
+
+02:48:51.000 --> 02:48:54.000
+ah no, son, son lo que, lo que te ha dado, ¿no? El otro, vale, okay.
+
+02:48:54.000 --> 02:48:55.000
+Claro, son los ejemplos que me dio.
+
+02:48:55.000 --> 02:49:03.000
+Vale. Vale, si te fijas en el mío, en el primero yo le pongo: dame datos de seis meses.
+
+02:49:03.000 --> 02:49:08.000
+Para que te realmente salga lleno, ¿me entiendes? Si te fijas en mi primer prom.
+
+02:49:08.000 --> 02:49:12.000
+Yo le pongo, dame los ejemplos y que tengan datos de 6 meses porque.
+
+02:49:12.000 --> 02:49:14.000
+Para que no salga vacío, porque a ti te ha dado aquí.
+
+02:49:14.000 --> 02:49:17.000
+de un mes o de nada, un poquito, vale, vale.
+
+02:49:17.000 --> 02:49:21.000
+Ahora, si te fijas un poquito, lo primero que te da la estructura es CRM caracoles.
+
+02:49:21.000 --> 02:49:26.000
+Primero vale, vale.
+
+02:49:26.000 --> 02:49:27.000
+No puede ser que editaras el mensaje si no lo editamos antes.
+
+02:49:27.000 --> 02:49:30.000
+que no estás en el prompt.
+
+02:49:30.000 --> 02:49:31.000
+Pues puede ser que te lo haya cogido el anterior, no lo sé. Bueno, el caso, whatever.
+
+02:49:31.000 --> 02:49:35.000
+de, que a lo mejor.
+
+02:49:35.000 --> 02:49:36.000
+Que ha pasado lo mismo que le ha pasado a Esther y que le ha pasado a Adrián, él te ha generado un archivo.
+
+02:49:36.000 --> 02:49:39.000
+Anybody.
+
+02:49:39.000 --> 02:49:40.000
+Sí, tres. Okay.
+
+02:49:40.000 --> 02:49:44.000
+Dos archivos y 3 archivos. Vale, ¿qué son estos 3? El primero.
+
+02:49:44.000 --> 02:49:47.000
+El segundo y el tercero. Para esos tres archivos se guardan.
+
+02:49:47.000 --> 02:49:51.000
+Mm-hm.
+
+02:49:51.000 --> 02:49:57.000
+Y se mete entonces una carpetica, ¿vale? Y luego le das doble clic al index y tiene que abrirte el CRM.
+
+02:49:57.000 --> 02:50:04.000
+Vale, vamos a hacer una prueba, mira, a ver si me sale aquí en directo, a ver si me deja continuar un segundo.
+
+02:50:04.000 --> 02:50:06.000
+Un segundito. Si me deja continuarlo te lo continúo yo para que veáis todos.
+
+02:50:06.000 --> 02:50:11.000
+Vale.
+
+02:50:11.000 --> 02:50:12.000
+¿Cómo se puede provocar que nos lo de de la otra manera, ¿vale?
+
+02:50:12.000 --> 02:50:19.000
+mhm.
+
+02:50:19.000 --> 02:50:21.000
+Seguir viendo la pantalla, ¿no?
+
+02:50:21.000 --> 02:50:24.000
+Sí.
+
+02:50:24.000 --> 02:50:36.000
+Mira.
+
+02:50:36.000 --> 02:50:43.000
+Mira, Lizzie, claro, luego lo habéis pedido y os ha montado la de Dios.
+
+02:50:43.000 --> 02:50:45.000
+Okay, perdón. Gracias, es la alergia.
+
+02:50:45.000 --> 02:50:49.000
+Hello.
+
+02:50:49.000 --> 02:50:54.000
+La está abierta a mirar cuando os da el resultado para reconducirlo.
+
+02:50:54.000 --> 02:51:01.000
+¿Le puedes decir aquí en este mensajito a mí no me deja editarlo, vale, pero prueba tú en este sí, por favor.
+
+02:51:01.000 --> 02:51:02.000
+Mhm.
+
+02:51:02.000 --> 02:51:09.000
+Ponle, no quiero pagar esos archivos, dame un HTML directamente.
+
+02:51:09.000 --> 02:51:10.000
+Vale, y él te va a dar, en principio lo mismo que tengo yo.
+
+02:51:10.000 --> 02:51:12.000
+Okay.
+
+02:51:12.000 --> 02:51:21.000
+Vale, recapitulado, ¿alguien más me lo quiere decir? ¿me lo quiere enseñar o algo? ¿o tiene fallos?
+
+02:51:21.000 --> 02:51:22.000
+You know, perdón, quiero un solo html punto.
+
+02:51:22.000 --> 02:51:30.000
+La vamos a hacer mejoras ahora. Y dame el C R M solo en un archivo HTML.
+
+02:51:30.000 --> 02:51:31.000
+Dame, te lo pongo aquí, el CRM.
+
+02:51:31.000 --> 02:51:33.000
+Mm-hmm.
+
+02:51:33.000 --> 02:51:36.000
+And solo un archivo.
+
+02:51:36.000 --> 02:51:37.000
+html.
+
+02:51:37.000 --> 02:51:41.000
+Yo le pedimos a la aplicación este aitor porque yo copie y pegué en un.
+
+02:51:41.000 --> 02:51:50.000
+Nurtuetexto punto html. Pero igual me lo da en punto txt. Entonces no, no me hace caso.
+
+02:51:50.000 --> 02:51:54.000
+Great, tú lo has guardado como punto ahora el archivo guardar, edita el nombre y pon, quita el txt y guardarlo como HTML.
+
+02:51:54.000 --> 02:51:56.000
+Así. Nada más.
+
+02:51:56.000 --> 02:52:02.000
+así de sencillo.
+
+02:52:02.000 --> 02:52:08.000
+mhm. Vamos a por mejoras, oye, Javier, ¿qué te ha hecho a ti, por cierto?
+
+02:52:08.000 --> 02:52:14.000
+¿Dónde está?
+
+02:52:14.000 --> 02:52:20.000
+Javier, ¿está por ahí?
+
+02:52:20.000 --> 02:52:24.000
+Bueno, será, ahora me dice Javier que le iba a meter lo de la facturación.
+
+02:52:24.000 --> 02:52:31.000
+Tal cual Germán, vale, lo guardas como punto HTML y si no luego lo modificas el nombre, pero te lo tiene que coger.
+
+02:52:31.000 --> 02:52:41.000
+O sea, seguro, ¿vale? Vale, para las mejoras. en el al que o lo haya dado bien, bien, el que lo esté corrigiendo por después el que lo haya dado bien, mejoras.
+
+02:52:41.000 --> 02:52:46.000
+Ahora él tiene ya nuestro HTML que nos acaba de dar nuestro código completo y queremos hacer mejoras, ¿vale?
+
+02:52:46.000 --> 02:52:52.000
+Si le pedimos muchísimas mejoras de golpe. No lo va a hacer bien.
+
+02:52:52.000 --> 02:52:53.000
+No, no, que petan, que si le vendimos muchas de golpe.
+
+02:52:53.000 --> 02:52:54.000
+Dime, Elisa.
+
+02:52:54.000 --> 02:52:55.000
+mhm.
+
+02:52:55.000 --> 02:53:00.000
+peta peta, literal. Vale, entonces hay que ir poco a poco.
+
+02:53:00.000 --> 02:53:03.000
+La parte visual yo la dejaría como para el final.
+
+02:53:03.000 --> 02:53:10.000
+Vale, y empezaría por las funcionalidades, ¿vale? Si yo quiero que me deje hacer no sé qué, pues le le digo, "Ahora necesito que".
+
+02:53:10.000 --> 02:53:14.000
+En la pantalla te lo está dando lisi?
+
+02:53:14.000 --> 02:53:22.000
+Sí, no, no hay mucha, o sea, como que la información no la cargo, pero por lo menos veo la presentación.
+
+02:53:22.000 --> 02:53:23.000
+Vale, okey. Vale, si te vas al de los Exceles, dile.
+
+02:53:23.000 --> 02:53:28.000
+La información.
+
+02:53:28.000 --> 02:53:34.000
+Dame 6 meses de información, ¿vale? Y esos son los haces bien te va a salir bien, ¿vale? Vale.
+
+02:53:34.000 --> 02:53:35.000
+Para las mejoras vamos a ir haciendo mejoras poco a poco.
+
+02:53:35.000 --> 02:53:37.000
+Vale.
+
+02:53:37.000 --> 02:53:47.000
+Vale, por ejemplo, Elisa, tú me decías que. Ah, bueno, no, tú arregla primero lo de la normalización. Germán, dime una mejora que harías en el tuyo?
+
+02:53:47.000 --> 02:53:56.000
+de funcionalidades, no de no no visualmente, no de estética.
+
+02:53:56.000 --> 02:54:03.000
+Sí.
+
+02:54:03.000 --> 02:54:09.000
+Oye, Gemma? No me oye, yo creo.
+
+02:54:09.000 --> 02:54:10.000
+Otro, alguien que, alguien que pueda hacer una mejora.
+
+02:54:10.000 --> 02:54:13.000
+Eh.
+
+02:54:13.000 --> 02:54:21.000
+¿Qué mejora podría hacer en el que le ha salido?
+
+02:54:21.000 --> 02:54:24.000
+Vamos, hombre, alguien, coñe.
+
+02:54:24.000 --> 02:54:27.000
+Yo puedo hacer. Muchas.
+
+02:54:27.000 --> 02:54:28.000
+Yo puedo hacer. Muchas.
+
+02:54:28.000 --> 02:54:35.000
+Nadie? ¿el qué? Pues yo por decirme una, joder, es que si no yo tiro para mí me da igual, ya me lo sé sabes si es por ayudaros a vosotros.
+
+02:54:35.000 --> 02:54:41.000
+Eh dime una mejora. Dime una mejora.
+
+02:54:41.000 --> 02:54:42.000
+Una mejora, pues pues por ejemplo, un.
+
+02:54:42.000 --> 02:54:48.000
+Por ejemplo.
+
+02:54:48.000 --> 02:54:54.000
+Una catalogación de tipo de cliente por el tipo de producto que que trabaja, por ejemplo.
+
+02:54:54.000 --> 02:54:59.000
+Vale, cojonudísimo, vale. Ahora, en este caso, ella escribiría.
+
+02:54:59.000 --> 02:55:06.000
+Genial, funciona muy bien, ahora quiero que añadas una sección al menú de la izquierda, ¿vale? Que donde tenemos todas las secciones, donde sea.
+
+02:55:06.000 --> 02:55:17.000
+agrupaciones que se llame como sea, ¿vale? Vale. Dentro de esa nueva sección lo que quiero es que pongas, catalogues a los clientes con etiquetas.
+
+02:55:17.000 --> 02:55:22.000
+Y dentro me pongas los grupos para poder filtrar por grupos por Esther.
+
+02:55:22.000 --> 02:55:26.000
+Eso sería un poco la idea, ¿vale?
+
+02:55:26.000 --> 02:55:28.000
+Bye.
+
+02:55:28.000 --> 02:55:39.000
+Sí, entonces igual hazlo, escribes además literal, ¿eh? Genial, funciona muy bien, pum pum, creando una sección nueva en la parte de la izquierda que se llama agrupaciones y etiqueta a todos los clientes con una etiqueta para.
+
+02:55:39.000 --> 02:55:43.000
+poderlos agrupar bombón vale ese sería un, una acción, por ejemplo.
+
+02:55:43.000 --> 02:55:49.000
+Otra acción ahora mismo, según lo tenéis cuando volváis a cargar datos, lo anterior se ha borrado.
+
+02:55:49.000 --> 02:55:53.000
+Vale, esta mejora valdría para todos, la podréis hacer todos ahora mismo.
+
+02:55:53.000 --> 02:56:00.000
+Decirle necesito que me crees una funcionalidad. para que cada vez que cargue.
+
+02:56:00.000 --> 02:56:01.000
+Un nuevo documento. se me guarde lo anterior en una base de datos.
+
+02:56:01.000 --> 02:56:07.000
+Okay a ver. Voy a intentar de nuevo.
+
+02:56:07.000 --> 02:56:16.000
+y pueda consultar información de las anteriores, ¿vale? o que se me queden guardados todos los Excel que vaya subiendo.
+
+02:56:16.000 --> 02:56:18.000
+Yo ya tengo una que va así, ¿vale? Entonces siempre tienes el histórico ahí, dime Germán.
+
+02:56:18.000 --> 02:56:25.000
+Entonces esas solicitudes lo escribes en la App.
+
+02:56:25.000 --> 02:56:31.000
+Y luego le pides que te vuelva a generar el código, porque de alguna manera, todas esas actualizaciones.
+
+02:56:31.000 --> 02:56:39.000
+Tiene que estar en código, no, y vuelves a hacer todo el proceso. Nuevamente.
+
+02:56:39.000 --> 02:56:40.000
+Te lo va a generar directamente.
+
+02:56:40.000 --> 02:56:46.000
+Pero sí creo una extensión. Html: por otro lado, ¿cómo se va a conectar.
+
+02:56:46.000 --> 02:56:51.000
+Cuando se lo pida.
+
+02:56:51.000 --> 02:56:52.000
+Ah, dices tú has creado la aplicación en otro sitio?
+
+02:56:52.000 --> 02:56:55.000
+Claro. No he creado la aplicación en Chat Gpt.
+
+02:56:55.000 --> 02:56:56.000
+Le he pedido el código.
+
+02:56:56.000 --> 02:56:57.000
+Y quieres?
+
+02:56:57.000 --> 02:57:05.000
+Me ha dado el código y he generado el Html, que ya cuando lo abro se ve la interface de mi Crm.
+
+02:57:05.000 --> 02:57:07.000
+Pero todo ese signo es todas esas.
+
+02:57:07.000 --> 02:57:10.000
+Digamos, funcionalidades nuevas que le pido.
+
+02:57:10.000 --> 02:57:14.000
+Me los tiene que generar en un código correcto.
+
+02:57:14.000 --> 02:57:16.000
+Pero entonces tengo que de nuevo ir a la App.
+
+02:57:16.000 --> 02:57:17.000
+Correcto.
+
+02:57:17.000 --> 02:57:26.000
+Pedirle eso, pedirle el nuevo código con esas nuevas aplicaciones y, de nuevo, grabar un Html, porque si no como.
+
+02:57:26.000 --> 02:57:29.000
+No.
+
+02:57:29.000 --> 02:57:32.000
+Tal cual has dicho, pero no tienes que grabar un nuevo, Germán.
+
+02:57:32.000 --> 02:57:33.000
+Vale, a no ser que quieras tener todas las versiones, pero tú.
+
+02:57:33.000 --> 02:57:36.000
+No, no, no.
+
+02:57:36.000 --> 02:57:43.000
+editar archivo en el HTML que tienes. Controla, seleccionas todo, lo borras y pegas el nuevo, guardas y lo abres.
+
+02:57:43.000 --> 02:57:50.000
+Ya. Pero se me va a borrar de nuevo todo mi Crm con mi base de datos o no.
+
+02:57:50.000 --> 02:57:52.000
+No, porque te lo va a dar ya con todo incluido, o sea.
+
+02:57:52.000 --> 02:57:53.000
+Yeah.
+
+02:57:53.000 --> 02:57:58.000
+Cuando tú le pidas una nueva versión. Él te va a dar la versión antigua con la nueva funcionalidad y en la versión antigua ya van los datos.
+
+02:57:58.000 --> 02:58:01.000
+Yeah. Okay. Oh, okay.
+
+02:58:01.000 --> 02:58:02.000
+Yeah yeah yeah.
+
+02:58:02.000 --> 02:58:12.000
+Él no te rompe la versión antigua. ¿Vale? Él te va a hacer la versión antigua con la nueva funcionalidad. De hecho, si se lo pides ahora va a tardar mucho menos porque.
+
+02:58:12.000 --> 02:58:13.000
+Y Okay, yeah.
+
+02:58:13.000 --> 02:58:17.000
+porque ya tiene el código inicial. ¿Me entiendes? Vale.
+
+02:58:17.000 --> 02:58:20.000
+Cosas que puede tardar poco para que lo probéis.
+
+02:58:20.000 --> 02:58:28.000
+Ponme modo día, modo noche. Por ejemplo, ponme que me pueda descargar un informe en PDF.
+
+02:58:28.000 --> 02:58:32.000
+Funcionalidades rápidas que veis que volvéis a abrirlo, ¿vale? Entonces lo que dice Germán es.
+
+02:58:32.000 --> 02:58:37.000
+Yo ahora me voy al chat que me ha hecho el primer código HTML, le voy a pedir el cambio.
+
+02:58:37.000 --> 02:58:40.000
+Me va a devolver otro código HTML completo, ¿vale?
+
+02:58:40.000 --> 02:58:45.000
+Y voy a ir a mi archivo, lo sustituyo en código por el otro y lo guardo y ya tengo la nueva versión.
+
+02:58:45.000 --> 02:58:53.000
+¿Vale? Que quiero una nueva mejora. Vuelvo al chat, le pido la mejora, me genera un código nuevo y lo pego.
+
+02:58:53.000 --> 02:58:56.000
+Vale, ¿entendéis esto? cómo se hacen los cambios.
+
+02:58:56.000 --> 02:58:58.000
+Mhm.
+
+02:58:58.000 --> 02:59:02.000
+Sí, Lisi, ¿qué pasa?
+
+02:59:02.000 --> 02:59:03.000
+¿Por qué? ¿por qué? ¿por qué?
+
+02:59:03.000 --> 02:59:09.000
+Nada, que estoy mareada. eh, ahí le agregué los seis meses, pero no, no sé, me da un nuevo.
+
+02:59:09.000 --> 02:59:11.000
+index.
+
+02:59:11.000 --> 02:59:12.000
+No sé, a ver.
+
+02:59:12.000 --> 02:59:20.000
+Mira, eh, Lisi, pégame en un documento o pásame por aquí el Excel que te ha dado con los datos, los Excel, pásamelos.
+
+02:59:20.000 --> 02:59:21.000
+que para terminar hago tu caso en directo y así lo vemos en directo, hecho real, ¿vale?
+
+02:59:21.000 --> 02:59:26.000
+Mmm.
+
+02:59:26.000 --> 02:59:27.000
+Okey.
+
+02:59:27.000 --> 02:59:29.000
+Aitor, yo tengo una duda. De de lo que has comentado eh sobre las mejoras.
+
+02:59:29.000 --> 02:59:36.000
+Mm-hm.
+
+02:59:36.000 --> 02:59:52.000
+Vale cuando ahora mismo lo estás haciendo de cero, vale, le vas diciendo mejoras y las vas implementando y lo vas copiando y bueno, estás en un modo.
+
+02:59:52.000 --> 02:59:53.000
+¿qué tal.
+
+02:59:53.000 --> 02:59:57.000
+Creativo que si jodes algo no pasa nada. Pero qué ocurre si yo llevo ya un año con el C R M me está funcionando genial estoy metiendo datos no sé qué no sé cuál muchas cosas a mano.
+
+02:59:57.000 --> 03:00:05.000
+Y de repente a ver puedo hacer una copia de seguridad no pero quiero hacer una mejora el GPT ya no sabe lo que tengo.
+
+03:00:05.000 --> 03:00:12.000
+No sé, es que alguna vez he hecho, no, no te digo con HTML pero cosas con GPT que.
+
+03:00:12.000 --> 03:00:19.000
+Cuando lo vuelvo a intento mejorarlas a veces no me no me mantiene todo lo que tenía o me pasa alguna cosa.
+
+03:00:19.000 --> 03:00:23.000
+Claro, claro, lo normal.
+
+03:00:23.000 --> 03:00:24.000
+¿Cómo le implementar las mejoras? Otra vez a borrarlo todo y hacerlo entero?
+
+03:00:24.000 --> 03:00:27.000
+I was sitting on that.
+
+03:00:27.000 --> 03:00:34.000
+Escucha, lo primero, lo primero. Un segundito.
+
+03:00:34.000 --> 03:00:43.000
+Lo primero, hasta hace 5 días exactamente o seis, esto tú no lo puedes hacer con GPT. Ya podías probar lo que te diera la gana.
+
+03:00:43.000 --> 03:00:44.000
+No, es que yo lo he hecho con GPT, pero hice eso con GPT.
+
+03:00:44.000 --> 03:00:48.000
+¿Vale?
+
+03:00:48.000 --> 03:00:49.000
+Pero de otra manera no no lo hice como tú.
+
+03:00:49.000 --> 03:00:52.000
+Okay. ¿Cuándo?
+
+03:00:52.000 --> 03:00:57.000
+Cuando yo que sé, es que me es que estábamos de curso que hice mi CRM, yo lo que hice fue al.
+
+03:00:57.000 --> 03:01:00.000
+Escucha, Sandra, hace más de 5 días. Era una pérdida de tiempo.
+
+03:01:00.000 --> 03:01:05.000
+Sí. ¿Por qué? Si lo si funciona muy bien.
+
+03:01:05.000 --> 03:01:10.000
+Y funciona muy bien después de la panza, según te conozco, de diez viajes te pegaste con esto.
+
+03:01:10.000 --> 03:01:11.000
+Bueno, en este no me tardé tanto, pero sí es verdad.
+
+03:01:11.000 --> 03:01:14.000
+Vale. Vale, ¿me entiendes entiéndeme la esencia, vale, vale.
+
+03:01:14.000 --> 03:01:16.000
+Verdad, tardé mucho.
+
+03:01:16.000 --> 03:01:20.000
+No se podía hacer todo esto tan fácil así no se podía hacer un plugin, no sé qué, no se podía, ¿vale? Ok.
+
+03:01:20.000 --> 03:01:22.000
+Hmm.
+
+03:01:22.000 --> 03:01:30.000
+Tú si yo te digo, hoy vas a comer no sé cuánto y dentro de un mes y medio te digo, "Oye, ¿qué comiste el 17 de marzo, ¿tú te acuerdas?
+
+03:01:30.000 --> 03:01:31.000
+No. No, no, sí, ya sé que no.
+
+03:01:31.000 --> 03:01:35.000
+Y él se tiene que acordar. Vale.
+
+03:01:35.000 --> 03:01:37.000
+Pero, ¿cómo lo hago para no perder información?
+
+03:01:37.000 --> 03:01:45.000
+Lo que llevo diciendo esto del curso ayudándole. Oye, quiero hacer unas mejoras, ¿vale? Mira, te mando el zip con mi aplicación.
+
+03:01:45.000 --> 03:01:46.000
+hm.
+
+03:01:46.000 --> 03:01:48.000
+para que me lo devuelvas con la mejora. el el archivo zip, tú, tú un.
+
+03:01:48.000 --> 03:01:55.000
+que es el con mi aplicación popular. Ah, el zip, vale, sí.
+
+03:01:55.000 --> 03:01:56.000
+Sí.
+
+03:01:56.000 --> 03:02:01.000
+El entiendes? Porque en los tuyos que tú has hecho ya entiendo que no será un, un, un index, vale, un HTML solo.
+
+03:02:01.000 --> 03:02:02.000
+sino que tendrás una estructura de carpetas.
+
+03:02:02.000 --> 03:02:07.000
+No. Sí, a ver tengo hasta un programa para gestión del laboratorio.
+
+03:02:07.000 --> 03:02:08.000
+Claro, vale, entonces lo que. Es lo que os digo siempre.
+
+03:02:08.000 --> 03:02:15.000
+de stock y cosas así que bueno, lo que quería mejorar pero no me atrevo a tocarlo.
+
+03:02:15.000 --> 03:02:18.000
+Escuchado, ponte en una oficina, Sandra, ¿vale? Fichan para tu equipo una persona nueva.
+
+03:02:18.000 --> 03:02:21.000
+hm.
+
+03:02:21.000 --> 03:02:26.000
+Y y te dicen Sandra explícale cómo funciona la oficina y qué documentos usamos y tal.
+
+03:02:26.000 --> 03:02:36.000
+Vale, vale, y tú le dirás. Mira, Sandra, nosotros aquí, Clara, nosotros aquí utilizamos esto, utilizamos TCRM y funciona así, mirad.
+
+03:02:36.000 --> 03:02:39.000
+Te voy a poner, vamos a hacer un ejemplo.
+
+03:02:39.000 --> 03:02:46.000
+de cómo se crearía un cliente nuevo en el CRM? Vale, mira, para las presentaciones tenemos esto y esto, te voy a mandar yo una presentación de ejemplo.
+
+03:02:46.000 --> 03:02:50.000
+Para que sepas un poco cómo las maquetamos y no sé qué, tú eso lo haces con una persona, ¿no?
+
+03:02:50.000 --> 03:02:55.000
+Vale, ahora vamos a a una I A. ¿Por qué no le ayudas? Es que no son adivinos, ¿entiendes?
+
+03:02:55.000 --> 03:02:58.000
+No, yo eso lo entiendo, pero mira, verás lo que.
+
+03:02:58.000 --> 03:03:02.000
+No, no, escucha, no lo entiendes porque tú me decías.
+
+03:03:02.000 --> 03:03:11.000
+Y, pero, y, eh, ¿qué tengo que mandarle y todo y no sé qué y él no va, él no va a recordar lo que ya había hecho, lo que yo tengo, claro que no, se lo tienes que subir.
+
+03:03:11.000 --> 03:03:18.000
+Vale, sí, sí, sí, lógico, pero no me yo te digo como yo lo haría.
+
+03:03:18.000 --> 03:03:26.000
+Y luego lo que preguntaba era si había otra forma de, yo que sé, implementarle la mejora sin sin hacer esto que te voy a decir.
+
+03:03:26.000 --> 03:03:27.000
+Lo que a mí se me ocurre y esto que sabes que yo no soy informática ni nada.
+
+03:03:27.000 --> 03:03:30.000
+¿Vale?
+
+03:03:30.000 --> 03:03:31.000
+¿Vale?
+
+03:03:31.000 --> 03:03:38.000
+Sería tener en el en el programa X, que yo haya hecho, que puede ser CRM o lo que sea que haya hecho una aplicación mía.
+
+03:03:38.000 --> 03:03:48.000
+Le haría una sección de base de datos donde guardara, digamos, todos los datos de clientes y todas las cosas que yo voy metiéndole.
+
+03:03:48.000 --> 03:03:51.000
+Esa base de datos yo me descargaría una copia.
+
+03:03:51.000 --> 03:04:02.000
+Y luego reharía el pro lo que dices tú le daría la le daría el programa G P T le daría y le diría ahora rehazlo entero, pero por lo menos ya los datos los tengo.
+
+03:04:02.000 --> 03:04:13.000
+Una vez que yo me descargara esa. Eh ese nuevo HTML volvería a subirle la base de datos y entonces se supone que todo aparecería. Es lo que yo haría.
+
+03:04:13.000 --> 03:04:14.000
+Pues Jerónimo. Es que es lo mismo, o sea.
+
+03:04:14.000 --> 03:04:18.000
+Vale, es así como tú lo estás planteando.
+
+03:04:18.000 --> 03:04:25.000
+Todo lo que tenéis que tener siempre es una copia de seguridad, ¿vale? Entonces tú tienes una copia de seguridad, es como si no quieres tocar una web.
+
+03:04:25.000 --> 03:04:26.000
+Yeah, yeah.
+
+03:04:26.000 --> 03:04:32.000
+Por si se rompe, ¿sabes? Entonces tú todos los días copia de seguridad, todos los días copia seguridad, que quieres hacer un cambio, le subes todo el código, incluida la base de datos.
+
+03:04:32.000 --> 03:04:37.000
+Oye, modifícame esto y vienes aquí y no lo pruebas directamente en un entorno real.
+
+03:04:37.000 --> 03:04:38.000
+Hmm.
+
+03:04:38.000 --> 03:04:43.000
+entiendes, Sandra, te creas un entorno paralelo donde subes el nuevo CRM, lo pruebas y entonces ya lo cambias al real, ¿vale?
+
+03:04:43.000 --> 03:04:44.000
+Pero.
+
+03:04:44.000 --> 03:04:57.000
+Pero si te tienes que, como digamos hacer rehacer entera el código HTML de pum de toda la aplicación, nunca es le puedo hacer algo que solo modifique sin tocarla.
+
+03:04:57.000 --> 03:04:58.000
+No se puede, vale, yo qué sé, ya te lo he dicho, yo no.
+
+03:04:58.000 --> 03:05:03.000
+Pero, ¿cómo vas a modificarla sin tocar? Escucha, ¿tú podrías cambiar una rueda sin tocar el coche?
+
+03:05:03.000 --> 03:05:07.000
+A ver si sin tocarlo no.
+
+03:05:07.000 --> 03:05:12.000
+Entiéndeme, ¿vale? No, no, no podría, vale, pero Sandra, te voy a dar tú que pilotas un poco de código, ¿vale? O por lo menos te mueves un poco más, mira.
+
+03:05:12.000 --> 03:05:13.000
+O lo intento.
+
+03:05:13.000 --> 03:05:20.000
+Vale, sabe, imagínate, cuando tú vas a hacer una funcionalidad nueva, pudiera ser que solo tuviera que tocar GPT uno de los archivos de la estructura.
+
+03:05:20.000 --> 03:05:22.000
+Eso es a lo que me refiero.
+
+03:05:22.000 --> 03:05:28.000
+Vale, entonces yo qué le di que pero. ¿Cómo lo haría? Yo le mando toda la estructura entera, ¿vale?
+
+03:05:28.000 --> 03:05:33.000
+Y le digo, "Quiero hacer este cambio.". Dime qué archivos habría que tocar de la estructura?
+
+03:05:33.000 --> 03:05:35.000
+Mmm, ves, eso es lo que yo quería saber.
+
+03:05:35.000 --> 03:05:38.000
+Vale, pero aunque no se lo preguntes, Sandra, él te lo va a decir, ¿vale?
+
+03:05:38.000 --> 03:05:39.000
+Vale.
+
+03:05:39.000 --> 03:05:45.000
+Tú le mandas toda la estructura y le mandas el eh la estructura de la app y le mandas la funcionalidad nueva y él te va a decir.
+
+03:05:45.000 --> 03:05:53.000
+Para aplicar eso teníamos que tocar el archivo, no sé qué, en la línea, no sé cuánto, pues, y te va a decir al final, ¿quieres que te lo aplique y te lo devuelva completo corregido?
+
+03:05:53.000 --> 03:05:56.000
+Sí, y él te va a devolver un, un archivo completo comprimido.
+
+03:05:56.000 --> 03:05:57.000
+Hmm.
+
+03:05:57.000 --> 03:05:59.000
+Con todo y solo tocará. Vale el.
+
+03:05:59.000 --> 03:06:04.000
+Y ya seguro que no toque nada más.
+
+03:06:04.000 --> 03:06:05.000
+Uh, eso es lo que me da miedo, vale.
+
+03:06:05.000 --> 03:06:10.000
+Eso yo no te lo voy a garantizar. Vale, vale, porque, ¿cómo te doy un truco, cómo lo puedes hacer de otra manera?
+
+03:06:10.000 --> 03:06:11.000
+Sí.
+
+03:06:11.000 --> 03:06:19.000
+tú le dices la funcionalidad. le cuentas cómo es la app y le manda solo como los nombres de las de las carpetas entiendes sabes de la estructura.
+
+03:06:19.000 --> 03:06:20.000
+Y que te diga primero él qué archivos tiene que tocar.
+
+03:06:20.000 --> 03:06:23.000
+Sí, sí, sí, sí. Vale.
+
+03:06:23.000 --> 03:06:26.000
+Y solo le mandas esos archivos?
+
+03:06:26.000 --> 03:06:31.000
+Y cómo le mandas solo sus archivos? Copiando el código de esos archivos.
+
+03:06:31.000 --> 03:06:37.000
+No, no, no, no, no, que me queréis sacar de mis casillas, que es que me queréis sacar de mis casillas, ya está.
+
+03:06:37.000 --> 03:06:38.000
+You know, decirlo y ya está, no pasa nada, Sandra.
+
+03:06:38.000 --> 03:06:39.000
+Yo qué sé.
+
+03:06:39.000 --> 03:06:43.000
+O sea, tú estás dentro de una carpeta y me dices que cómo le mandas estos dos archivos?
+
+03:06:43.000 --> 03:06:44.000
+Ah, bueno, vale, vale, vale.
+
+03:06:44.000 --> 03:06:48.000
+Es que, o sea, que queréis que me dé un chungo? ¿queréis que me dé un chungo? Lo decís y yo y ya está, lo simulo y así.
+
+03:06:48.000 --> 03:06:55.000
+Vale. Es que estoy imaginando, no lo tengo delante ni nada.
+
+03:06:55.000 --> 03:06:56.000
+Pero sí, sí, vale.
+
+03:06:56.000 --> 03:07:03.000
+entiendes éxito entiendes la historia, vale, él te dirá de estos 4 archivos que tú tienes en tu app, mándame solo o o habría que modificar este y este.
+
+03:07:03.000 --> 03:07:04.000
+Pues le arrastras esos dos y le dices algo me pica.
+
+03:07:04.000 --> 03:07:06.000
+tal y luego los pego.
+
+03:07:06.000 --> 03:07:12.000
+A pegas y ya está, lo cambias. El por los tuyos, ¿vale? Lo que sí que tienes que tener siempre es una copia.
+
+03:07:12.000 --> 03:07:13.000
+Por eso, vale.
+
+03:07:13.000 --> 03:07:22.000
+Vale, pero si fuera, imagínate que fuera un que no fuera GPT, ¿vale? Que tienes una persona, un informático, ¿vale? Que es el que te maneja el CRM.
+
+03:07:22.000 --> 03:07:28.000
+Si tú le pidieras un cambio, ¿el qué haría?
+
+03:07:28.000 --> 03:07:29.000
+Él te haría una copia de seguridad, él haría una copia de seguridad.
+
+03:07:29.000 --> 03:07:31.000
+Me pediría como los datos, sí, cómo es. Sí, yo lo he dicho.
+
+03:07:31.000 --> 03:07:36.000
+Iría, o sea, él, él no te lo diría, vale, pero él tenía una copia.
+
+03:07:36.000 --> 03:07:37.000
+Él vería de los archivos que tiene tu app cuáles tiene que tocar.
+
+03:07:37.000 --> 03:07:40.000
+Sí, sí, sí, sí.
+
+03:07:40.000 --> 03:07:42.000
+Y tocaría estos.
+
+03:07:42.000 --> 03:07:48.000
+Vale, sí, por eso, a ver, a mí se me había ocurrido eso porque es lo que pienso que haría un informático.
+
+03:07:48.000 --> 03:07:51.000
+Es que es lo mismo si has dicho, es lo, o sea me refiero.
+
+03:07:51.000 --> 03:07:54.000
+El hacer una copia completa incluida la base de datos y hacer todo lo que yo te he dicho es lo mismo que lo que tú has dicho de.
+
+03:07:54.000 --> 03:07:57.000
+Sí.
+
+03:07:57.000 --> 03:08:03.000
+hacer una copia de la base de datos, o sea, es como al revés, pero es, te vale igual, lo que tú has dicho te vale igual, ¿eh?
+
+03:08:03.000 --> 03:08:04.000
+Vale, te vale igual igual igual es cambia el orden, pero es lo mismo.
+
+03:08:04.000 --> 03:08:06.000
+Vale, vale, vale.
+
+03:08:06.000 --> 03:08:09.000
+Sí, bueno, era por asegurarme de que estaba correcto eso.
+
+03:08:09.000 --> 03:08:12.000
+Es que cuando yo digo una copia de seguridad me refiero a.
+
+03:08:12.000 --> 03:08:14.000
+a todo incluida la base de datos.
+
+03:08:14.000 --> 03:08:18.000
+Sí, a ver yo decía copiar la base de datos aparte, guardarmela parte.
+
+03:08:18.000 --> 03:08:19.000
+por.
+
+03:08:19.000 --> 03:08:27.000
+Pues por si acaso, yo qué sé, porque una vez que tú bueno es que te lo da con todos los datos metidos y es capaz de.
+
+03:08:27.000 --> 03:08:32.000
+O sea para luego subírsela yo decía eh rehacer la app y luego ya subirle la otra vez la copia de datos.
+
+03:08:32.000 --> 03:08:38.000
+Pero si, si te fijas en la mía, yo le he puesto un botoncito de resetear aplicación y subir otra vez.
+
+03:08:38.000 --> 03:08:39.000
+¿Sabes? Esa funcionalidades son las que tienes que pensar, Sandra.
+
+03:08:39.000 --> 03:08:42.000
+Vale. Vale.
+
+03:08:42.000 --> 03:08:43.000
+¿Vale? Justo esas, ¿vale? Dime, Germán.
+
+03:08:43.000 --> 03:08:51.000
+Otra manera. No sé si funcione, es que cuando veo la interface y doy en el clic derecho, me permite.
+
+03:08:51.000 --> 03:08:53.000
+Ir al código de la fuente de página.
+
+03:08:53.000 --> 03:09:09.000
+Entonces de repente simplemente borro el código anterior y vuelvo a pegar el nuevo actualizado. Y con eso se debería Actualizar El crm correcto.
+
+03:09:09.000 --> 03:09:10.000
+Ah, dices, sí, justo para cambiarla a la nueva versión con la mejora lo que.
+
+03:09:10.000 --> 03:09:18.000
+Claro borras el anterior con el código de fuente página, lo borras y pegas el nuevo y no debería cambiar Nada Solamente, Debería, ser el nuevo crm Mejorado, correcto.
+
+03:09:18.000 --> 03:09:19.000
+Yeah. Okay.
+
+03:09:19.000 --> 03:09:24.000
+Literalmente. Eso es, eso es, eso es, ¿vale? Germán, truquito.
+
+03:09:24.000 --> 03:09:25.000
+Antes de pegar el código nuevo y o sea, pisar el archivo.
+
+03:09:25.000 --> 03:09:29.000
+Una copia.
+
+03:09:29.000 --> 03:09:32.000
+No, aparte de una copia. ¿Podrías ir a la herramienta que te he mandado yo antes, visualizar el nuevo C R M, ver que está bien y luego cambiarlo.
+
+03:09:32.000 --> 03:09:37.000
+Claro, claro, claro, ¿correcto? Sí.
+
+03:09:37.000 --> 03:09:39.000
+Right? Para eso es una herramienta que la abres ahí, pum, guártela en favoritos porque funciona muy bien, ¿vale?
+
+03:09:39.000 --> 03:09:42.000
+Yeah buenísimo.
+
+03:09:42.000 --> 03:09:45.000
+El Lizzie me has, eh, me has mandado las clases, ¿verdad?
+
+03:09:45.000 --> 03:09:46.000
+Y lo, me dijiste.
+
+03:09:46.000 --> 03:09:56.000
+Venga, mira. Te lo voy a enseñar, ¿vale? Un segundo que lo voy a abrir y os lo enseño a todos cómo lo hago en directo, ¿vale?
+
+03:09:56.000 --> 03:10:02.000
+Un segundo que voy a copiar los datos del Excel.
+
+03:10:02.000 --> 03:10:08.000
+Vale, esto. ¿Cuánto o ahora sí que te ha dado, ¿eh?
+
+03:10:08.000 --> 03:10:12.000
+Oh, there.
+
+03:10:12.000 --> 03:10:13.000
+Eso te iba, es justo te iba a decir es, esas eras tú.
+
+03:10:13.000 --> 03:10:16.000
+Esperemos que sea real. Ojalá.
+
+03:10:16.000 --> 03:10:29.000
+Dentro de 6 meses. Vale, un segundito, guardar no voy a pegarlo aquí en el documento.
+
+03:10:29.000 --> 03:10:39.000
+Vale, un segundo. pegar, mira.
+
+03:10:39.000 --> 03:10:41.000
+Eh no veis mi pantalla, ¿no? Un segundo.
+
+03:10:41.000 --> 03:10:46.000
+No.
+
+03:10:46.000 --> 03:10:48.000
+Ahí la veis. Sí, vale, ahí está bien.
+
+03:10:48.000 --> 03:10:52.000
+Ahí vemos el, el prompt.
+
+03:10:52.000 --> 03:11:04.000
+Mira, yo abro tu documento, ¿vale? Y ahora me vengo aquí y lo copio entero, un segundo.
+
+03:11:04.000 --> 03:11:07.000
+Creo que con control E. Va, por lo menos en.
+
+03:11:07.000 --> 03:11:08.000
+ah sí, es verdad, no me acordaba, justo, es verdad.
+
+03:11:08.000 --> 03:11:10.000
+windows.
+
+03:11:10.000 --> 03:11:17.000
+Vale, y ahora lo pego aquí, ¿vale? Aquí arriba yo le he dicho.
+
+03:11:17.000 --> 03:11:21.000
+Una empresa que es un taller de clases de cerámica, ¿vale?
+
+03:11:21.000 --> 03:11:25.000
+A ver si me lo quiere pegar un segundo.
+
+03:11:25.000 --> 03:11:31.000
+Vale, ya lo tengo. Un segundito, le subo arriba del todo.
+
+03:11:31.000 --> 03:11:32.000
+Vale, es un taller.
+
+03:11:32.000 --> 03:11:51.000
+Un poquito para ver más.
+
+03:11:51.000 --> 03:11:56.000
+Vale, esto, Lizzie entero, vale, es lo que yo me copio.
+
+03:11:56.000 --> 03:11:57.000
+y me voy al G P T. Este, ¿vale?
+
+03:11:57.000 --> 03:12:01.000
+Okay.
+
+03:12:01.000 --> 03:12:04.000
+que lo he configurado aquí, le he puesto thinking.
+
+03:12:04.000 --> 03:12:05.000
+Mhm.
+
+03:12:05.000 --> 03:12:12.000
+Vale, y aquí abajo el pensamiento ampliado. Y le pego todo que se lo voy a pegar ahora mismo.
+
+03:12:12.000 --> 03:12:13.000
+Un segundito, ahí está. Vale, como necesito.
+
+03:12:13.000 --> 03:12:18.000
+Okay.
+
+03:12:18.000 --> 03:12:23.000
+nadie es a crear un CRM sencillo. ¿Vale?
+
+03:12:23.000 --> 03:12:30.000
+Perdona aitor. ¿Qué estás haciendo? Porque se ve Po, la pantalla. Se yo la veo borrosa. No sé si la Ven Todo el mundo. Borroso.
+
+03:12:30.000 --> 03:12:31.000
+No problem.
+
+03:12:31.000 --> 03:12:34.000
+Estoy creando un C R M con los datos del ISI.
+
+03:12:34.000 --> 03:12:35.000
+Ah! Vale! Vale, vale.
+
+03:12:35.000 --> 03:12:36.000
+No.
+
+03:12:36.000 --> 03:12:38.000
+Lo que has hecho tú ya. Mario, sí, sí, tú ya lo tienes.
+
+03:12:38.000 --> 03:12:43.000
+Vale, le doy a enviar, vale. Y esto Lisi, lo que debe darme es ahora.
+
+03:12:43.000 --> 03:12:46.000
+A ver si da tiempo antes de que termine la clase.
+
+03:12:46.000 --> 03:12:54.000
+Eh un html como el. que os he enseñado yo, vale, que tú irás a la herramienta a esta que vuelvo a pegar aquí, guárdatela en favoritos, ¿vale?
+
+03:12:54.000 --> 03:12:56.000
+Sí, sí, yo tengo esa. La de viver, sí.
+
+03:12:56.000 --> 03:12:59.000
+tú lo pegarás ahí y verás tu C R M y no tiene que fallar.
+
+03:12:59.000 --> 03:13:03.000
+O sea, me refiero, debería fallar. Lo otro que te ha hecho es como.
+
+03:13:03.000 --> 03:13:09.000
+Una aplicación más completa, te ha separado, digamos que todo lo que yo tenía en un archivo te lo ha separado en 3.
+
+03:13:09.000 --> 03:13:10.000
+Vale, es raro porque yo siempre me lo ha hecho en uno, pero os ha pasado a 3 o 4, ¿vale? Entonces, bueno, podría ser.
+
+03:13:10.000 --> 03:13:14.000
+Okay. Qué rarísimo.
+
+03:13:14.000 --> 03:13:22.000
+¿Vale? Es que hay veces que se le cruza el cable o igual lo están actualizando la versión a saber, ¿vale? Y funciona distinto que ayer, ¿vale?
+
+03:13:22.000 --> 03:13:27.000
+Pero ya ves que muchos tenéis el C R M. ¿con qué nos tenemos que quedar hoy con.
+
+03:13:27.000 --> 03:13:37.000
+con un prom malo, porque al final le he pedido un C R M con cuatro líneas, vuelvo a lo mismo del contexto, acordaros de los proms que os mandé 55 folios, eso es un pro.
+
+03:13:37.000 --> 03:13:41.000
+Eso es lo que yo tendría que poner antes de pegarle los Exceles, ¿entendéis?
+
+03:13:41.000 --> 03:13:47.000
+Entonces creo, creo que dentro de esos 55 folios de proms hay uno para crear un C R M.
+
+03:13:47.000 --> 03:13:57.000
+Creo, no estoy seguro, pero creo, vale. Si estuviera yo iría, adaptaría este y es el que pegaría encima de los Exceles, ¿vale?
+
+03:13:57.000 --> 03:14:00.000
+Y entonces os dará un CRM mucho más completo.
+
+03:14:00.000 --> 03:14:01.000
+Perfect.
+
+03:14:01.000 --> 03:14:07.000
+¿Vale? Si lo queréis en solo un HTML pues se lo pido. Si alguien quiere ya una estructura, ¿vale? Pues.
+
+03:14:07.000 --> 03:14:11.000
+Luego hay que crear los archivos, truco para los archivos.
+
+03:14:11.000 --> 03:14:15.000
+Y ahí, por ejemplo, si le ponemos el logo, le ponemos esto que vos decías.
+
+03:14:15.000 --> 03:14:20.000
+Todo te lo pone. todo vale lisi.
+
+03:14:20.000 --> 03:14:24.000
+Imagínate que no queremos crear los archivos a mano.
+
+03:14:24.000 --> 03:14:25.000
+Mm-hm.
+
+03:14:25.000 --> 03:14:27.000
+Esos que, esos que te ha dado separados? Vale, copias todos los archivos en el chat.
+
+03:14:27.000 --> 03:14:31.000
+Sí.
+
+03:14:31.000 --> 03:14:39.000
+entero todos de arriba a abajo, vale, vale. y buscas otro, otro GPT que sea especialista en código y le dices.
+
+03:14:39.000 --> 03:14:46.000
+Dame los archivos pa descargar. ¿Entendéis? En vez de crearlos vosotros.
+
+03:14:46.000 --> 03:14:47.000
+Sí, entendí.
+
+03:14:47.000 --> 03:14:52.000
+Buscamos un G P T. ¿Vale? Es, ¿entendéis? Que sea especialista.
+
+03:14:52.000 --> 03:14:54.000
+¿Vale? En. que sea capaz, que sea capaz de hacer los archivos.
+
+03:14:54.000 --> 03:14:58.000
+Sí, sí, sí.
+
+03:14:58.000 --> 03:15:02.000
+Vale, ¿entendéis esta parte, no?
+
+03:15:02.000 --> 03:15:03.000
+de hacer los archivos. No entendí.
+
+03:15:03.000 --> 03:15:04.000
+Sí.
+
+03:15:04.000 --> 03:15:13.000
+Sí, sí, mira. Este GPT que tú has usado ahora mismo te ha dado el código, no te ha dado un archivo descargable.
+
+03:15:13.000 --> 03:15:14.000
+Vale, hubiera sido mucho más cómodo que estuvieran de un archivo, ¿a que sí?
+
+03:15:14.000 --> 03:15:18.000
+Mm-hmm. Exacto.
+
+03:15:18.000 --> 03:15:21.000
+Claro, de repente como él crea algo que me dio.
+
+03:15:21.000 --> 03:15:24.000
+todo me lo da en HTML. Por ejemplo.
+
+03:15:24.000 --> 03:15:33.000
+No, sí, sí, sí, no. Imagínate que los Excel que has pedido de datos en vez de darte un archivo que te ha dado para que te lo descargues, te pone la tabla.
+
+03:15:33.000 --> 03:15:35.000
+Pegada en el chat. Ha sido mucho más cómodo para ti descargarte un archivo, ¿correcto?
+
+03:15:35.000 --> 03:15:41.000
+Mhm. Claro, seguro.
+
+03:15:41.000 --> 03:15:47.000
+Vale, si el DHTML en vez de darte 4 códigos te hubiera dado los 4 archivos para descargar hubiera sido más cómodo.
+
+03:15:47.000 --> 03:15:48.000
+¿Sí? Ok, si ahora yo copio esos 4 códigos de golpe y me voy a un GPT.
+
+03:15:48.000 --> 03:15:52.000
+mhm.
+
+03:15:52.000 --> 03:15:55.000
+que sea capaz de crear los archivos. ¿Entiendes? Si le pego eso me lo va a dar.
+
+03:15:55.000 --> 03:16:00.000
+Ujum, sí. Y me va a dar uno.
+
+03:16:00.000 --> 03:16:06.000
+No, sí, o te da un, un, un archivo comprimido con los cuatro dentro o te da cuatro para descargar.
+
+03:16:06.000 --> 03:16:14.000
+Vale, de esos hay muchos, yo os doy uno que funciona muy bien, ¿vale?
+
+03:16:14.000 --> 03:16:22.000
+Se llama Ethical hack. Un segundo, que os pego el enlace.
+
+03:16:22.000 --> 03:16:28.000
+Copiar el enlace, lo digo por si lo queréis probar aquí todos ahora, ¿vale?
+
+03:16:28.000 --> 03:16:31.000
+Ahí lo dejo, este, lo podéis anclarar a la izquierda.
+
+03:16:31.000 --> 03:16:37.000
+Si a todos los que os ha dado los 4 archivos los copiáis enteros, se los pegáis a este y le dices dame los archivos con estos descargable.
+
+03:16:37.000 --> 03:16:45.000
+O lo va a dar. Así no tenéis que crearlos a mano, ya está, si os vuelve a pasar, ¿entendéis? Pues probáis.
+
+03:16:45.000 --> 03:16:46.000
+Vale, y os lo da. Dime.
+
+03:16:46.000 --> 03:16:53.000
+Una pregunta, Héctor, rápida. Te he dado un recorte de la pantalla de GPT que me ha dado después de darme el código.
+
+03:16:53.000 --> 03:16:58.000
+El C R M. Y me pregunta eso.
+
+03:16:58.000 --> 03:17:03.000
+Si le digo que tire palante.
+
+03:17:03.000 --> 03:17:04.000
+¿Qué pasa?
+
+03:17:04.000 --> 03:17:05.000
+No lo sé, pregunto. No lo sé.
+
+03:17:05.000 --> 03:17:11.000
+We want explota el ordenador. Mira, escucha.
+
+03:17:11.000 --> 03:17:17.000
+Lo que te está ofreciendo son las. las mejoras, las primeras mejoras, ¿vale?
+
+03:17:17.000 --> 03:17:19.000
+Y él considera que debe de.
+
+03:17:19.000 --> 03:17:26.000
+Vale, pero ahora si te fijas te está diciendo que en vez de darte un archivo HTML te va a dar cuatro, lo que le ha pasado a Lisi.
+
+03:17:26.000 --> 03:17:27.000
+que hay que crear esos 4, ¿vale? Justo esto lo que estaba diciendo.
+
+03:17:27.000 --> 03:17:31.000
+Sí que hay que juntarlos y ya está. cogerlos y copiarlos en el, en el blog de nota.
+
+03:17:31.000 --> 03:17:33.000
+En el otro G P T que te de los archivos.
+
+03:17:33.000 --> 03:17:36.000
+de notas 1 detrás de otro y ya está.
+
+03:17:36.000 --> 03:17:39.000
+No, no, no, no, no, es que, mira, te enseño, no, no, no te hace falta, mira, te enseñole, te enseño el.
+
+03:17:39.000 --> 03:17:41.000
+They.
+
+03:17:41.000 --> 03:17:42.000
+¿Veis mi pantalla, no? Vale, o coges así y haces pa.
+
+03:17:42.000 --> 03:17:43.000
+justo.
+
+03:17:43.000 --> 03:17:46.000
+Sí.
+
+03:17:46.000 --> 03:17:51.000
+Así, un segundo.
+
+03:17:51.000 --> 03:17:56.000
+Así pa arriba copio todo, copio todo, copio todo, pum pum pum, lo copio entero entero entero con el ratón.
+
+03:17:56.000 --> 03:17:57.000
+Vale. lo los cuatro archivos los PD.
+
+03:17:57.000 --> 03:18:02.000
+todo vale. Lo copió todo entero.
+
+03:18:02.000 --> 03:18:04.000
+Y lo, y lo pego y ya está.
+
+03:18:04.000 --> 03:18:10.000
+¿Entendéis? Os puede dar 25 archivos, pues vais al primero y lo copiáis desde el primer nombre hasta el último archivo.
+
+03:18:10.000 --> 03:18:11.000
+Y vais al GPT que os crea los archivos y dices toma, créame los archivos de este código, ya está.
+
+03:18:11.000 --> 03:18:16.000
+Vale, vale.
+
+03:18:16.000 --> 03:18:17.000
+En vez de tener que hacerlos a mano, que otra opción es lo que yo he hecho antes hacerlos a mano, ¿vale? Crearlos, ¿vale?
+
+03:18:17.000 --> 03:18:21.000
+Vale.
+
+03:18:21.000 --> 03:18:22.000
+Vale, yo me voy a traer una hora, le dejo aquí porque le he dicho que sí, está tirando, lleva un.
+
+03:18:22.000 --> 03:18:26.000
+Pero es una tontería, os lo podemos.
+
+03:18:26.000 --> 03:18:27.000
+buah, vas a flipar, tú va a tardar un rato, ¿eh?
+
+03:18:27.000 --> 03:18:30.000
+El error está en la rotación.
+
+03:18:30.000 --> 03:18:34.000
+Va a tardar un rato, ¿vale? Entonces... Lo que yo haría hasta el próximo día.
+
+03:18:34.000 --> 03:18:39.000
+Si fuera vosotros y tenéis tiempo, ¿vale? Ya tenéis una base, okay.
+
+03:18:39.000 --> 03:18:44.000
+Lisie, eh, yo la, la, me la está creando, me lo está creando.
+
+03:18:44.000 --> 03:18:49.000
+Y dame un segundo a ver si he terminado, si no, yo ahora te lo mando a ti, ¿vale?
+
+03:18:49.000 --> 03:18:50.000
+Un segundo que te lo voy a confirmar, si me lo está creando o me lo está creando mal y ya, ahora te lo mando.
+
+03:18:50.000 --> 03:18:54.000
+Okay.
+
+03:18:54.000 --> 03:19:01.000
+Para el resto, lo que haría sería aplicar mejoras de aquí al próximo dia sí, sí me lo está creando Lisy, eh, te lo mando ahora mismo.
+
+03:19:01.000 --> 03:19:02.000
+Ay, bueno, dale.
+
+03:19:02.000 --> 03:19:16.000
+Sí, ehm. aplicar mejoras y mejoras y mejoras, ¿vale? Y apuntaros de aquí al próximo día, lo que no os aplique, las mejoras que no os apliquen, ¿vale? Que os dé fallo, que os rompa lo que sea, tal tal.
+
+03:19:16.000 --> 03:19:26.000
+Y el próximo dia vemos esas mejoras, ¿vale? Yo voy a traer uno montado ya para que veáis como la usabilidad que se le puede dar a un CRM, ¿vale? Las cosas que se pueden hacer, las campañas que se puede sacar, etc.
+
+03:19:26.000 --> 03:19:32.000
+Y esto lo podréis aplicar luego y poder seguir seguís escalando vuestro CRM para tenerlo, ¿vale?
+
+03:19:32.000 --> 03:19:33.000
+Pero ahora mismo todos los que tuvierais, perdón, Adrián un segundo, todos los que teníais todo en Excel es.
+
+03:19:33.000 --> 03:19:39.000
+I don.
+
+03:19:39.000 --> 03:19:42.000
+Con esta base ya no hace falta tenerlo en un Excel.
+
+03:19:42.000 --> 03:19:45.000
+¿Vale? Solo con la base, sin mejoras me refiero.
+
+03:19:45.000 --> 03:19:49.000
+Vale, ya podréis haceros, incluso sin que sea un CRM.
+
+03:19:49.000 --> 03:19:52.000
+Le podéis decir, hazme un panel de control con estos Exceles.
+
+03:19:52.000 --> 03:19:56.000
+con equis filtros y no sé qué y ya no lo tienes en Excel, lo tienes como.
+
+03:19:56.000 --> 03:19:59.000
+Había como chulo colocado, dime Adrián.
+
+03:19:59.000 --> 03:20:10.000
+este, normalmente. Como ejecutaría este.
+
+03:20:10.000 --> 03:20:16.000
+Esta aplicación se ha ejecutada directamente por el, por el chat, por, por chat GPT o tiene una.
+
+03:20:16.000 --> 03:20:17.000
+Se ejecuta, te refieres a, a abrir el C R M?
+
+03:20:17.000 --> 03:20:23.000
+Una ventana. a la hora de darle uso, o sea, por decirlo así.
+
+03:20:23.000 --> 03:20:26.000
+Vale, mira, esto es lo que decía antes cuando.
+
+03:20:26.000 --> 03:20:29.000
+Da igual que sea un único archivo o varios, ¿vale?
+
+03:20:29.000 --> 03:20:37.000
+Si eso lo que lo he copiado he cogido los da lo, los, los datos, el código lo copiado en un bloc de nota y lo tengo en el ordenador, sí.
+
+03:20:37.000 --> 03:20:38.000
+y tienes puntos HTML, ¿no? El archivo. Vale, pues ahora haz doble clic encima del archivo.
+
+03:20:38.000 --> 03:20:49.000
+Pero sí, sí, sí.
+
+03:20:49.000 --> 03:20:51.000
+Ok. Vale, pero, pero se ejecutado.
+
+03:20:51.000 --> 03:20:55.000
+¿Se te ha abierto?
+
+03:20:55.000 --> 03:20:58.000
+O sea a través de eso quedaría como una página web.
+
+03:20:58.000 --> 03:21:01.000
+O se ejecuta a través de chate.
+
+03:21:01.000 --> 03:21:03.000
+No, no, no. Chatgpt solo te lo crea. ¿Vale? Adrián, cuando es punto html, si te fijas el archivo lo que te abre es el navegador.
+
+03:21:03.000 --> 03:21:11.000
+Okay.
+
+03:21:11.000 --> 03:21:12.000
+Lo que hace es se ejecutan local en tu ordenador, pero utilizando el navegador.
+
+03:21:12.000 --> 03:21:15.000
+Sí sí por .
+
+03:21:15.000 --> 03:21:16.000
+Ah, okay, okay, esa era mi, mi, mi pregunta, o sea que como.
+
+03:21:16.000 --> 03:21:19.000
+Vale. Eso es.
+
+03:21:19.000 --> 03:21:21.000
+Si era necesario algún tipo de aplicación o algo aparte de.
+
+03:21:21.000 --> 03:21:30.000
+No, no, que va, qué va. Usa el navegador, ¿vale? Pero se ejecuta en tu ordenador, por eso el tener el archivito en local, ¿vale? Para que cuando lo uses se te abra tu navegador y lo puedas usar en local.
+
+03:21:30.000 --> 03:21:31.000
+Vale, yo qué haría si tenéis un drive o algo así?
+
+03:21:31.000 --> 03:21:35.000
+Imagina, vale.
+
+03:21:35.000 --> 03:21:38.000
+Si tenéis un drive o cualquier sistema de estos.
+
+03:21:38.000 --> 03:21:44.000
+Yo lo subiría al drive porque si tengo el mo estoy con el móvil por ahí.
+
+03:21:44.000 --> 03:21:45.000
+Bueno, claro. Claro, eso es, ¿vale?
+
+03:21:45.000 --> 03:21:50.000
+Claro todo de forma remota puedo acceder a.
+
+03:21:50.000 --> 03:21:51.000
+Ahora te, ahora te lo paso Lisi, ¿vale? Te paso el archivo, el archillito por WhatsApp.
+
+03:21:51.000 --> 03:21:55.000
+Genial, muchas gracias.
+
+03:21:55.000 --> 03:21:56.000
+Vale.
+
+03:21:56.000 --> 03:22:05.000
+Y para el resto aplicar todas las mejoras, todo lo que podáis, etc. El que me quiera mandar el HTML antes del próximo día, porque quiera que le eche una mano antes del próximo día a que me lo mande y yo le ayudo.
+
+03:22:05.000 --> 03:22:11.000
+o el que quiera enseñármelo porque le apetezca porque me lo mande que yo lo miro, ¿vale?
+
+03:22:11.000 --> 03:22:12.000
+Vale.
+
+03:22:12.000 --> 03:22:13.000
+Y nos vemos en un par de días. Lisie, ha quedado bien, ya te lo digo.
+
+03:22:13.000 --> 03:22:17.000
+Vale.
+
+03:22:17.000 --> 03:22:19.000
+Ahora te lo enseño, ahora te lo enseño. Por cierto, por cierto, perdón, para los que tienen iPhone.
+
+03:22:19.000 --> 03:22:23.000
+Dale, dale.
+
+03:22:23.000 --> 03:22:32.000
+Eh yo uso una aplicación que tiene como es como de colorines, esa que está ahí arriba que se llama html.
+
+03:22:32.000 --> 03:22:33.000
+Ah! Vale!
+
+03:22:33.000 --> 03:22:37.000
+editor, vale, es como. Vale, y ahí es como la de online que os he puesto.
+
+03:22:37.000 --> 03:22:38.000
+Hmm.
+
+03:22:38.000 --> 03:22:43.000
+Podéis pegar el código directamente, ¿sabes? Lo copias de GPT y lo pegas ahí, lo puedes visualizar igual, Germán, ¿vale? Como.
+
+03:22:43.000 --> 03:22:47.000
+Se veía en la barra lateral para los que tenéis Android.
+
+03:22:47.000 --> 03:22:48.000
+And I love that.
+
+03:22:48.000 --> 03:22:54.000
+poner en el, en la Apple Store. HTML y os va a salir viewer sabes como para ver y el que sea, da igual, todo funciona.
+
+03:22:54.000 --> 03:22:55.000
+Vale.
+
+03:22:55.000 --> 03:23:02.000
+¿Vale? Nos vemos el próximo día, ya tenéis un CRM, a la que tenéis curro. Chao, os habéis ahorrado 3000 euros. Chao.
+
+03:23:02.000 --> 03:23:03.000
+Y te lo mando por WhatsApp ahora mismo.
+
+03:23:03.000 --> 03:23:04.000
+Lo mandas por.
+
+03:23:04.000 --> 03:23:14.000
+tenemos unas cañas.
+
+03:23:14.000 --> 03:23:34.000
+So
+

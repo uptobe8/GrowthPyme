@@ -1,0 +1,79 @@
+00:22:03	Eva Biosca Echenique:	Hola
+00:22:42	Eva Biosca Echenique:	jajaja
+00:24:28	Eva Biosca Echenique:	No
+00:26:07	Elodia Santa Cruz Quiroz:	Holaa
+00:31:45	Eva Biosca Echenique:	Ohhhh
+00:34:57	Aitor Ruano:	CData Connect AI
+00:47:01	Aitor Ruano:	Creame un excel para simular un listado de clientes con servicios contratados  para un estudio de tatuajes con 50 clientesCreame un excel para simular un listado de clientes con servicios contratados  para un estudio de tatuajes con 50 clientes
+00:56:13	Elodia Santa Cruz Quiroz:	Vale,gracias
+01:05:46	Aitor Ruano:	Barracuda
+01:11:04	Eva Biosca Echenique:	A mí tb
+01:11:58	Aitor Ruano:	https://chatgpt.com/apps/formula-genius/asdk_app_69c8990ea8e08191b6e03a3e332b48f8
+01:12:14	Aitor Ruano:	https://chatgpt.com/apps/egnyte/connector_691f749cd9088191befeb1d543c37d98
+01:15:52	Aitor Ruano:	Estrategia de mailing: https://chatgpt.com/apps/aweber/asdk_app_6973948b122081919e8ef74f237e0182
+01:17:31	Aitor Ruano:	Para diseñar el diseño del mail: https://chatgpt.com/apps/grapes-studio/asdk_app_69dd38930d64819196c02d0f9db061b5
+01:20:05	ESTHER VAZQUEZ:	En Egnyte no me deja entrar
+01:21:10	Aitor Ruano:	Para diseñar el diseño del mail: https://chatgpt.com/apps/feedclaw/asdk_app_69c89b0e3df08191bb005c578b645776
+01:22:24	Aitor Ruano:	https://chatgpt.com/apps/kopi---shopify-email-creator/asdk_app_694a08558d688191b976152fe32311a9
+01:24:22	Aitor Ruano:	Gestion de recordatorios por mail de citas, renovaciones etc: https://chatgpt.com/apps/superhuman-mail/asdk_app_69a21e4058dc8191a6220fa911310d7b
+01:24:44	Aitor Ruano:	https://chatgpt.com/apps/feedclaw/asdk_app_69c89b0e3df08191bb005c578b645776
+01:29:17	Patricia:	Mailrelay que MailChimp deja menos gratuitos
+01:30:46	Eva Biosca Echenique:	Me piden pagar
+01:44:00	ESTHER VAZQUEZ:	Hay varias que no deja conectarse
+02:05:50	Aitor Ruano:	3-5 y empezamos
+02:11:28	ESTHER VAZQUEZ:	hello
+02:13:00	Aitor Ruano:	[En esta versión, no es posible mostrar el mensaje completo]
+02:20:14	Aitor Ruano:	Comprobar si estamos en listas de spam:
+
+https://www.dnsqueries.com/es/
+02:22:43	Aitor Ruano:	zara.es
+02:29:43	Aitor Ruano:	Analiza esta tabla de clientes y clasifica cada contacto en uno de estos segmentos:
+
+1. Cliente nuevo
+2. Cliente activo
+3. Cliente inactivo
+4. Cliente de alto valor
+5. Cliente sensible a precio
+6. Lead sin compra
+
+Devuélveme una tabla con:
+Nombre, Email, Segmento, Motivo, Campaña recomendada, Prioridad y CTA recomendado.
+02:33:35	Aitor Ruano:	https://chatgpt.com/apps/marcopolo/asdk_app_698429b2c5fc8191bb997f52cb2a413a
+02:35:33	Aitor Ruano:	Segundo paso:
+
+Crea la estrategia y texto del mail para el segmento [CLIENTE INACTIVO].
+
+Objetivo: reactivar al cliente.
+Tono: cercano, profesional y directo.
+Incluye:
+- asunto
+- preheader
+- cuerpo del email
+- CTA principal
+- CTA secundario
+- versión corta para Gmail/Outlook
+
+La estrategia y textos no el diseño.
+02:43:13	Aitor Ruano:	Ahora Crea un email HTML responsive para Gmail y Outlook con este contenido.
+
+Debe incluir:
+- cabecera simple
+- texto principal
+- botón de llamada
+- botón de WhatsApp
+- botón de solicitar reunión
+- diseño limpio, profesional y fácil de leer
+- ancho máximo 600 px
+- estilos inline compatibles con email
+
+CTAs para meter en el email:
+
+<a href="tel:+34600111222">Llamar ahora</a>
+
+<a href="https://wa.me/34600111222?text=Hola,%20quiero%20más%20información">Abrir WhatsApp</a>
+
+<a href="https://calendar.google.com/calendar/appointments/schedules/TU-ENLACE">Solicitar reunión</a>
+02:55:44	Eva Biosca Echenique:	Perdona Aitor, una vez conectado gmail, ¿qué se hace?
+03:00:53	Aitor Ruano:	Mailrelay que MailChimp deja menos gratuitos
+03:04:25	Eva Biosca Echenique:	Aitor no puedo conectar esas aplicaciones de mail a gpt
+03:04:51	Eva Biosca Echenique:	Mailrelay ya Mailchimp

@@ -1,0 +1,149 @@
+00:21:00	Eva Biosca Echenique:	Hola
+00:26:36	AITOR RUANO PINA:	https://nim.video/
+00:28:33	AITOR RUANO PINA:	Runway
+00:28:36	AITOR RUANO PINA:	Kling ai
+00:29:01	AITOR RUANO PINA:	Genspark
+00:31:54	AITOR RUANO PINA:	Gemini
+00:32:07	AITOR RUANO PINA:	Nano banana
+00:32:42	AITOR RUANO PINA:	https://aistudio.google.com/prompts/new_chat
+00:33:02	AITOR RUANO PINA:	https://aistudio.google.com/prompts/new_video?model=veo-2.0-generate-001
+00:34:17	David Muñoz:	Aitor estás silenciado
+00:37:46	AITOR RUANO PINA:	@MarcosGol_IA
+00:38:40	AITOR RUANO PINA:	Logre control absoluto en videos IA
+00:38:58	AITOR RUANO PINA:	Logre consistencia perfecta en videos IA
+00:39:06	iPhone de Adrian:	Vale
+00:50:48	Vanessa Mazuecos Fernández:	Los aranceles
+00:50:59	Vanessa Mazuecos Fernández:	Son amenazas
+00:55:15	Anna Hernandez Duran:	Perdon si me lo he perdido pero que hay de la actividad basada en retos?
+00:57:27	Vanessa Mazuecos Fernández:	Lo más óptimo y lo más útil para nosotros es hacer cada uno el nuestro. 
+La verdad
+00:58:29	Eva Biosca Echenique:	¿Y las mentorías deben ser también en grupo?
+00:59:15	Eva Biosca Echenique:	¿Pero el grupo?
+00:59:40	Eva Biosca Echenique:	¿para qué es el grupo?
+00:59:47	Eva Biosca Echenique:	Es lo que no entiendo
+00:59:57	Eva Biosca Echenique:	No de las mentorías
+01:00:17	Eva Biosca Echenique:	Claro, por eso no entiendo el grupo
+01:00:45	Eva Biosca Echenique:	Vale. Gracias.
+01:02:04	Anna Hernandez Duran:	Yo hice la mentoria la semana pasada y trabajamos en la primera entrega del plan de transformacion digital
+01:02:57	Eva Biosca Echenique:	Gracias
+01:03:12	Marion Stocki Roffe:	Nos podrías dar  una guía  de “aterrizamiento” Es decir qué traer preparado a la mentora?
+01:13:23	AITOR RUANO PINA:	DAFO – Agencia de Marketing Digital (Madrid)
+Fortalezas
+Equipo multidisciplinar con especialización en SEO, Paid Media, analítica y automatización.
+Proximidad a grandes marcas, startups y ecosistema empresarial de Madrid.
+Capacidad de ofrecer servicios integrados (estrategia, ejecución y medición).
+Experiencia en sectores competitivos (ecommerce, educación, SaaS, servicios profesionales).
+Uso avanzado de datos y herramientas de IA para optimización de campañas.
+
+Debilidades
+Alta dependencia de talento senior (costes elevados y riesgo de rotación).
+Dificultad para estandarizar procesos sin perder personalización.
+Margen ajustado en servicios commodity (SEO básico, gestión de Ads).
+Escalabilidad limitada si el modelo se basa en horas/persona.
+Marca poco diferenciada frente a otras agencias “full service”.
+01:13:39	AITOR RUANO PINA:	Oportunidades
+Creciente demanda de servicios de IA aplicada al marketing (automatización, CRO, contenido).
+Aumento de pymes y startups que externalizan marketing estratégico.
+Especialización en nichos concretos (B2B, legal, educación, health, ecommerce).
+Alianzas con consultoras, software providers o startups tecnológicas.
+Internacionalización de clientes desde Madrid como hub europeo.
+
+Amenazas
+Saturación del mercado de agencias digitales en Madrid.
+Presión de precios por freelancers, agencias low-cost y plataformas automatizadas.
+Dependencia de plataformas externas (Google, Meta, cambios de algoritmo).
+Clientes cada vez más formados y exigentes en resultados medibles.
+Ciclos económicos que reducen inversión en marketing.
+01:35:20	Patri Ni:	cuelga el dafo otra vez porfa
+01:36:53	AITOR RUANO PINA:	DAFO – Agencia de Marketing Digital (Madrid)
+Fortalezas
+Equipo multidisciplinar con especialización en SEO, Paid Media, analítica y automatización.
+Proximidad a grandes marcas, startups y ecosistema empresarial de Madrid.
+Capacidad de ofrecer servicios integrados (estrategia, ejecución y medición).
+Experiencia en sectores competitivos (ecommerce, educación, SaaS, servicios profesionales).
+Uso avanzado de datos y herramientas de IA para optimización de campañas.
+
+Debilidades
+Alta dependencia de talento senior (costes elevados y riesgo de rotación).
+Dificultad para estandarizar procesos sin perder personalización.
+Margen ajustado en servicios commodity (SEO básico, gestión de Ads).
+Escalabilidad limitada si el modelo se basa en horas/persona.
+Marca poco diferenciada frente a otras agencias “full service”.
+01:36:56	AITOR RUANO PINA:	Oportunidades
+Creciente demanda de servicios de IA aplicada al marketing (automatización, CRO, contenido).
+Aumento de pymes y startups que externalizan marketing estratégico.
+Especialización en nichos concretos (B2B, legal, educación, health, ecommerce).
+Alianzas con consultoras, software providers o startups tecnológicas.
+Internacionalización de clientes desde Madrid como hub europeo.
+
+Amenazas
+Saturación del mercado de agencias digitales en Madrid.
+Presión de precios por freelancers, agencias low-cost y plataformas automatizadas.
+Dependencia de plataformas externas (Google, Meta, cambios de algoritmo).
+Clientes cada vez más formados y exigentes en resultados medibles.
+Ciclos económicos que reducen inversión en marketing.
+01:37:43	Patri Ni:	Reacted to "Oportunidades
+Crecie..." with 👍
+01:42:35	Marion Stocki Roffe:	Puedes volver a mostrar como se marca información avanzada en gtp
+01:43:37	Snej Samer:	jajaja
+01:43:42	Vanessa Mazuecos Fernández:	Yo no puedo subirla ahora mismo
+01:55:32	Eva Biosca Echenique:	jajaj
+01:56:04	Eva Biosca Echenique:	Pido a SAM el prompt para DAFO
+01:56:11	Elisa Herranz Serrano:	Reacted to "Pido a SAM el prompt..." with 👍
+01:56:19	Eva Biosca Echenique:	Uso asistente para crear DAFOs
+01:56:33	Eva Biosca Echenique:	Asistente DAFO
+01:57:33	Eva Biosca Echenique:	Madrid
+01:59:50	Eva Biosca Echenique:	Quería pegar el prompt pero SAM no guarda conversaciones anteriores, ¿no?
+02:01:13	ELENA - TECNICO:	Hola chicos
+Aunque estemos en el descanso, permaneced conectados a la sesion. Podeis quitaros camara y audio sin problema durante el mismo
+Un saludo
+02:08:52	AITOR RUANO PINA:	https://openai.com/es-ES/index/introducing-chatgpt-health/
+02:08:56	AITOR RUANO PINA:	Que siga la fiesta
+02:09:06	AITOR RUANO PINA:	En 3 min estoy on
+02:11:13	Elisa Herranz Serrano:	Reacted to "este me gusta mas" with ❤️
+02:14:32	Snej Samer:	Reacted to "https://openai.com/e..." with 👌
+02:18:59	Eva Biosca Echenique:	Se pueden crear nóminas con IA?
+02:21:23	AITOR RUANO PINA:	creao
+02:21:27	AITOR RUANO PINA:	V0.dev
+02:21:34	AITOR RUANO PINA:	Antigravity
+02:21:47	AITOR RUANO PINA:	Genspark
+02:22:51	AITOR RUANO PINA:	Buzzy.buzz
+02:24:16	Eva Biosca Echenique:	Sí?
+02:24:27	Eva Biosca Echenique:	A mi me hizo una patata
+02:24:57	Eva Biosca Echenique:	Vale, muchas gracias
+02:25:04	Snej Samer:	me voy a modo coche y móvil...
+02:26:04	Snej Samer:	me espero …
+02:30:50	Vanessa Mazuecos Fernández:	Y el tema de datos que compartes?
+02:34:34	AITOR RUANO PINA:	Comet
+02:36:00	lissy:	perdón me tengo que salir, estoy haciendo una reforma en la casa y tengo que atender a los obreros. Voy a ver si puedo cambiar la mentoría- hoy no voy a poder.
+02:44:34	AITOR RUANO PINA:	El gran hackeo
+02:45:17	Patri Ni:	en YouTube?
+02:47:16	AITOR RUANO PINA:	Ashley madison
+02:51:40	AITOR RUANO PINA:	https://www.instagram.com/reel/DOfQBglEaqG/
+02:52:12	AITOR RUANO PINA:	tidio
+02:52:20	AITOR RUANO PINA:	Tidio chat
+02:53:38	AITOR RUANO PINA:	github
+02:53:44	AITOR RUANO PINA:	https://github.com/picsoung/node-doctoralia
+02:54:25	AITOR RUANO PINA:	https://www.scrapingbee.com/scrapers/doctoralia-api/
+02:54:44	AITOR RUANO PINA:	https://www.youtube.com/watch?v=KfqJqqgfyu0 https://www.youtube.com/watch?v=KfqJqqgfyu0
+02:56:20	Eva Biosca Echenique:	jajaja
+03:00:24	Patri Ni:	yo quiero esoooo
+03:01:08	iPhone marta campos psicologia:	Si
+03:05:37	Patri Ni:	se puede integrar Gemini o nano banana?
+03:05:52	David Muñoz:	https://dfijlkcz.gensparkspace.com/
+03:05:53	iPhone marta campos psicologia:	Lo podemos visualizar porfa?
+03:07:30	Patri Ni:	esa web se acaba de hacer con genspark?????
+03:08:41	AITOR RUANO PINA:	https://hukalodge.com
+03:10:06	Alicia Molina:	Si
+03:16:42	AITOR RUANO PINA:	divi
+03:16:47	AITOR RUANO PINA:	Elegante themes
+03:20:03	Eva Biosca Echenique:	¿Dónde está eso?
+03:21:06	Eva Biosca Echenique:	¿Dónde está el documento?
+03:26:45	Elodia:	Yo no lo encuentro
+03:26:59	Elodia:	Dónde está?
+03:28:11	Eva Biosca Echenique:	Por favor si podéis poner todo lo que hay que entregar junto
+03:28:17	Eva Biosca Echenique:	Es de gran ayuda
+03:28:22	iPhone marta campos psicologia:	Pues gracias. Me desconecto
+03:28:48	AITOR RUANO PINA:	https://www.acelerapyme.es/quieres-conocer-el-grado-de-digitalizacion-de-tu-pyme
+03:29:06	Elisa Herranz Serrano:	https://www.acelerapyme.gob.es/test-autodiagnostico
+03:38:14	Eva Biosca Echenique:	Muchas gracias

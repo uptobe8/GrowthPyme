@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#000000">
+  <title>Máster Digitalización Pymes · App Experta</title>
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">M</span>
+        <span>
+          <small>APP EXPERTA LOCAL</small>
+          <strong>Máster Digitalización Pymes</strong>
+        </span>
+      </a>
+      <span class="status-pill">Contenido limpio · sin ruido</span>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <nav class="tabs">
+      <button class="tab is-active" data-tab="inicio">Inicio</button>
+      <button class="tab" data-tab="modulos">Módulos</button>
+      <button class="tab" data-tab="biblioteca">Biblioteca</button>
+      <button class="tab" data-tab="experto">Experto</button>
+      <button class="tab" data-tab="herramientas">Herramientas</button>
+    </nav>
+
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="kicker">Digitalización para pymes, autónomos y directivos</p>
+        <h1>La app experta del máster.</h1>
+        <p class="hero-lead">Buscar contenidos, consultar clases y convertir el máster en acciones prácticas para una empresa. Sin basura del ZIP, sin carpetas técnicas, sin elementos confusos.</p>
+        <div class="hero-actions">
+          <button class="btn accent" data-go="experto">Consultar al experto</button>
+          <button class="btn white" data-go="biblioteca">Abrir biblioteca</button>
+        </div>
+      </div>
+      <div class="hero-panel">
+        <div class="stat"><b id="statFiles">0</b><span>recursos útiles</span></div>
+        <div class="stat"><b id="statIndexed">0</b><span>documentos indexados</span></div>
+        <div class="stat"><b id="statModules">0</b><span>módulos reales</span></div>
+        <div class="stat"><b id="statTopics">0</b><span>temas clave</span></div>
+      </div>
+    </section>
+
+    <main>
+      <section id="inicio" class="panel is-active">
+        <div class="section-title">
+          <p class="kicker dark">Vista principal</p>
+          <h2>Todo claro desde el primer vistazo.</h2>
+        </div>
+
+        <div class="cards-4" id="summaryCards"></div>
+
+        <div class="grid">
+          <article class="card span-5">
+            <p class="kicker dark">Temas clave</p>
+            <h3>Áreas principales</h3>
+            <div class="topic-list" id="topicList"></div>
+          </article>
+          <article class="card span-7 black">
+            <p class="kicker">Ruta de uso</p>
+            <h3>Cómo usar esta app</h3>
+            <div class="steps">
+              <div class="step"><span>1</span><div><b>Buscar</b><p>Localiza clases, recursos, transcripciones o herramientas.</p></div></div>
+              <div class="step"><span>2</span><div><b>Consultar</b><p>Haz preguntas al modo experto con el contenido indexado.</p></div></div>
+              <div class="step"><span>3</span><div><b>Aplicar</b><p>Convierte el aprendizaje en plan, checklist, automatización o KPI.</p></div></div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="modulos" class="panel">
+        <div class="section-title">
+          <p class="kicker dark">Estructura del programa</p>
+          <h2>Módulos reales del máster.</h2>
+        </div>
+        <div class="grid">
+          <aside class="card span-4">
+            <p class="kicker dark">Listado</p>
+            <h3>Módulos</h3>
+            <div class="module-list" id="moduleList"></div>
+          </aside>
+          <article class="card span-8" id="moduleDetail"></article>
+        </div>
+      </section>
+
+      <section id="biblioteca" class="panel">
+        <div class="section-title library-head">
+          <div>
+            <p class="kicker dark">Contenido indexado</p>
+            <h2>Biblioteca limpia.</h2>
+          </div>
+          <input id="searchInput" class="search" placeholder="Buscar clase, tema, herramienta o recurso">
+        </div>
+        <div class="grid">
+          <article class="card span-5">
+            <p class="kicker dark">Resultados</p>
+            <h3>Recursos</h3>
+            <div class="filters">
+              <button class="filter is-active" data-filter="all">Todos</button>
+              <button class="filter" data-filter="indexado">Indexados</button>
+              <button class="filter" data-filter="descargable">Descargables</button>
+            </div>
+            <div class="resource-list scroll" id="docList"></div>
+          </article>
+          <article class="card span-7">
+            <div class="reader-head">
+              <div>
+                <p class="kicker dark">Lectura</p>
+                <h3>Contenido del recurso</h3>
+              </div>
+              <a id="openOriginal" class="btn small" href="#" target="_blank">Abrir original</a>
+            </div>
+            <div id="reader" class="reader empty">Selecciona un recurso para leerlo aquí.</div>
+          </article>
+        </div>
+      </section>
+
+      <section id="experto" class="panel">
+        <div class="section-title">
+          <p class="kicker dark">Consulta operativa</p>
+          <h2>Modo experto.</h2>
+        </div>
+        <div class="grid">
+          <article class="card span-5">
+            <p class="kicker dark">Pregunta</p>
+            <h3>Consulta el máster</h3>
+            <div id="promptList" class="prompt-list"></div>
+            <textarea id="question" class="question" placeholder="Ejemplo: ¿Cómo debería digitalizar una pyme que no tiene CRM ni automatizaciones?"></textarea>
+            <div class="actions">
+              <button id="answerBtn" class="btn accent">Responder</button>
+              <button id="clearBtn" class="btn">Limpiar</button>
+            </div>
+          </article>
+          <article class="card span-7 black">
+            <p class="kicker">Respuesta</p>
+            <h3>Salida accionable</h3>
+            <div id="answer" class="answer">Escribe una pregunta y pulsa “Responder”.</div>
+          </article>
+        </div>
+      </section>
+
+      <section id="herramientas" class="panel">
+        <div class="section-title">
+          <p class="kicker dark">Funciones incluidas</p>
+          <h2>Herramientas.</h2>
+        </div>
+        <div class="grid">
+          <article class="card span-7">
+            <p class="kicker dark">Utilidades</p>
+            <h3>Qué puede hacer</h3>
+            <div class="tools" id="toolList"></div>
+          </article>
+          <article class="card span-5">
+            <p class="kicker dark">Recursos originales</p>
+            <h3>Carpeta fuente</h3>
+            <div class="info">
+              <p>Los recursos limpios del máster están incluidos en <b>assets/resources/original</b>.</p>
+              <p>Se han eliminado de la vista los archivos técnicos de macOS y recursos basura.</p>
+              <a class="btn accent wide" href="assets/resources/original/" target="_blank">Abrir recursos</a>
+            </div>
+          </article>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="assets/data/master-data.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

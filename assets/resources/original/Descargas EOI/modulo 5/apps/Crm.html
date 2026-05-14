@@ -1,0 +1,1120 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Área Cliente | Moment Energia</title>
+
+  <style>
+    :root{
+      --bg:#f4f6f8;
+      --panel:#ffffff;
+      --text:#17212b;
+      --muted:#657381;
+      --line:#dfe5ea;
+      --brand:#0d2b3e;
+      --brand2:#0f6f7e;
+      --ok:#0f8a5f;
+      --warn:#9a6b00;
+      --softok:#e8f6f0;
+      --softblue:#e9f3f7;
+      --softwarn:#fff5d8;
+      --shadow:0 18px 40px rgba(16,32,44,.08);
+    }
+
+    *{box-sizing:border-box}
+
+    body{
+      margin:0;
+      font-family:Helvetica,Arial,sans-serif;
+      background:var(--bg);
+      color:var(--text);
+      line-height:1.45;
+    }
+
+    .app{
+      min-height:100vh;
+      display:grid;
+      grid-template-columns:280px 1fr;
+    }
+
+    .sidebar{
+      background:var(--brand);
+      color:white;
+      padding:28px 22px;
+      height:100vh;
+      position:sticky;
+      top:0;
+      display:flex;
+      flex-direction:column;
+      gap:24px;
+    }
+
+    .brand{
+      display:flex;
+      align-items:center;
+      gap:12px;
+      padding-bottom:20px;
+      border-bottom:1px solid rgba(255,255,255,.18);
+    }
+
+    .brand-mark{
+      width:42px;
+      height:42px;
+      background:linear-gradient(135deg,#16a1b7,#ffffff);
+      color:var(--brand);
+      display:grid;
+      place-items:center;
+      font-weight:900;
+    }
+
+    .brand-title{
+      font-weight:900;
+      font-size:17px;
+    }
+
+    .brand-subtitle{
+      font-size:12px;
+      opacity:.72;
+    }
+
+    .client-box{
+      padding:16px;
+      background:rgba(255,255,255,.08);
+      border:1px solid rgba(255,255,255,.12);
+    }
+
+    .client-box small{
+      display:block;
+      opacity:.7;
+      margin-bottom:4px;
+    }
+
+    .client-box strong{
+      display:block;
+      font-size:18px;
+      margin-bottom:10px;
+    }
+
+    .mini-status{
+      display:inline-flex;
+      gap:8px;
+      align-items:center;
+      padding:7px 10px;
+      background:rgba(255,255,255,.12);
+      font-size:12px;
+      font-weight:800;
+    }
+
+    .dot{
+      width:8px;
+      height:8px;
+      background:#29d391;
+      display:inline-block;
+    }
+
+    .nav{
+      display:grid;
+      gap:8px;
+    }
+
+    .nav button{
+      border:0;
+      background:transparent;
+      color:white;
+      text-align:left;
+      padding:13px 14px;
+      font-size:15px;
+      font-weight:800;
+      cursor:pointer;
+      border-left:3px solid transparent;
+    }
+
+    .nav button.active,
+    .nav button:hover{
+      background:rgba(255,255,255,.10);
+      border-left-color:#30bed2;
+    }
+
+    .sidebar-note{
+      margin-top:auto;
+      font-size:12px;
+      opacity:.68;
+    }
+
+    .main{
+      padding:34px;
+      max-width:1240px;
+      width:100%;
+    }
+
+    .topbar{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:16px;
+      margin-bottom:28px;
+    }
+
+    .page-title h1{
+      margin:0;
+      font-size:30px;
+      letter-spacing:-.8px;
+    }
+
+    .page-title p{
+      margin:6px 0 0;
+      color:var(--muted);
+    }
+
+    .top-actions{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+    }
+
+    .btn{
+      border:1px solid var(--brand);
+      background:var(--brand);
+      color:white;
+      padding:12px 15px;
+      min-height:44px;
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      text-decoration:none;
+      font-size:14px;
+      font-weight:900;
+      cursor:pointer;
+    }
+
+    .btn.secondary{
+      background:white;
+      color:var(--brand);
+      border-color:var(--line);
+    }
+
+    .btn.success{
+      background:var(--ok);
+      border-color:var(--ok);
+    }
+
+    .grid{
+      display:grid;
+      gap:18px;
+    }
+
+    .cols-2{grid-template-columns:1.2fr .8fr}
+    .cols-3{grid-template-columns:repeat(3,1fr)}
+
+    .card{
+      background:var(--panel);
+      border:1px solid var(--line);
+      box-shadow:var(--shadow);
+    }
+
+    .card-header{
+      padding:20px 22px;
+      border-bottom:1px solid var(--line);
+      display:flex;
+      justify-content:space-between;
+      align-items:flex-start;
+      gap:16px;
+    }
+
+    .card-header h2,
+    .card-header h3{
+      margin:0;
+      font-size:19px;
+      letter-spacing:-.3px;
+    }
+
+    .card-header p{
+      margin:5px 0 0;
+      color:var(--muted);
+      font-size:14px;
+    }
+
+    .card-body{
+      padding:22px;
+    }
+
+    .kpi{
+      background:white;
+      border:1px solid var(--line);
+      padding:18px;
+      display:grid;
+      gap:6px;
+    }
+
+    .kpi small,
+    .data-label{
+      color:var(--muted);
+      font-size:11px;
+      font-weight:900;
+      text-transform:uppercase;
+      letter-spacing:.45px;
+    }
+
+    .kpi strong{
+      font-size:20px;
+      letter-spacing:-.4px;
+    }
+
+    .badge{
+      display:inline-flex;
+      align-items:center;
+      padding:7px 10px;
+      font-size:12px;
+      font-weight:900;
+      white-space:nowrap;
+      width:max-content;
+    }
+
+    .badge.ok{background:var(--softok);color:var(--ok)}
+    .badge.blue{background:var(--softblue);color:var(--brand2)}
+    .badge.warn{background:var(--softwarn);color:var(--warn)}
+    .badge.neutral{background:#eef1f4;color:#435160}
+
+    .data-list{
+      display:grid;
+      grid-template-columns:repeat(2,minmax(0,1fr));
+      gap:14px 18px;
+    }
+
+    .data-item{
+      padding-bottom:12px;
+      border-bottom:1px solid var(--line);
+    }
+
+    .data-label{
+      display:block;
+      margin-bottom:4px;
+    }
+
+    .data-value{
+      font-weight:800;
+      word-break:break-word;
+    }
+
+    .timeline{
+      display:grid;
+      gap:12px;
+    }
+
+    .step{
+      display:grid;
+      grid-template-columns:24px 1fr;
+      gap:10px;
+      color:var(--muted);
+    }
+
+    .step-marker{
+      width:16px;
+      height:16px;
+      border:2px solid #b6c1ca;
+      background:white;
+      margin-top:3px;
+    }
+
+    .step.done{
+      color:var(--text);
+    }
+
+    .step.done .step-marker{
+      border-color:var(--ok);
+      background:var(--ok);
+    }
+
+    .step.current{
+      color:var(--text);
+      font-weight:900;
+    }
+
+    .step.current .step-marker{
+      border-color:var(--brand2);
+      box-shadow:0 0 0 4px rgba(15,111,126,.16);
+    }
+
+    .row-card{
+      border:1px solid var(--line);
+      background:white;
+      padding:18px;
+      display:grid;
+      gap:14px;
+      margin-bottom:14px;
+    }
+
+    .row-card:last-child{margin-bottom:0}
+
+    .row-top{
+      display:flex;
+      justify-content:space-between;
+      align-items:flex-start;
+      gap:14px;
+    }
+
+    .row-top h3{
+      margin:0;
+      font-size:18px;
+    }
+
+    .row-top p{
+      margin:4px 0 0;
+      color:var(--muted);
+    }
+
+    .row-actions{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+    }
+
+    .note{
+      color:#344250;
+      border:1px dashed var(--line);
+      background:white;
+      padding:18px;
+      font-weight:700;
+    }
+
+    .filters{
+      display:flex;
+      gap:8px;
+      flex-wrap:wrap;
+      margin-bottom:18px;
+    }
+
+    .filter{
+      border:1px solid var(--line);
+      background:white;
+      color:#465564;
+      padding:10px 12px;
+      font-weight:900;
+      cursor:pointer;
+    }
+
+    .filter.active{
+      background:var(--brand);
+      border-color:var(--brand);
+      color:white;
+    }
+
+    .form-grid{
+      display:grid;
+      grid-template-columns:repeat(2,minmax(0,1fr));
+      gap:16px;
+    }
+
+    label{
+      display:grid;
+      gap:7px;
+      color:#344250;
+      font-size:13px;
+      font-weight:900;
+    }
+
+    input,
+    select{
+      width:100%;
+      min-height:44px;
+      border:1px solid var(--line);
+      padding:12px;
+      font:inherit;
+      background:white;
+      color:var(--text);
+    }
+
+    .check-row{
+      display:flex;
+      align-items:flex-start;
+      gap:10px;
+      padding:12px 0;
+      font-weight:800;
+      color:#344250;
+    }
+
+    .check-row input{
+      width:18px;
+      height:18px;
+      min-height:18px;
+      margin-top:2px;
+    }
+
+    .tab-panel{display:none}
+    .tab-panel.active{display:block}
+
+    .mobile-nav{
+      display:none;
+      background:var(--brand);
+      color:white;
+      padding:14px;
+      position:sticky;
+      top:0;
+      z-index:10;
+    }
+
+    .mobile-brand{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      margin-bottom:12px;
+    }
+
+    .mobile-tabs{
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:7px;
+    }
+
+    .mobile-tabs button{
+      border:1px solid rgba(255,255,255,.16);
+      background:rgba(255,255,255,.08);
+      color:white;
+      padding:10px 7px;
+      font-weight:900;
+      font-size:12px;
+      cursor:pointer;
+    }
+
+    .mobile-tabs button.active{
+      background:white;
+      color:var(--brand);
+    }
+
+    .toast{
+      position:fixed;
+      right:18px;
+      bottom:18px;
+      background:var(--brand);
+      color:white;
+      padding:14px 16px;
+      box-shadow:var(--shadow);
+      display:none;
+      font-weight:900;
+      z-index:20;
+    }
+
+    .toast.show{display:block}
+
+    @media(max-width:980px){
+      .app{display:block}
+      .sidebar{display:none}
+      .mobile-nav{display:block}
+      .main{padding:22px 14px}
+      .topbar{align-items:flex-start;flex-direction:column}
+      .cols-2,.cols-3,.form-grid,.data-list{grid-template-columns:1fr}
+      .row-top,.card-header{flex-direction:column}
+    }
+  </style>
+</head>
+
+<body>
+
+  <!--
+    Área Cliente Moment Energia.
+    Archivo local autocontenido.
+    No requiere servidor, librerías externas ni conexión.
+    No mostrar nunca aquí: costes internos, márgenes, notas internas, prioridad interna o valoración comercial del cliente.
+  -->
+
+  <div class="mobile-nav">
+    <div class="mobile-brand">
+      <strong>Moment Energia</strong>
+      <span id="mobileClientName">Hola, Juan</span>
+    </div>
+    <div class="mobile-tabs" data-nav>
+      <button class="active" data-tab="inicio">Inicio</button>
+      <button data-tab="servicios">Servicios</button>
+      <button data-tab="documentos">Documentos</button>
+      <button data-tab="mantenimientos">Mantenimientos</button>
+      <button data-tab="mis-datos">Mis datos</button>
+    </div>
+  </div>
+
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">ME</div>
+        <div>
+          <div class="brand-title">Moment Energia</div>
+          <div class="brand-subtitle">Área Cliente</div>
+        </div>
+      </div>
+
+      <div class="client-box">
+        <small>Cliente</small>
+        <strong id="sidebarClientName">Juan Pérez</strong>
+        <span class="mini-status"><span class="dot"></span> Servicio al día</span>
+      </div>
+
+      <nav class="nav" data-nav>
+        <button class="active" data-tab="inicio">Inicio</button>
+        <button data-tab="servicios">Servicios</button>
+        <button data-tab="documentos">Documentos</button>
+        <button data-tab="mantenimientos">Mantenimientos</button>
+        <button data-tab="mis-datos">Mis datos</button>
+      </nav>
+
+      <div class="sidebar-note">
+        Espacio privado para consultar servicios, documentos, facturas, certificados y próximas revisiones.
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="topbar">
+        <div class="page-title">
+          <h1 id="pageTitle">Inicio</h1>
+          <p id="pageSubtitle">Consulta tu estado, documentos y próximas revisiones.</p>
+        </div>
+
+        <div class="top-actions">
+          <a class="btn secondary" href="tel:+34000000000">Llamar</a>
+          <a class="btn success" href="https://wa.me/34000000000" target="_blank">Hablar por WhatsApp</a>
+        </div>
+      </div>
+
+      <section id="inicio" class="tab-panel active">
+        <div class="grid cols-3" style="margin-bottom:18px">
+          <div class="kpi">
+            <small>Último servicio</small>
+            <strong>Mantenimiento aire acondicionado</strong>
+            <span class="badge ok">Trabajo realizado</span>
+          </div>
+          <div class="kpi">
+            <small>Próxima revisión</small>
+            <strong>Mayo 2027</strong>
+            <span class="badge ok">Instalación al día</span>
+          </div>
+          <div class="kpi">
+            <small>Documentos</small>
+            <strong>3 disponibles</strong>
+            <span class="badge blue">Factura + parte + garantía</span>
+          </div>
+        </div>
+
+        <div class="grid cols-2">
+          <article class="card">
+            <div class="card-header">
+              <div>
+                <h2>Servicio activo / último servicio</h2>
+                <p>Resumen del último trabajo registrado en Moment Energia.</p>
+              </div>
+              <span class="badge ok">Trabajo realizado</span>
+            </div>
+
+            <div class="card-body">
+              <div class="data-list">
+                <div class="data-item"><span class="data-label">Servicio</span><span class="data-value">Mantenimiento aire acondicionado</span></div>
+                <div class="data-item"><span class="data-label">Nº servicio</span><span class="data-value">ME-SER-000245</span></div>
+                <div class="data-item"><span class="data-label">Dirección</span><span class="data-value">Calle Ejemplo 24, Barcelona</span></div>
+                <div class="data-item"><span class="data-label">Fecha de intervención</span><span class="data-value">14/05/2026</span></div>
+                <div class="data-item"><span class="data-label">Importe</span><span class="data-value">95 € + IVA</span></div>
+                <div class="data-item"><span class="data-label">Estado de pago</span><span class="data-value">Pagado</span></div>
+              </div>
+
+              <div class="row-actions" style="margin-top:20px">
+                <button class="btn" data-tab-link="servicios">Ver servicio</button>
+                <button class="btn secondary" data-tab-link="documentos">Ver documentos</button>
+              </div>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-header">
+              <div>
+                <h2>Estado del servicio</h2>
+                <p>Seguimiento visible para el cliente.</p>
+              </div>
+            </div>
+
+            <div class="card-body">
+              <div class="timeline">
+                <div class="step done"><span class="step-marker"></span><div>Solicitud recibida</div></div>
+                <div class="step done"><span class="step-marker"></span><div>Visita programada</div></div>
+                <div class="step done"><span class="step-marker"></span><div>Trabajo realizado</div></div>
+                <div class="step current"><span class="step-marker"></span><div>Documentación emitida</div></div>
+                <div class="step"><span class="step-marker"></span><div>Próxima revisión pendiente</div></div>
+                <div class="step"><span class="step-marker"></span><div>Renovado</div></div>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <article class="card" style="margin-top:18px">
+          <div class="card-header">
+            <div>
+              <h2>Próxima revisión recomendada</h2>
+              <p>Control preventivo para mantener rendimiento y reducir averías.</p>
+            </div>
+            <span class="badge ok">Al día</span>
+          </div>
+
+          <div class="card-body">
+            <p style="margin-top:0;color:#344250;font-weight:800">
+              Tu instalación está al día. Recomendamos realizar la próxima revisión en mayo de 2027 para mantener el rendimiento, prevenir averías y conservar el historial técnico.
+            </p>
+            <div class="row-actions">
+              <button class="btn success" data-tab-link="mantenimientos">Renovar mantenimiento</button>
+              <a class="btn secondary" href="https://wa.me/34000000000" target="_blank">Consultar por WhatsApp</a>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section id="servicios" class="tab-panel">
+        <article class="card">
+          <div class="card-header">
+            <div>
+              <h2>Mis servicios</h2>
+              <p>Consulta el estado de tus servicios realizados o en curso con Moment Energia.</p>
+            </div>
+            <button class="btn">Solicitar nuevo servicio</button>
+          </div>
+          <div class="card-body" id="servicesList"></div>
+        </article>
+      </section>
+
+      <section id="documentos" class="tab-panel">
+        <article class="card">
+          <div class="card-header">
+            <div>
+              <h2>Mis documentos</h2>
+              <p>Accede a presupuestos, facturas, certificados, garantías y partes de intervención.</p>
+            </div>
+          </div>
+
+          <div class="card-body">
+            <div class="filters" id="documentFilters">
+              <button class="filter active" data-filter="Todos">Todos</button>
+              <button class="filter" data-filter="Facturas">Facturas</button>
+              <button class="filter" data-filter="Presupuestos">Presupuestos</button>
+              <button class="filter" data-filter="Certificados">Certificados</button>
+              <button class="filter" data-filter="Garantías">Garantías</button>
+              <button class="filter" data-filter="Partes de intervención">Partes de intervención</button>
+            </div>
+            <div id="documentsList"></div>
+          </div>
+        </article>
+      </section>
+
+      <section id="mantenimientos" class="tab-panel">
+        <article class="card">
+          <div class="card-header">
+            <div>
+              <h2>Mis mantenimientos</h2>
+              <p>Consulta el estado de tus mantenimientos y próximas revisiones recomendadas.</p>
+            </div>
+            <button class="btn success">Solicitar revisión</button>
+          </div>
+          <div class="card-body" id="maintenanceList"></div>
+        </article>
+      </section>
+
+      <section id="mis-datos" class="tab-panel">
+        <article class="card">
+          <div class="card-header">
+            <div>
+              <h2>Mis datos</h2>
+              <p>Revisa y actualiza tus datos de contacto y dirección de intervención.</p>
+            </div>
+          </div>
+
+          <div class="card-body">
+            <form id="clientForm">
+              <div class="form-grid">
+                <label>Nombre / Empresa
+                  <input name="name" required>
+                </label>
+                <label>Teléfono
+                  <input name="phone" required>
+                </label>
+                <label>Email
+                  <input type="email" name="email" required>
+                </label>
+                <label>Dirección de intervención
+                  <input name="address" required>
+                </label>
+                <label>Población
+                  <input name="city" required>
+                </label>
+                <label>Código postal
+                  <input name="postal" required>
+                </label>
+                <label>Tipo de cliente
+                  <select name="clientType" required>
+                    <option>Particular</option>
+                    <option>Empresa</option>
+                    <option>Comunidad</option>
+                    <option>Local</option>
+                    <option>Administrador</option>
+                  </select>
+                </label>
+                <label>Canal preferido de contacto
+                  <select name="contactChannel" required>
+                    <option>WhatsApp</option>
+                    <option>Email</option>
+                    <option>Teléfono</option>
+                  </select>
+                </label>
+              </div>
+
+              <div style="margin-top:18px">
+                <div class="check-row">
+                  <input id="maintenanceConsent" name="maintenanceConsent" type="checkbox">
+                  <label for="maintenanceConsent" style="display:block">Quiero recibir avisos de mantenimiento y próximas revisiones.</label>
+                </div>
+                <div class="check-row">
+                  <input id="commercialConsent" name="commercialConsent" type="checkbox">
+                  <label for="commercialConsent" style="display:block">Quiero recibir promociones y comunicaciones comerciales.</label>
+                </div>
+              </div>
+
+              <div class="row-actions" style="margin-top:18px">
+                <button class="btn" type="submit">Guardar cambios</button>
+                <button class="btn secondary" type="button" id="resetDemo">Restaurar datos demo</button>
+              </div>
+            </form>
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <div class="toast" id="toast">Cambios guardados</div>
+
+  <script>
+    const DATA = {
+      client: {
+        name: "Juan Pérez",
+        phone: "600 000 000",
+        email: "cliente@email.com",
+        address: "Calle Ejemplo 24",
+        city: "Barcelona",
+        postal: "08000",
+        clientType: "Particular",
+        contactChannel: "WhatsApp",
+        maintenanceConsent: true,
+        commercialConsent: false
+      },
+      services: [
+        {
+          number: "ME-SER-000245",
+          type: "Mantenimiento aire acondicionado",
+          address: "Calle Ejemplo 24, Barcelona",
+          requestDate: "10/05/2026",
+          visitDate: "14/05/2026",
+          status: "Trabajo realizado",
+          amount: "95 € + IVA",
+          paymentStatus: "Pagado",
+          recommendation: "Revisión anual recomendada para mantener el rendimiento del equipo.",
+          documents: ["Factura", "Parte de intervención", "Garantía"]
+        },
+        {
+          number: "ME-SER-000198",
+          type: "Revisión climatización",
+          address: "Calle Ejemplo 24, Barcelona",
+          requestDate: "02/05/2025",
+          visitDate: "07/05/2025",
+          status: "Documentación emitida",
+          amount: "85 € + IVA",
+          paymentStatus: "Pagado",
+          recommendation: "Mantener limpieza de filtros y revisión preventiva anual.",
+          documents: ["Factura", "Parte de intervención"]
+        }
+      ],
+      documents: [
+        {
+          title: "Factura ME-2026-00125",
+          category: "Facturas",
+          service: "Mantenimiento aire acondicionado",
+          date: "14/05/2026",
+          amount: "95 € + IVA",
+          file: "factura-me-2026-00125.pdf"
+        },
+        {
+          title: "Parte de intervención ME-SER-000245",
+          category: "Partes de intervención",
+          service: "Mantenimiento aire acondicionado",
+          date: "14/05/2026",
+          amount: "",
+          file: "parte-intervencion-me-ser-000245.pdf"
+        },
+        {
+          title: "Garantía equipo Mitsubishi MSZ-AP35",
+          category: "Garantías",
+          service: "Aire acondicionado vivienda",
+          date: "14/05/2026",
+          amount: "",
+          file: "garantia-mitsubishi-msz-ap35.pdf"
+        },
+        {
+          title: "Certificado instalación",
+          category: "Certificados",
+          service: "Instalación / mantenimiento",
+          date: "14/05/2026",
+          amount: "",
+          file: "certificado-instalacion.pdf"
+        },
+        {
+          title: "Presupuesto revisión anual",
+          category: "Presupuestos",
+          service: "Mantenimiento aire acondicionado",
+          date: "01/05/2026",
+          amount: "95 € + IVA",
+          file: "presupuesto-revision-anual.pdf"
+        }
+      ],
+      maintenances: [
+        {
+          title: "Mantenimiento aire acondicionado",
+          status: "Al día",
+          installation: "Aire acondicionado vivienda",
+          equipment: "Mitsubishi MSZ-AP35",
+          lastReview: "14/05/2026",
+          nextReview: "Mayo 2027",
+          frequency: "Anual",
+          renewalAmount: "95 € + IVA",
+          message: "Tu instalación está al día. Recomendamos realizar la próxima revisión en mayo de 2027 para mantener el rendimiento, prevenir averías y conservar el historial técnico."
+        }
+      ]
+    };
+
+    const PAGE_COPY = {
+      inicio: ["Inicio", "Consulta tu estado, documentos y próximas revisiones."],
+      servicios: ["Servicios", "Historial y estado de tus servicios con Moment Energia."],
+      documentos: ["Documentos", "Presupuestos, facturas, certificados, garantías y partes de intervención."],
+      mantenimientos: ["Mantenimientos", "Estado de tus revisiones y renovaciones recomendadas."],
+      "mis-datos": ["Mis datos", "Datos de contacto, dirección de intervención y preferencias."]
+    };
+
+    const statusClass = {
+      "Trabajo realizado": "ok",
+      "Documentación emitida": "blue",
+      "Facturado": "ok",
+      "Presupuesto enviado": "warn",
+      "Próxima revisión pendiente": "warn",
+      "Renovado": "ok"
+    };
+
+    const form = document.getElementById("clientForm");
+    const toast = document.getElementById("toast");
+
+    function getClient(){
+      const stored = localStorage.getItem("moment_client_data");
+      return stored ? JSON.parse(stored) : DATA.client;
+    }
+
+    function saveClient(client){
+      localStorage.setItem("moment_client_data", JSON.stringify(client));
+    }
+
+    function showToast(message){
+      toast.textContent = message;
+      toast.classList.add("show");
+      setTimeout(() => toast.classList.remove("show"), 2200);
+    }
+
+    function setTab(tabId){
+      document.querySelectorAll(".tab-panel").forEach(panel => {
+        panel.classList.toggle("active", panel.id === tabId);
+      });
+
+      document.querySelectorAll("[data-nav] button").forEach(button => {
+        button.classList.toggle("active", button.dataset.tab === tabId);
+      });
+
+      document.getElementById("pageTitle").textContent = PAGE_COPY[tabId][0];
+      document.getElementById("pageSubtitle").textContent = PAGE_COPY[tabId][1];
+
+      window.scrollTo({top:0, behavior:"smooth"});
+    }
+
+    function renderClient(){
+      const client = getClient();
+
+      document.getElementById("sidebarClientName").textContent = client.name;
+      document.getElementById("mobileClientName").textContent = "Hola, " + client.name.split(" ")[0];
+
+      Object.keys(client).forEach(key => {
+        const input = form.elements[key];
+        if(!input) return;
+
+        if(input.type === "checkbox"){
+          input.checked = Boolean(client[key]);
+        }else{
+          input.value = client[key];
+        }
+      });
+    }
+
+    function renderServices(){
+      const target = document.getElementById("servicesList");
+
+      target.innerHTML = DATA.services.map(service => {
+        const badgeClass = statusClass[service.status] || "neutral";
+
+        return `
+          <div class="row-card">
+            <div class="row-top">
+              <div>
+                <h3>${service.type}</h3>
+                <p>Nº servicio: ${service.number}</p>
+              </div>
+              <span class="badge ${badgeClass}">${service.status}</span>
+            </div>
+
+            <div class="data-list">
+              <div class="data-item"><span class="data-label">Dirección</span><span class="data-value">${service.address}</span></div>
+              <div class="data-item"><span class="data-label">Fecha solicitud</span><span class="data-value">${service.requestDate}</span></div>
+              <div class="data-item"><span class="data-label">Fecha visita</span><span class="data-value">${service.visitDate}</span></div>
+              <div class="data-item"><span class="data-label">Importe</span><span class="data-value">${service.amount}</span></div>
+              <div class="data-item"><span class="data-label">Estado de pago</span><span class="data-value">${service.paymentStatus}</span></div>
+              <div class="data-item"><span class="data-label">Documentos</span><span class="data-value">${service.documents.join(", ")}</span></div>
+            </div>
+
+            <div class="note">${service.recommendation}</div>
+
+            <div class="row-actions">
+              <button class="btn secondary" onclick="setTab('documentos')">Ver documentos</button>
+              <a class="btn success" href="https://wa.me/34000000000" target="_blank">Contactar</a>
+            </div>
+          </div>
+        `;
+      }).join("");
+    }
+
+    function renderDocuments(filter = "Todos"){
+      const target = document.getElementById("documentsList");
+      const docs = DATA.documents.filter(doc => filter === "Todos" || doc.category === filter);
+
+      if(!docs.length){
+        target.innerHTML = `<div class="note">No hay documentos disponibles en esta categoría.</div>`;
+        return;
+      }
+
+      target.innerHTML = docs.map(doc => `
+        <div class="row-card">
+          <div class="row-top">
+            <div>
+              <h3>${doc.title}</h3>
+              <p>Servicio: ${doc.service}</p>
+            </div>
+            <span class="badge blue">${doc.category}</span>
+          </div>
+
+          <div class="data-list">
+            <div class="data-item"><span class="data-label">Fecha</span><span class="data-value">${doc.date}</span></div>
+            <div class="data-item"><span class="data-label">Importe</span><span class="data-value">${doc.amount || "No aplica"}</span></div>
+          </div>
+
+          <div class="row-actions">
+            <button class="btn" onclick="downloadDemo('${doc.file}')">Descargar PDF</button>
+          </div>
+        </div>
+      `).join("");
+    }
+
+    function renderMaintenances(){
+      const target = document.getElementById("maintenanceList");
+
+      target.innerHTML = DATA.maintenances.map(item => `
+        <div class="row-card">
+          <div class="row-top">
+            <div>
+              <h3>${item.title}</h3>
+              <p>${item.installation}</p>
+            </div>
+            <span class="badge ok">${item.status}</span>
+          </div>
+
+          <div class="data-list">
+            <div class="data-item"><span class="data-label">Equipo</span><span class="data-value">${item.equipment}</span></div>
+            <div class="data-item"><span class="data-label">Última revisión</span><span class="data-value">${item.lastReview}</span></div>
+            <div class="data-item"><span class="data-label">Próxima revisión</span><span class="data-value">${item.nextReview}</span></div>
+            <div class="data-item"><span class="data-label">Periodicidad</span><span class="data-value">${item.frequency}</span></div>
+            <div class="data-item"><span class="data-label">Importe renovación</span><span class="data-value">${item.renewalAmount}</span></div>
+          </div>
+
+          <div class="note">${item.message}</div>
+
+          <div class="row-actions">
+            <button class="btn success">Renovar mantenimiento</button>
+            <button class="btn secondary">Solicitar revisión</button>
+            <a class="btn secondary" href="https://wa.me/34000000000" target="_blank">Hablar por WhatsApp</a>
+          </div>
+        </div>
+      `).join("");
+    }
+
+    function downloadDemo(fileName){
+      const content = "Documento demo Moment Energia\n\nArchivo: " + fileName + "\n\nEn producción este botón debe enlazar al PDF real del cliente.";
+      const blob = new Blob([content], {type:"text/plain;charset=utf-8"});
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+
+      link.href = url;
+      link.download = fileName.replace(".pdf","-demo.txt");
+
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+
+      URL.revokeObjectURL(url);
+      showToast("Descarga demo generada");
+    }
+
+    document.querySelectorAll("[data-tab]").forEach(button => {
+      button.addEventListener("click", () => setTab(button.dataset.tab));
+    });
+
+    document.querySelectorAll("[data-tab-link]").forEach(button => {
+      button.addEventListener("click", () => setTab(button.dataset.tabLink));
+    });
+
+    document.getElementById("documentFilters").addEventListener("click", event => {
+      const button = event.target.closest("button");
+      if(!button) return;
+
+      document.querySelectorAll(".filter").forEach(btn => btn.classList.remove("active"));
+      button.classList.add("active");
+
+      renderDocuments(button.dataset.filter);
+    });
+
+    form.addEventListener("submit", event => {
+      event.preventDefault();
+
+      const formData = new FormData(form);
+
+      const client = {
+        name: formData.get("name"),
+        phone: formData.get("phone"),
+        email: formData.get("email"),
+        address: formData.get("address"),
+        city: formData.get("city"),
+        postal: formData.get("postal"),
+        clientType: formData.get("clientType"),
+        contactChannel: formData.get("contactChannel"),
+        maintenanceConsent: formData.get("maintenanceConsent") === "on",
+        commercialConsent: formData.get("commercialConsent") === "on"
+      };
+
+      saveClient(client);
+      renderClient();
+      showToast("Cambios guardados");
+    });
+
+    document.getElementById("resetDemo").addEventListener("click", () => {
+      localStorage.removeItem("moment_client_data");
+      renderClient();
+      showToast("Datos demo restaurados");
+    });
+
+    renderClient();
+    renderServices();
+    renderDocuments();
+    renderMaintenances();
+  </script>
+</body>
+</html>

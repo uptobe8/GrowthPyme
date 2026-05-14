@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<title>Monopoly del Equipo</title>
+<style>
+  :root{
+    --green:#0b7f3a;
+    --board:#d7f2d4;
+    --red:#e53935;
+    --yellow:#ffd43b;
+    --blue:#1774d1;
+    --dark:#101418;
+    --cream:#fff7de;
+    --pink:#e91e63;
+    --orange:#ff9800;
+    --brown:#8b4a22;
+    --cyan:#00a7d8;
+    --purple:#7b3fe4;
+    --rail:#222;
+    --shadow:0 18px 50px rgba(0,0,0,.28);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;min-height:100%;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;background:radial-gradient(circle at 10% 8%,rgba(255,255,255,.25),transparent 28%),linear-gradient(135deg,#064d28,#0b7f3a 52%,#05391e);color:var(--dark)}
+  body{overflow:hidden}
+  .app{width:100vw;height:100dvh;display:grid;grid-template-columns:minmax(320px,1fr) 360px;gap:16px;padding:16px}
+  .board-wrap{display:grid;place-items:center;min-width:0}
+  .board{position:relative;width:min(92dvh,calc(100vw - 400px));height:min(92dvh,calc(100vw - 400px));min-width:620px;min-height:620px;background:var(--board);border:8px solid #111;box-shadow:var(--shadow);display:grid;grid-template-columns:1.35fr repeat(9,1fr) 1.35fr;grid-template-rows:1.35fr repeat(9,1fr) 1.35fr;overflow:hidden}
+  .center{position:absolute;inset:17.5%;border:5px solid #111;background:linear-gradient(135deg,#d9f5d7,#f7ffe8);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:22px;z-index:1}
+  .brand{font-size:clamp(34px,5vw,72px);font-weight:1000;letter-spacing:-.08em;color:#e3212b;text-transform:uppercase;text-shadow:3px 3px 0 #fff,6px 6px 0 #111;transform:rotate(-11deg);margin-bottom:12px}
+  .subbrand{font-weight:900;font-size:18px;background:#111;color:#fff;padding:8px 12px;transform:rotate(-3deg)}
+  .hint{font-size:13px;font-weight:700;line-height:1.35;max-width:410px;margin-top:16px;color:#233}
+  .cell{position:relative;border:2px solid #111;background:#fbf6e6;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;text-align:center;z-index:2;overflow:hidden}
+  .corner{background:#f6efd8;justify-content:center;font-weight:1000;font-size:18px;line-height:1.05;padding:8px;text-transform:uppercase}
+  .corner .big{font-size:30px;display:block;line-height:1;margin-bottom:5px}
+  .prop .stripe{width:100%;height:18px;border-bottom:2px solid #111;flex:none}
+  .name{font-size:10px;font-weight:900;line-height:1.05;padding:4px 3px;min-height:28px;display:flex;align-items:center;justify-content:center;width:100%}
+  .price{margin-top:auto;font-size:10px;font-weight:900;padding-bottom:3px}
+  .avatar{width:28px;height:28px;border-radius:50%;border:2px solid #111;background:linear-gradient(135deg,#fff,#ddd);display:grid;place-items:center;font-size:12px;font-weight:1000;margin-top:3px;box-shadow:2px 2px 0 rgba(0,0,0,.25)}
+  .special{justify-content:center;font-weight:1000;font-size:12px;line-height:1.05;padding:5px;background:#fff4cb}
+  .special .icon{font-size:26px;margin-bottom:3px}
+  .tax{background:#ffe5e5}.chance{background:#ffe37a}.chest{background:#c7ebff}.rail{background:#f2f2f2}.utility{background:#e8ddff}
+  .owned-p1:after,.owned-p2:after{content:"";position:absolute;right:2px;bottom:2px;width:14px;height:14px;border-radius:50%;border:2px solid #111;z-index:5}
+  .owned-p1:after{background:#e3212b}.owned-p2:after{background:#1774d1}
+  .tokens{position:absolute;left:2px;bottom:2px;display:flex;gap:2px;z-index:10;flex-wrap:wrap;max-width:100%}
+  .token{width:20px;height:20px;border:2px solid #111;border-radius:50%;display:grid;place-items:center;font-size:11px;box-shadow:1px 1px 0 rgba(0,0,0,.35)}
+  .p1{background:#e3212b;color:#fff}.p2{background:#1774d1;color:#fff}
+  .panel{height:100%;background:#fffdf1;border:6px solid #111;box-shadow:var(--shadow);padding:14px;display:flex;flex-direction:column;gap:12px;overflow:hidden}
+  .panel h1{font-size:31px;line-height:.9;margin:0;color:#e3212b;text-transform:uppercase;letter-spacing:-.06em;text-shadow:2px 2px 0 #ffd43b}
+  .status{border:3px solid #111;background:#d7f2d4;padding:10px;font-weight:900;line-height:1.25;min-height:66px}
+  .players{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .player{border:3px solid #111;background:#fff;padding:8px;box-shadow:4px 4px 0 #111}
+  .player.active{background:#ffd43b}
+  .player .top{display:flex;align-items:center;gap:8px;font-weight:1000;font-size:13px}
+  .money{font-size:23px;font-weight:1000;margin-top:4px}
+  .small{font-size:11px;font-weight:800;color:#333}
+  .dice-row{display:flex;align-items:center;gap:8px}
+  .dice{width:58px;height:58px;border:4px solid #111;background:white;display:grid;place-items:center;font-size:31px;font-weight:1000;box-shadow:5px 5px 0 #111}
+  button{border:4px solid #111;background:#e3212b;color:#fff;font-weight:1000;padding:12px 10px;box-shadow:5px 5px 0 #111;text-transform:uppercase;cursor:pointer}
+  button:active{transform:translate(3px,3px);box-shadow:2px 2px 0 #111}
+  button.secondary{background:#1774d1} button.green{background:#0b7f3a} button.yellow{background:#ffd43b;color:#111} button.gray{background:#eee;color:#111}
+  button:disabled{opacity:.45;cursor:not-allowed;filter:grayscale(1)}
+  .actions{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .log{flex:1;border:3px solid #111;background:#111;color:#fff;padding:10px;font-size:12px;line-height:1.35;overflow:auto;min-height:120px}
+  .log p{margin:0 0 7px}.log b{color:#ffd43b}
+  .cards{display:grid;grid-template-columns:1fr 1fr;gap:8px;max-height:190px;overflow:auto;padding-right:3px}
+  .deed{border:3px solid #111;background:#fff;font-size:10px;font-weight:900;padding:6px;line-height:1.15}
+  .deed .bar{height:8px;border:2px solid #111;margin:-3px -3px 5px}
+  .modal{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.72);display:grid;place-items:center;padding:20px}
+  .modal.hide{display:none}
+  .modal-card{max-width:520px;background:#fffdf1;border:6px solid #111;box-shadow:12px 12px 0 #111;padding:22px;text-align:center}
+  .modal-card h2{font-size:42px;line-height:.9;margin:0 0 12px;color:#e3212b;text-transform:uppercase;letter-spacing:-.06em}
+  .modal-card p{font-weight:800;line-height:1.35}
+  @media(max-width:980px){
+    body{overflow:auto}.app{height:auto;min-height:100dvh;grid-template-columns:1fr;padding:10px}.board{width:96vw;height:96vw;min-width:0;min-height:0;border-width:5px}.panel{height:auto}.brand{font-size:40px}.center{inset:21%;padding:8px}.subbrand{font-size:12px}.hint{display:none}.name{font-size:7px}.price{font-size:7px}.avatar{width:20px;height:20px;font-size:9px}.prop .stripe{height:12px}.corner{font-size:10px}.corner .big{font-size:20px}.special{font-size:8px}.special .icon{font-size:18px}.token{width:16px;height:16px;font-size:9px}.cards{max-height:130px}
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="board-wrap"><div class="board" id="board"><div class="center"><div class="brand">Monopoly</div><div class="subbrand">Edición Equipo</div><div class="hint">Tira dados, compra casillas y cobra alquiler. Estilo clásico con colores tipo Monopoly. Las fotos son avatares simulados.</div></div></div></div>
+  <aside class="panel">
+    <h1>Monopoly<br>del equipo</h1>
+    <div class="status" id="status">Pulsa empezar para jugar.</div>
+    <div class="players">
+      <div class="player active" id="player0"><div class="top"><span class="token p1">A</span> Jugador A</div><div class="money" id="money0">1500€</div><div class="small" id="pos0">Salida</div></div>
+      <div class="player" id="player1"><div class="top"><span class="token p2">B</span> Jugador B</div><div class="money" id="money1">1500€</div><div class="small" id="pos1">Salida</div></div>
+    </div>
+    <div class="dice-row"><div class="dice" id="d1">⚀</div><div class="dice" id="d2">⚀</div><button class="yellow" id="rollBtn">Tirar</button></div>
+    <div class="actions"><button class="green" id="buyBtn" disabled>Comprar</button><button class="secondary" id="endBtn" disabled>Pasar turno</button><button class="gray" id="restartBtn">Reiniciar</button><button id="rulesBtn">Reglas</button></div>
+    <div class="cards" id="deeds"></div>
+    <div class="log" id="log"></div>
+  </aside>
+</div>
+<div class="modal" id="intro">
+  <div class="modal-card">
+    <h2>Monopoly<br>Equipo</h2>
+    <p>Compra las casillas con nombres del equipo, cobra alquiler y evita quedarte sin dinero. Las imágenes son simuladas con iniciales.</p>
+    <button class="green" id="startBtn">Empezar partida</button>
+  </div>
+</div>
+<script>
+const people = [
+  'Ivan Fernandez Dominguez','Aitor Ruano Pina','Félix Álvarez Yanes','Karen Van Dael','Paola Nazaret Ortiz Aguilar','Anna Batlle Herrero','Ester Vidal Núñez','Laura Córdoba Olivares','Alejandro Alegre Navarro','Gerard Escolà Roig','Tomás Técnico','Miguel Ibáñez Lorca','Pablo Martinez Álvarez','Juan Francisco Ruiz Abad','Sharony Minely Ordóñez Rodríguez','Layla Hafi Zouni','Carlos Vega Hernandez','Kelly Marie Louise Arlette Vaillant'
+];
+const colors = ['#8b4a22','#8b4a22','#9ad7ff','#9ad7ff','#9ad7ff','#e91e63','#e91e63','#e91e63','#ff9800','#ff9800','#ff9800','#e53935','#e53935','#e53935','#ffd43b','#ffd43b','#ffd43b','#0b9f5a','#0b9f5a','#1774d1','#1774d1','#7b3fe4'];
+const baseSpaces = [
+ {type:'corner',name:'Salida',icon:'GO'},
+ {type:'prop',name:people[0],price:60,rent:10,color:colors[0]},
+ {type:'chest',name:'Caja de equipo'},
+ {type:'prop',name:people[1],price:60,rent:12,color:colors[1]},
+ {type:'tax',name:'Impuesto café',price:100},
+ {type:'rail',name:'Metro UptoBe',price:200,rent:25},
+ {type:'prop',name:people[2],price:100,rent:18,color:colors[2]},
+ {type:'chance',name:'Suerte'},
+ {type:'prop',name:people[3],price:100,rent:20,color:colors[3]},
+ {type:'prop',name:people[4],price:120,rent:22,color:colors[4]},
+ {type:'corner',name:'Visita',icon:'Cárcel'},
+ {type:'prop',name:people[5],price:140,rent:24,color:colors[5]},
+ {type:'utility',name:'Wifi sala',price:150,rent:20},
+ {type:'prop',name:people[6],price:140,rent:26,color:colors[6]},
+ {type:'prop',name:people[7],price:160,rent:28,color:colors[7]},
+ {type:'rail',name:'Estación Zoom',price:200,rent:25},
+ {type:'prop',name:people[8],price:180,rent:30,color:colors[8]},
+ {type:'chest',name:'Caja de equipo'},
+ {type:'prop',name:people[9],price:180,rent:32,color:colors[9]},
+ {type:'prop',name:people[10],price:200,rent:35,color:colors[10]},
+ {type:'corner',name:'Parking gratis',icon:'🅿'},
+ {type:'prop',name:people[11],price:220,rent:38,color:colors[11]},
+ {type:'chance',name:'Suerte'},
+ {type:'prop',name:people[12],price:220,rent:40,color:colors[12]},
+ {type:'prop',name:people[13],price:240,rent:42,color:colors[13]},
+ {type:'rail',name:'Ave del equipo',price:200,rent:25},
+ {type:'prop',name:people[14],price:260,rent:45,color:colors[14]},
+ {type:'prop',name:people[15],price:260,rent:48,color:colors[15]},
+ {type:'utility',name:'Servidor',price:150,rent:22},
+ {type:'prop',name:people[16],price:280,rent:52,color:colors[16]},
+ {type:'corner',name:'Ve a cárcel',icon:'🚓'},
+ {type:'prop',name:people[17],price:300,rent:55,color:colors[17]},
+ {type:'prop',name:'Campus Creativo',price:300,rent:58,color:colors[18]},
+ {type:'chest',name:'Caja de equipo'},
+ {type:'prop',name:'Sala Premium',price:320,rent:60,color:colors[19]},
+ {type:'rail',name:'Jet Privado',price:200,rent:25},
+ {type:'chance',name:'Suerte'},
+ {type:'prop',name:'Consejo Directivo',price:350,rent:70,color:colors[20]},
+ {type:'tax',name:'Impuesto lujo',price:150},
+ {type:'prop',name:'La Gran Final',price:400,rent:90,color:colors[21]}
+];
+const coords=[];
+for(let c=10;c>=0;c--) coords.push([10,c]);
+for(let r=9;r>=1;r--) coords.push([r,0]);
+for(let c=0;c<=10;c++) coords.push([0,c]);
+for(let r=1;r<=9;r++) coords.push([r,10]);
+const diceFaces=['⚀','⚁','⚂','⚃','⚄','⚅'];
+const state={turn:0,rolled:false,lastRoll:0,spaces:baseSpaces.map(s=>({...s,owner:null})),players:[{name:'Jugador A',money:1500,pos:0,jail:false},{name:'Jugador B',money:1500,pos:0,jail:false}],gameOver:false};
+const board=document.getElementById('board'), statusEl=document.getElementById('status'), logEl=document.getElementById('log'), deedsEl=document.getElementById('deeds');
+const rollBtn=document.getElementById('rollBtn'), buyBtn=document.getElementById('buyBtn'), endBtn=document.getElementById('endBtn');
+function initials(n){return n.split(' ').filter(Boolean).slice(0,2).map(x=>x[0]).join('').toUpperCase()}
+function money(n){return Math.max(0,n)+'€'}
+function short(n){return n.length>28?n.slice(0,25)+'...':n}
+function buildBoard(){
+  document.querySelectorAll('.cell').forEach(e=>e.remove());
+  state.spaces.forEach((s,i)=>{
+    const [r,c]=coords[i]; const cell=document.createElement('div'); cell.className='cell '+(s.type==='corner'?'corner':s.type==='prop'?'prop':'special '+s.type); cell.style.gridRow=(r+1); cell.style.gridColumn=(c+1); cell.dataset.i=i;
+    if(s.owner===0) cell.classList.add('owned-p1'); if(s.owner===1) cell.classList.add('owned-p2');
+    if(s.type==='corner') cell.innerHTML=`<span class="big">${s.icon}</span><span>${s.name}</span>`;
+    else if(s.type==='prop') cell.innerHTML=`<div class="stripe" style="background:${s.color}"></div><div class="avatar" style="background:linear-gradient(135deg,${s.color},#fff)">${initials(s.name)}</div><div class="name">${short(s.name)}</div><div class="price">${s.price}€</div>`;
+    else cell.innerHTML=`<div class="icon">${s.type==='chance'?'?':s.type==='chest'?'★':s.type==='rail'?'🚆':s.type==='utility'?'⚡':'€'}</div><div>${s.name}</div>`;
+    const toks=document.createElement('div'); toks.className='tokens'; state.players.forEach((p,pi)=>{ if(p.pos===i){const t=document.createElement('div');t.className='token '+(pi===0?'p1':'p2');t.textContent=pi===0?'A':'B';toks.appendChild(t)}}); cell.appendChild(toks); board.appendChild(cell);
+  });
+}
+function render(){
+  buildBoard();
+  state.players.forEach((p,i)=>{document.getElementById('money'+i).textContent=money(p.money);document.getElementById('pos'+i).textContent=state.spaces[p.pos].name;document.getElementById('player'+i).classList.toggle('active',state.turn===i)});
+  const p=state.players[state.turn], s=state.spaces[p.pos];
+  rollBtn.disabled=state.rolled||state.gameOver; endBtn.disabled=!state.rolled||state.gameOver; buyBtn.disabled=!(state.rolled && ['prop','rail','utility'].includes(s.type) && s.owner===null && p.money>=s.price) || state.gameOver;
+  deedsEl.innerHTML=''; state.spaces.forEach(s=>{if(['prop','rail','utility'].includes(s.type)&&s.owner!==null){const d=document.createElement('div');d.className='deed';d.innerHTML=`<div class="bar" style="background:${s.color||'#ddd'}"></div>${short(s.name)}<br><span>${state.players[s.owner].name}</span><br>Alquiler ${s.rent}€`;deedsEl.appendChild(d)}})
+}
+function log(txt){logEl.innerHTML='<p>'+txt+'</p>'+logEl.innerHTML}
+function status(txt){statusEl.textContent=txt}
+function drawChance(){const p=state.players[state.turn]; const cards=[()=>{p.money+=100;return 'Suerte: cobras 100€ por una buena reunión.'},()=>{p.money-=80;return 'Suerte: pagas 80€ por urgencia técnica.'},()=>{moveTo(0,true);return 'Suerte: avanzas hasta Salida y cobras 200€.'},()=>{p.pos=Math.max(0,p.pos-3);handleSpace(false);return 'Suerte: retrocedes 3 casillas.'}]; return cards[Math.floor(Math.random()*cards.length)]()}
+function drawChest(){const p=state.players[state.turn]; const cards=[()=>{p.money+=50;return 'Caja: bonus de productividad +50€.'},()=>{p.money-=50;return 'Caja: café para todos -50€.'},()=>{state.players.forEach((x,i)=>{if(i!==state.turn){x.money-=25;p.money+=25}});return 'Caja: cada rival te paga 25€.'},()=>{p.money+=150;return 'Caja: cliente satisfecho +150€.'}]; return cards[Math.floor(Math.random()*cards.length)]()}
+function moveTo(pos,passGo=false){const p=state.players[state.turn]; if(passGo && pos<=p.pos){p.money+=200;log('<b>Salida:</b> '+p.name+' cobra 200€.')}; p.pos=pos;}
+function handleSpace(logArrival=true){const p=state.players[state.turn], s=state.spaces[p.pos]; if(logArrival) log('<b>'+p.name+'</b> cae en '+s.name+'.'); if(['prop','rail','utility'].includes(s.type)){ if(s.owner===null){status(`${p.name} puede comprar ${s.name} por ${s.price}€.`)} else if(s.owner!==state.turn){p.money-=s.rent;state.players[s.owner].money+=s.rent;status(`${p.name} paga ${s.rent}€ de alquiler a ${state.players[s.owner].name}.`);log('<b>Alquiler:</b> '+s.rent+'€ por '+s.name+'.')} else status(`${p.name} cae en su propia casilla.`)} else if(s.type==='tax'){p.money-=s.price;status(`${p.name} paga ${s.price}€ de impuesto.`);log('<b>Impuesto:</b> -'+s.price+'€.')} else if(s.type==='chance'){const msg=drawChance();status(msg);log('<b>'+msg+'</b>')} else if(s.type==='chest'){const msg=drawChest();status(msg);log('<b>'+msg+'</b>')} else if(s.name==='Ve a cárcel'){p.pos=10;p.money-=50;status(`${p.name} va a la cárcel y paga 50€.`);log('<b>Cárcel:</b> penalización de 50€.')} else if(s.name==='Salida'){status(`${p.name} está en salida.`)} else status(`${p.name} descansa en ${s.name}.`); checkGame(); render();}
+function checkGame(){state.players.forEach((p,i)=>{if(p.money<0){state.gameOver=true;const winner=state.players[1-i];status(`${winner.name} gana. ${p.name} se quedó sin dinero.`);log('<b>Fin:</b> '+winner.name+' gana la partida.')}})}
+function roll(){if(state.rolled||state.gameOver)return; const a=1+Math.floor(Math.random()*6), b=1+Math.floor(Math.random()*6); document.getElementById('d1').textContent=diceFaces[a-1]; document.getElementById('d2').textContent=diceFaces[b-1]; const p=state.players[state.turn]; const old=p.pos; p.pos=(p.pos+a+b)%40; if(p.pos<old){p.money+=200;log('<b>Salida:</b> '+p.name+' cobra 200€.')} state.rolled=true; state.lastRoll=a+b; handleSpace(); render();}
+function buy(){const p=state.players[state.turn], s=state.spaces[p.pos]; if(!['prop','rail','utility'].includes(s.type)||s.owner!==null||p.money<s.price)return; p.money-=s.price; s.owner=state.turn; status(`${p.name} compra ${s.name} por ${s.price}€.`); log('<b>Compra:</b> '+p.name+' compra '+s.name+'.'); render();}
+function endTurn(){if(!state.rolled||state.gameOver)return; state.rolled=false; state.turn=1-state.turn; status(`Turno de ${state.players[state.turn].name}.`); render();}
+function restart(){state.turn=0;state.rolled=false;state.gameOver=false;state.spaces=baseSpaces.map(s=>({...s,owner:null}));state.players=[{name:'Jugador A',money:1500,pos:0,jail:false},{name:'Jugador B',money:1500,pos:0,jail:false}];logEl.innerHTML='';status('Partida reiniciada. Turno de Jugador A.');render();}
+rollBtn.onclick=roll; buyBtn.onclick=buy; endBtn.onclick=endTurn; document.getElementById('restartBtn').onclick=restart; document.getElementById('startBtn').onclick=()=>{document.getElementById('intro').classList.add('hide');restart();}; document.getElementById('rulesBtn').onclick=()=>{alert('Reglas rápidas:\n1. Tira dados y avanza.\n2. Compra casillas libres.\n3. Si caes en casilla rival, pagas alquiler.\n4. Al pasar por Salida cobras 200€.\n5. Pierde quien se queda sin dinero.');};
+render();
+</script>
+</body>
+</html>

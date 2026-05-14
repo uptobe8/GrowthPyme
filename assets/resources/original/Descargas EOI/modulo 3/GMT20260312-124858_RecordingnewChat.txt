@@ -1,0 +1,23 @@
+00:00:34	Elena De Agustin Torrego:	Buenas tardes
+00:00:37	proyecto 10:	Buenas tardes
+00:18:54	AITOR RUANO PINA:	https://analytics.google.com/analytics/web/#/a204350142p361365413/reports/intelligenthome
+00:37:59	Elisa:	Todo eso es nuevo???
+Es que estoy en urgencias con el peque y estoy sin sonido
+00:40:35	Oliver Martín Benítez:	https://ads.google.com/aw/reporteditor?ocid=7960009569&workspaceId=0&euid=1082223506&__u=2349086594&uscid=7960009569&__c=4744669081&authuser=1
+01:14:23	Gema Ayala:	Perdona Aitor, tengo que entrar en una reunion
+02:07:45	AITOR RUANO PINA:	3 min y comezamos!
+02:12:37	Esther Vázquez Navarro:	PESENTE
+02:12:47	Esther Vázquez Navarro:	🤣
+02:19:29	AITOR RUANO PINA:	- Es obligatorio que el informe tenga minimo etre 25000 y 35000 caracteres.
+02:49:05	AITOR RUANO PINA:	<figure class="shot shot--desktop-a">
+  <img src="DC0132ED-0531-477F-8DCE-50A1C2F43029.jpeg" alt="Dashboard visual de negocio en formato desktop" />
+</figure>
+
+<figure class="shot shot--desktop-b">
+  <img src="C8A7F97D-B868-4D76-8634-DCAE9824CA93.png" alt="Dashboard visual de rendimiento en formato desktop" />
+</figure>
+
+<figure class="shot shot--mobile">
+  <img src="72737D88-EEAE-4D91-BC45-4E59424D845D.jpeg" alt="Dashboard visual en formato móvil" />
+</figure>
+03:25:40	Esther Vázquez Navarro:	Ciao

@@ -1,0 +1,32 @@
+00:24:28	Eva Biosca Echenique:	Ohhhh en la playa estás
+00:24:30	Eva Biosca Echenique:	jajaja
+00:24:43	Eva Biosca Echenique:	Hola
+00:24:45	Esther:	Hello
+00:26:30	Eva Biosca Echenique:	Ya queda poco
+00:27:02	Elena Martinez - Técnico:	Estoy contactando con los que no se han conectado por si se les ha pasado la hora
+00:36:08	Aitor Ruano:	Diseño web: https://chatgpt.com/apps/aris---digital-consultant/asdk_app_69d7cd7bb2e4819182084400fd66875d
+00:36:33	Aitor Ruano:	Para publicar webs y landing online gratis https://chatgpt.com/apps/github/connector_76869538009648d5b282a4bb21c3d157
+00:38:29	Aitor Ruano:	Github Pages
+01:06:40	Patri Ni:	con que app de gpt hace Aitor eso??
+01:09:04	Eva Biosca Echenique:	Quiero eso por favor!
+01:33:11	Eva Biosca Echenique:	Jajajaja
+01:39:44	Aitor Ruano:	https://chatgpt.com/apps/code-tytor--python/asdk_app_695ff43f74488191a418ea8ac4f0f437
+01:40:09	Aitor Ruano:	https://chatgpt.com/apps/yepcode/asdk_app_69a720e1c9608191b2f10597547b6710
+02:15:18	Aitor Ruano:	4-5 y espezamos
+02:27:57	Aitor Ruano:	https://chatgpt.com/apps/code-tytor--python/asdk_app_695ff43f74488191a418ea8ac4f0f437
+02:38:06	Eva Biosca Echenique:	Arggg yo le he pedido de todo
+02:39:43	Eva Biosca Echenique:	Le he pedido esto: Necesito que me hagas una app de gestión de turismo rural de casas de utande www.casasdeutande.com. Quiero que en la app haya de todo, conexión con CRM para gestionar clientes, gestión de reservas directas, gestión de chatbot con información sobre casas, gestión de limpieza y de trabajo de jardinero, conexión con empresas insumos de baño, pellets para calefacción y cestas de bienvenida o de venta con productos de la zona, contabilidad de la empresa con generación de facturas, marketing del negocio con conexión a redes sociales y conexión con otros negocios como Spa Brihuega, senderismo, curso de estrellas, restauración de muebles, clases de cocina, clases de yoga, etc.
+02:39:50	Eva Biosca Echenique:	Me lo está haciendo jajaja
+02:40:29	Aitor Ruano:	Dámelo en html en el chat
+02:45:25	David Muñoz:	La app es créalo
+02:45:30	Aitor Ruano:	https://chatgpt.com/apps/code-tytor--python/asdk_app_695ff43f74488191a418ea8ac4f0f437
+02:45:42	Aitor Ruano:	tytor--python
+02:46:24	Eva Biosca Echenique:	Bajé el pistón y ahora solo una app de gestión de reservas
+02:47:09	Eva Biosca Echenique:	gracias
+02:48:16	David Muñoz:	[Full message cannot be displayed on this version]
+03:02:03	Aitor Ruano:	Necesito que me hagas una app en html descargable, para cuando hacemos un pedido de ropa o materiales como sudaderas, camisetas, sables, espadas, etc de mi escuela de kunfu... La idea es que cuando les mandemos a nuestros alumos la app por whatsapp por si quieren pedir algo, puedan hacerlo en la app. Debe tener la capacidad de descargar los pedidos y poner stock maximo. Ademas, deja ya la app rellena con datos de ejemplo, para ver como funcionaria con mis datos despues al subirlos. Te subo mi logo para la imagen corpoorativa,
+03:09:07	Eva Biosca Echenique:	file:///Users/evabioscaechenique/Downloads/preview.html
+03:10:04	Aitor Ruano:	preview.html
+03:20:14	ESTHER VAZQUEZ:	Duda, me da el código, ahora que hago con el??😁
+03:22:51	ESTHER VAZQUEZ:	Lo he descargado y me da una cosa muy rara
+03:28:35	Eva Biosca Echenique:	Gracias
